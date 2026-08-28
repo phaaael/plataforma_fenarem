@@ -1,0 +1,1 @@
+export function YouAreHereMarker(){return <g className="map-you-are-here"><path d="M130 800a20 20 0 1 0 40 0c0-25-20-43-20-43s-20 18-20 43"/><circle cx="150" cy="795" r="7"/><text x="150" y="845">VOCÊ ESTÁ AQUI</text></g>}

@@ -1,0 +1,80 @@
+"use client";
+
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Accessibility, ArrowLeft, Building2, Expand, Handshake, Home, MapPin, Minimize2, Minus, Plus, Search, Sofa, Ticket, Utensils, X } from "lucide-react";
+import { FenaremMap } from "@/components/map/FenaremMap";
+import { getExhibitors, getKiosks, getLocations } from "@/services/map-data";
+import { searchExhibitors } from "@/lib/search";
+import { track } from "@/lib/analytics";
+import type { Exhibitor, MapLocation, Point } from "@/types/map";
+import { specialAreas, stands, type MapArea } from "@/data/fairMap";
+
+type Focus = { x:number; y:number; scale:number };
+const initialFocus:Focus={x:0,y:0,scale:1};
+const iconMap={sofa:Sofa,ticket:Ticket,handshake:Handshake,search:Search,accessibility:Accessibility,utensils:Utensils};
+const hiddenQuickAccessIds=new Set(["deposito","elevadores","acesso","palco","area-exposicao","escada-rolante"]);
+
+function ExhibitorLogo({exhibitor}:{exhibitor:Exhibitor}){
+ const area=stands.find(item=>(item.companyId??item.id)===exhibitor.id);if(!area)return <div className="result-logo result-logo-fallback" aria-hidden="true">{exhibitor.name.slice(0,2)}</div>;
+ const xs=area.points.map(point=>point.x),ys=area.points.map(point=>point.y),x=Math.min(...xs),y=Math.min(...ys),width=Math.max(...xs)-x,height=Math.max(...ys)-y;
+ const cx=x+width/2,cy=y+height/2,start=area.points[0],edge=area.points[1],sideEdge=area.points[3],standWidth=Math.hypot(edge.x-start.x,edge.y-start.y),standHeight=Math.hypot(sideEdge.x-start.x,sideEdge.y-start.y),side=Math.max(standWidth,standHeight)*1.08,angle=Math.atan2(edge.y-start.y,edge.x-start.x)*180/Math.PI;
+ return <div className="result-logo" aria-hidden="true"><svg viewBox={`${cx-side/2} ${cy-side/2} ${side} ${side}`} preserveAspectRatio="xMidYMid meet"><g transform={`rotate(${-angle} ${cx} ${cy})`}><image href="/reference/fenarem-reference.png" x="0" y="0" width="8000" height="4500"/></g></svg></div>;
+}
+
+export function InteractiveMap(){
+ const exhibitors=getExhibitors(), locations=getLocations(), kiosks=getKiosks();
+ const [query,setQuery]=useState(""); const [searchOpen,setSearchOpen]=useState(false); const [suggestions,setSuggestions]=useState<Exhibitor[]>([]); const [selected,setSelected]=useState<Exhibitor|null>(null); const [place,setPlace]=useState<MapLocation|null>(null);
+ const [catalog,setCatalog]=useState<Exhibitor|null>(null); const [focus,setFocus]=useState<Focus>(initialFocus); const [warning,setWarning]=useState(false);
+ const [fullscreen,setFullscreen]=useState(false); const [dragging,setDragging]=useState(false); const [draft,setDraft]=useState<{start:Point;end:Point}|null>(null); const appShell=useRef<HTMLElement>(null); const viewport=useRef<HTMLDivElement>(null); const drag=useRef<{clientX:number;clientY:number;focus:Focus}|null>(null); const dragMoved=useRef(false); const moveFrame=useRef<number|null>(null); const pendingFocus=useRef<Focus|null>(null);
+ const params=typeof window!=="undefined"?new URLSearchParams(window.location.search):new URLSearchParams(); const debug=params.get("mapDebug")==="true";
+ const kiosk=kiosks.find(k=>k.id===(params.get("kiosk")??"entrada"))??kiosks[0];
+ const results=useMemo(()=>searchExhibitors(exhibitors,query),[exhibitors,query]);
+ const mapIsMoved=focus.scale!==initialFocus.scale||Math.abs(focus.x)>0.01||Math.abs(focus.y)>0.01;
+ const refreshSuggestions=()=>{setSuggestions([...exhibitors].sort(()=>Math.random()-.5).slice(0,5));setSearchOpen(true)};
+ const visibleResults=query?results:suggestions;
+ const reset=useCallback(()=>{setQuery("");setSearchOpen(false);setSelected(null);setPlace(null);setCatalog(null);setFocus(initialFocus);setWarning(false);track("map_reset");},[]);
+ const bounded=(next:Focus):Focus=>{const scale=Math.max(1,Math.min(3,next.scale));const limit=(scale-1)*50;return {scale,x:Math.max(-limit,Math.min(limit,next.x)),y:Math.max(-limit,Math.min(limit,next.y))}};
+ const center=(h:{x:number;y:number;width:number;height:number})=>{const scale=Math.min(3,Math.max(2.15,30/Math.max(h.width,h.height)));const cx=h.x+h.width/2,cy=h.y+h.height/2;setFocus(bounded({x:(50-cx)*scale,y:(50-cy)*scale,scale}))};
+ const zoom=(amount:number)=>setFocus(current=>bounded({...current,scale:current.scale+amount}));
+ const areaHotspot=(area:MapArea)=>{const xs=area.points.map(point=>point.x/65),ys=area.points.map(point=>point.y/45);return {x:Math.min(...xs),y:Math.min(...ys),width:Math.max(...xs)-Math.min(...xs),height:Math.max(...ys)-Math.min(...ys)}};
+ const chooseExhibitor=(e:Exhibitor,source:"result"|"stand")=>{const geometry=[...stands,...specialAreas].find(area=>area.companyId===e.id);const selectedExhibitor=geometry?{...e,hotspot:areaHotspot(geometry)}:e;setSelected(selectedExhibitor);setPlace(null);setQuery("");setSearchOpen(false);center(selectedExhibitor.hotspot);track(source==="result"?"exhibitor_result_clicked":"exhibitor_stand_clicked",{id:e.id});};
+ const chooseLocation=(l:MapLocation)=>{setPlace(l);setSelected(null);center(l.hotspot);track("location_clicked",{id:l.id});};
+ const chooseArea=(area:MapArea)=>{const exhibitor=area.type==="stand"?exhibitors.find(item=>item.id===(area.companyId??area.id)):undefined;if(exhibitor){chooseExhibitor(exhibitor,"stand");return;}chooseLocation({id:area.id,name:area.name,shortName:area.code??area.name,icon:area.type==="lounge"?"sofa":"building",kind:area.type,hotspot:areaHotspot(area)})};
+ useEffect(()=>{track("map_opened");},[]);
+ useEffect(()=>()=>{if(moveFrame.current!==null)cancelAnimationFrame(moveFrame.current)},[]);
+ useEffect(()=>{const sync=()=>setFullscreen(document.fullscreenElement===appShell.current);document.addEventListener("fullscreenchange",sync);return()=>document.removeEventListener("fullscreenchange",sync)},[]);
+ useEffect(()=>{const close=(event:KeyboardEvent)=>{if(event.key!=="Escape")return;if(catalog){setCatalog(null);return}if(selected||place){setSelected(null);setPlace(null)}};window.addEventListener("keydown",close);return()=>window.removeEventListener("keydown",close)},[catalog,selected,place]);
+ useEffect(()=>{let idle:ReturnType<typeof setTimeout>,warn:ReturnType<typeof setTimeout>;const arm=()=>{clearTimeout(idle);clearTimeout(warn);setWarning(false);if(!mapIsMoved)return;warn=setTimeout(()=>setWarning(true),50000);idle=setTimeout(()=>{setFocus(initialFocus);setWarning(false)},60000)};const events=["pointerdown","keydown","wheel","touchstart"] as const;events.forEach(e=>window.addEventListener(e,arm,{passive:true}));arm();return()=>{clearTimeout(idle);clearTimeout(warn);events.forEach(e=>window.removeEventListener(e,arm));};},[mapIsMoved]);
+ const scheduleMove=(next:Focus)=>{pendingFocus.current=next;if(moveFrame.current!==null)return;moveFrame.current=requestAnimationFrame(()=>{if(pendingFocus.current)setFocus(pendingFocus.current);moveFrame.current=null})};
+ const pointerDown=(ev:React.PointerEvent)=>{dragMoved.current=false;if(debug&&ev.shiftKey&&viewport.current){const r=viewport.current.getBoundingClientRect();setDraft({start:{x:(ev.clientX-r.left)/r.width*100,y:(ev.clientY-r.top)/r.height*100},end:{x:(ev.clientX-r.left)/r.width*100,y:(ev.clientY-r.top)/r.height*100}});ev.currentTarget.setPointerCapture(ev.pointerId);return;}drag.current={clientX:ev.clientX,clientY:ev.clientY,focus};setDragging(true);ev.currentTarget.setPointerCapture(ev.pointerId)};
+ const pointerMove=(ev:React.PointerEvent)=>{if(draft&&viewport.current){const r=viewport.current.getBoundingClientRect();setDraft({...draft,end:{x:(ev.clientX-r.left)/r.width*100,y:(ev.clientY-r.top)/r.height*100}});return;}const active=drag.current;if(active&&viewport.current){const dx=ev.clientX-active.clientX,dy=ev.clientY-active.clientY;if(Math.hypot(dx,dy)>6)dragMoved.current=true;const r=viewport.current.getBoundingClientRect();scheduleMove(bounded({...active.focus,x:active.focus.x+dx/r.width*100,y:active.focus.y+dy/r.height*100}))}};
+ const endDrag=()=>{drag.current=null;setDragging(false)};
+ const draftBox=draft&&{x:Math.min(draft.start.x,draft.end.x),y:Math.min(draft.start.y,draft.end.y),width:Math.abs(draft.end.x-draft.start.x),height:Math.abs(draft.end.y-draft.start.y)};
+ const toggleFullscreen=async()=>{if(!document.fullscreenElement){await appShell.current?.requestFullscreen();setFocus(initialFocus)}else{await document.exitFullscreen();setFocus(initialFocus)}};
+ return <main ref={appShell} className="app-shell">
+  <header className="topbar"><div className="brand-mark">✦</div><div><strong>FENAREM</strong><span>FEIRA DE NEGÓCIOS</span></div><div className="top-title"><span>MAPA INTERATIVO</span><small>Encontre marcas, stands e serviços</small></div><button className="home-button" onClick={reset}><Home/> CENTRALIZAR MAPA</button></header>
+  <section className="workspace">
+   <div className="map-panel">
+    <div className="map-caption"><div><h1>Onde você quer chegar?</h1></div><div className="map-status"><span className="live-dot"/> MAPA INTERATIVO</div></div>
+    <div ref={viewport} className="map-viewport" onPointerDown={pointerDown} onPointerMove={pointerMove} onPointerUp={endDrag} onPointerCancel={endDrag} onWheel={e=>{e.preventDefault();zoom(e.deltaY<0?.2:-.2)}}>
+     <div className={`map-stage${dragging?" dragging":""}`} style={{transform:`translate(${focus.x}%,${focus.y}%) scale(${focus.scale})`}}>
+      <FenaremMap exhibitors={exhibitors} locations={locations} selected={selected} selectedLocation={place} onSelect={e=>chooseExhibitor(e,"stand")} onLocation={chooseLocation} onArea={chooseArea} mapDebug={debug}/>
+      {kiosk.id!=="entrada"&&<div className="you-are-here" style={{left:`${kiosk.location.x}%`,top:`${kiosk.location.y}%`}}><MapPin/><b>VOCÊ ESTÁ AQUI</b></div>}
+      {draftBox&&<div className="draft-box" style={draftBox}/>} 
+     </div>
+     <div className="zoom-controls" aria-label="Controles do mapa" onPointerDown={event=>event.stopPropagation()} onPointerMove={event=>event.stopPropagation()} onPointerUp={event=>event.stopPropagation()} onWheel={event=>event.stopPropagation()}><button onClick={()=>zoom(.3)} aria-label="Aumentar zoom" title="Aumentar zoom"><Plus/></button><button onClick={()=>zoom(-.3)} aria-label="Diminuir zoom" title="Diminuir zoom"><Minus/></button><button onClick={toggleFullscreen} aria-label={fullscreen?"Sair da tela cheia":"Abrir em tela cheia"} title={fullscreen?"Sair da tela cheia":"Tela cheia"}>{fullscreen?<Minimize2/>:<Expand/>}</button></div>
+     {debug&&draftBox&&<div className="debug-banner">Hotspot legado <button onClick={()=>navigator.clipboard.writeText(JSON.stringify(draftBox,null,2))}>COPIAR</button></div>}
+    </div>
+   </div>
+   <aside className="side-panel">
+    <div className="search-block" onBlur={event=>{if(!event.currentTarget.contains(event.relatedTarget as Node))setSearchOpen(false)}}><label htmlFor="exhibitor-search">BUSCAR EXPOSITOR</label><div className="search-input"><Search/><input id="exhibitor-search" value={query} onFocus={()=>{if(!query&&!searchOpen)refreshSuggestions()}} onClick={()=>{if(!query)refreshSuggestions()}} onChange={e=>{setQuery(e.target.value);setSearchOpen(true);if(e.target.value)track("exhibitor_search",{query:e.target.value})}} placeholder="Marca, categoria ou stand" autoComplete="off" role="combobox" aria-autocomplete="list" aria-expanded={searchOpen} aria-controls="exhibitor-results"/>{query&&<button onClick={()=>{setQuery("");refreshSuggestions()}} aria-label="Limpar busca"><X/></button>}</div>
+    {searchOpen&&<div id="exhibitor-results" className="results" aria-live="polite">{!query&&<div className="suggestions-heading"><strong>Sugestões para visitar</strong><span>Uma seleção diferente a cada abertura</span></div>}{visibleResults.length?visibleResults.map(e=><button key={e.id} onClick={()=>chooseExhibitor(e,"result")}><ExhibitorLogo exhibitor={e}/><span><strong>{e.name}</strong>{e.category&&<small>{e.category}</small>}<b>STAND {e.stand}<em>Ver no mapa</em></b></span></button>):<p>Nenhum expositor encontrado.<small>Tente buscar por marca, categoria ou número do stand.</small></p>}</div>}</div>
+    <div className="quick"><div className="section-heading"><h2>Acesso rápido</h2></div><div className="quick-grid">{locations.filter(l=>!hiddenQuickAccessIds.has(l.id)).map(l=>{const Icon=iconMap[l.icon as keyof typeof iconMap]??Building2;return <button key={l.id} aria-pressed={place?.id===l.id} onClick={()=>chooseLocation(l)} className={place?.id===l.id?"selected":""}><Icon/><span>{l.shortName}</span></button>})}</div></div>
+    <div className="orientation"><MapPin/><div><b>Você está em</b><span>{kiosk.name}</span></div><small>Use o marcador laranja no mapa para se orientar.</small></div>
+   </aside>
+  </section>
+  {(selected||place)&&<div className={`details-card${selected?" exhibitor-card":place?.kind!=="stand"?" location-card":""}`} role="dialog" aria-modal="false" aria-label={selected?`Informações de ${selected.name}`:`Informações de ${place!.name}`}><button className="close" onClick={()=>{setSelected(null);setPlace(null)}} aria-label="Fechar detalhes" title="Fechar"><X/></button>{selected?<><div className="panel-heading"><span>STAND {selected.stand}</span><h2>{selected.name}</h2>{selected.category&&<p>{selected.category}</p>}</div><div className="stand-code"><span>LOCALIZAÇÃO NO EVENTO</span><strong>STAND {selected.stand}</strong></div><div className="panel-actions">{selected.catalogUrl?<button className="primary" onClick={()=>{setCatalog(selected);track("catalog_opened",{id:selected.id})}}>ACESSAR CATÁLOGO</button>:<button className="primary" disabled>CATÁLOGO INDISPONÍVEL</button>}</div></>:<><span className="eyebrow">LOCALIZAÇÃO</span><div className="detail-icon"><MapPin/></div><h2>{place!.name}</h2>{place!.kind==="stand"&&<b className="stand-label">STAND {place!.shortName}</b>}<p>{place!.kind==="stand"?"Stand participante da FENAREM.":"Área localizada neste ponto da feira."}</p>{place!.kind==="stand"&&<><small>Os dados comerciais e o catálogo deste expositor ainda não foram cadastrados.</small><button className="primary" onClick={()=>center(place!.hotspot)}>CENTRALIZAR NO MAPA</button></>}</>}<button className="back-link" onClick={()=>{setSelected(null);setPlace(null);setFocus(initialFocus)}}><ArrowLeft/> Voltar ao mapa</button></div>}
+  {catalog&&<div className="catalog-backdrop" role="dialog" aria-modal="true" aria-label={`Catálogo ${catalog.name}`} onMouseDown={(event)=>{if(event.target===event.currentTarget)setCatalog(null)}}><div className="catalog-window"><header><div><span>CATÁLOGO</span><strong>{catalog.name}</strong></div><button onClick={()=>setCatalog(null)} aria-label="Fechar catálogo"><X/></button></header><iframe src={catalog.catalogUrl!} title={`Catálogo ${catalog.name}`} loading="eager" referrerPolicy="no-referrer-when-downgrade"/></div></div>}
+  {warning&&<div className="idle-warning" role="status" aria-live="assertive"><span>O mapa será centralizado em 10 segundos.</span><button onClick={()=>setWarning(false)}>CONTINUAR USANDO</button></div>}
+ </main>
+}

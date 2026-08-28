@@ -1,0 +1,4 @@
+import type { Exhibitor } from "@/types/map";
+export function normalize(value:string) { return value.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]/g," ").replace(/\s+/g," ").trim(); }
+function distance(a:string,b:string) { const m=Array.from({length:b.length+1},(_,i)=>i); for(let i=1;i<=a.length;i++){let prev=m[0];m[0]=i;for(let j=1;j<=b.length;j++){const old=m[j];m[j]=Math.min(m[j]+1,m[j-1]+1,prev+(a[i-1]===b[j-1]?0:1));prev=old;}}return m[b.length]; }
+export function searchExhibitors(items:Exhibitor[], raw:string) { const q=normalize(raw); if(!q)return []; return items.map(item=>{const fields=[item.name,item.stand,item.category??"",...(item.aliases??[])].map(normalize); const exact=fields.some(f=>f.includes(q)); const fuzzy=q.length>3&&fields.some(f=>f.split(" ").some(word=>distance(word,q)<=1)); return {item,score:exact?0:fuzzy?1:9};}).filter(x=>x.score<9).sort((a,b)=>a.score-b.score).map(x=>x.item); }

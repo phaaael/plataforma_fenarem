@@ -1,0 +1,2 @@
+export type AnalyticsEvent = "map_opened"|"exhibitor_search"|"exhibitor_result_clicked"|"exhibitor_stand_clicked"|"catalog_opened"|"location_clicked"|"map_reset";
+export function track(event:AnalyticsEvent, data:Record<string,string>={}) { if(typeof window!=="undefined") window.dispatchEvent(new CustomEvent("fenarem:analytics",{detail:{event,data,kiosk:new URLSearchParams(location.search).get("kiosk")??"entrada",at:Date.now()}})); }
