@@ -1,23 +1,23 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import type { Exhibitor, MapLocation } from "@/types/map";
 import { specialAreas, stands, type MapArea } from "@/data/fairMap";
 import { MapDebugEditor } from "./MapDebugEditor";
 import { MapInteraction } from "./MapInteraction";
 import { StandPolygon } from "./StandPolygon";
 
-const FALLBACK_SIZE = { width: 8000, height: 4500 };
-const MAP_VIEWBOX = { width: 6500, height: 4500 };
+const MAP_IMAGE_SIZE = { width: 8000, height: 4500 };
+const MAP_VIEWBOX = { width: 8000, height: 4500 };
 const hiddenLocationIds = new Set(["deposito", "escada-rolante"]);
 
 export function FenaremMap({ exhibitors, locations, selected, selectedLocation, onSelect, onLocation, onArea, mapDebug = false }: {
   exhibitors: Exhibitor[]; locations: MapLocation[]; selected: Exhibitor | null; selectedLocation: MapLocation | null;
   onSelect: (item: Exhibitor) => void; onLocation: (item: MapLocation) => void; onArea: (area: MapArea) => void; mapDebug?: boolean;
 }) {
-  const [naturalSize, setNaturalSize] = useState(FALLBACK_SIZE);
+
   const areas = useMemo(() => [...stands, ...specialAreas], []);
-  const selectedAreaId = selected ? areas.find((area) => area.companyId === selected.id || area.id === selected.id)?.id : selectedLocation?.id;
+  const selectedAreaId = selected ? areas.find((area) => area.companyId === selected.id || area.id === selected.id || area.code === selected.stand)?.id : selectedLocation?.id;
   const exactCompanyIds = new Set(areas.filter((area)=>area.type==="stand").map((area) => area.companyId??area.id));
   const exactLocationIds = new Set(areas.filter((area) => !area.companyId).map((area) => area.id));
   const legacyExhibitors = exhibitors.filter((item) => !exactCompanyIds.has(item.id));
@@ -36,11 +36,8 @@ export function FenaremMap({ exhibitors, locations, selected, selectedLocation, 
     if(location)onLocation(location.item);
   };
   return <div className="map-document">
-    <img className="map-natural-size-probe" src="/reference/fenarem-reference.png" alt="" aria-hidden="true"
-      onLoad={(event) => setNaturalSize({ width: event.currentTarget.naturalWidth, height: event.currentTarget.naturalHeight })} />
     <svg className="fenarem-map-overlay" viewBox={`0 0 ${MAP_VIEWBOX.width} ${MAP_VIEWBOX.height}`} preserveAspectRatio="xMidYMid meet" aria-label="Planta oficial interativa da FENAREM" onClick={pickLegacy}>
-      <image href="/reference/fenarem-reference.png" x="0" y="0" width={naturalSize.width} height={naturalSize.height} preserveAspectRatio="xMinYMin meet" />
-      <g className="reference-editorial-mask" aria-hidden="true"><rect x="3500" y="430" width="5000" height="720"/><rect x="4850" y="1300" width="3500" height="1650"/></g>
+      <image href="/reference/fenarem-reference.svg" x="0" y="0" width={MAP_IMAGE_SIZE.width} height={MAP_IMAGE_SIZE.height} preserveAspectRatio="xMinYMin meet" />
       <MapInteraction exhibitors={legacyExhibitors} locations={legacyLocations} selected={selected} selectedLocation={selectedLocation} onSelect={onSelect} onLocation={onLocation}/>
       {areas.map((area) => <StandPolygon key={area.id} area={area} selected={selectedAreaId === area.id} onSelect={onArea} />)}
     </svg>
