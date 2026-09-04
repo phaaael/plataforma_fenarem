@@ -134,7 +134,7 @@ button:focus-visible,input:focus-visible,[role="button"]:focus-visible{outline:3
 .result-logo{width:42px;height:42px;aspect-ratio:1;flex:0 0 42px;overflow:hidden;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--text)}
 
 /* Movimento do mapa sincronizado com a tela. */
-.map-stage{transition:transform .32s cubic-bezier(.22,1,.36,1)}
+.map-stage{transition:transform .32s cubic-bezier(.22,1,.36,1);will-change:auto}
 .map-stage.dragging{transition:none}
 
 .virtual-keyboard{position:fixed;z-index:70;left:50%;bottom:18px;transform:translateX(-50%);width:min(1040px,calc(100vw - 36px));padding:14px 18px 18px;border:1px solid #d4d1cb;border-radius:18px;background:#f4f3ef;box-shadow:0 24px 80px rgba(0,0,0,.42);user-select:none}.keyboard-top{height:36px;display:flex;align-items:center;justify-content:space-between;padding:0 3px 8px}.keyboard-top strong{font-size:11px;letter-spacing:1.1px;color:#555}.keyboard-top button{display:flex;align-items:center;gap:7px;border:0;background:transparent;font-size:11px;font-weight:900}.keyboard-top svg{width:18px}.keyboard-row{display:flex;justify-content:center;gap:8px;margin-top:8px}.keyboard-row>button{flex:0 1 82px;height:54px;border:1px solid #ccc8c1;border-radius:8px;background:#fff;color:#171717;font-size:18px;font-weight:900;box-shadow:0 2px 0 #c7c3bc;touch-action:manipulation}.keyboard-row>button:active{transform:translateY(2px);box-shadow:none;background:#fff0e7}.keyboard-actions>button{font-size:12px}.keyboard-actions .keyboard-clear{background:#e4e1dc}.keyboard-actions .keyboard-space{flex-basis:280px}.keyboard-actions .keyboard-done{background:var(--fenarem-orange);border-color:var(--fenarem-orange);color:#fff}.virtual-keyboard~.idle-warning{bottom:390px}

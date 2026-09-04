@@ -36,7 +36,7 @@ export function FenaremMap({ exhibitors, locations, selected, selectedLocation, 
     if(location)onLocation(location.item);
   };
   return <div className="map-document">
-    <svg className="fenarem-map-overlay" viewBox={`0 0 ${MAP_VIEWBOX.width} ${MAP_VIEWBOX.height}`} preserveAspectRatio="xMidYMid meet" aria-label="Planta oficial interativa da FENAREM" onClick={pickLegacy}>
+    <svg className="fenarem-map-overlay" viewBox={`0 0 ${MAP_VIEWBOX.width} ${MAP_VIEWBOX.height}`} preserveAspectRatio="xMidYMid meet" shapeRendering="geometricPrecision" textRendering="geometricPrecision" aria-label="Planta oficial interativa da FENAREM" onClick={pickLegacy}>
       <image href="/reference/fenarem-reference.svg" x="0" y="0" width={MAP_IMAGE_SIZE.width} height={MAP_IMAGE_SIZE.height} preserveAspectRatio="xMinYMin meet" />
       <MapInteraction exhibitors={legacyExhibitors} locations={legacyLocations} selected={selected} selectedLocation={selectedLocation} onSelect={onSelect} onLocation={onLocation}/>
       {areas.map((area) => <StandPolygon key={area.id} area={area} selected={selectedAreaId === area.id} onSelect={onArea} />)}
