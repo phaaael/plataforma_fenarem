@@ -77,7 +77,7 @@ export const stands: MapArea[] = [
   { id: "X18", code: "B29", name: "Intelli", catalogUrl: "https://lojaredemaxxi.com.br/marcas/intelli-ind-term-eletricos-ltda", type: "stand", precision: "verified", points: [{ x: 1074, y: 2604 }, { x: 1220, y: 2502 }, { x: 1324, y: 2649 }, { x: 1177, y: 2752 }] },
   { id: "X19", code: "D03", name: "Tekbond", catalogUrl: "https://lojaredemaxxi.com.br/marcas/saint-gobain-do-brasil-produtos-industriais-e-para-construca", type: "stand", precision: "verified", points: [{ x: 2724, y: 3317 }, { x: 2988, y: 3134 }, { x: 3134, y: 3343 }, { x: 2869, y: 3527 }] },
   { id: "X20", code: "P04", name: "Almata", catalogUrl: "https://lojaredemaxxi.com.br/marcas/baungarten-industria-e-comercio-ltda", type: "stand", precision: "verified", points: [{ x: 2293, y: 3317 }, { x: 2501, y: 3171 }, { x: 2610, y: 3326 }, { x: 2401, y: 3472 }] },
-  { id: "X21", code: "D02", name: "Plastilit", catalogUrl: "https://lojaredemaxxi.com.br/marcas/plastilit-produtos-plasticos-do-parana-sa", type: "stand", precision: "verified", points: [{ x: 3134, y: 3345 }, { x: 3398, y: 3162 }, { x: 3544, y: 3371 }, { x: 3280, y: 3555 }] },
+  { id: "X21", code: "D02", name: "Polifort", catalogUrl: "https://lojaredemaxxi.com.br/marcas/plastilit-produtos-plasticos-do-parana-sa", type: "stand", precision: "verified", points: [{ x: 3134, y: 3345 }, { x: 3398, y: 3162 }, { x: 3544, y: 3371 }, { x: 3280, y: 3555 }] },
   { id: "X22", code: "P05", name: "Egaplast", catalogUrl: "https://lojaredemaxxi.com.br/marcas/egaplast-artefatos-e-comercio-de-plasticos-ltda", type: "stand", precision: "verified", points: [{ x: 2081, y: 3465 }, { x: 2290, y: 3319 }, { x: 2398, y: 3474 }, { x: 2189, y: 3620 }] },
 ];
 
