@@ -155,15 +155,101 @@ Para criar outro projeto manualmente:
 
 Ao alterar a planta, preserve a ordem dos vértices e confira visualmente clique, toque, seleção e alinhamento em mais de uma resolução.
 
-### Sincronização do catálogo Kian
+## Estudo de caso: catálogo interno da Kian
 
-O catálogo exibido aos visitantes é um snapshot local: abrir a página não consulta a Loja Kian. Uma rotina do GitHub Actions compara a categoria oficial a cada seis horas e só cria um commit — disparando novo deploy — quando algum produto for incluído, removido ou alterado.
+### Problema e decisão técnica
 
-A sincronização também pode ser executada sob demanda:
+O stand da Kian precisava abrir seu catálogo dentro do mesmo modal dos outros expositores. A loja oficial, porém, envia `X-Frame-Options: SAMEORIGIN`, cabeçalho que faz o navegador recusar a página em um `iframe` de outro domínio. React, Next.js e CSS não conseguem alterar essa política.
+
+Um proxy que removesse o cabeçalho foi descartado: além de contornar uma proteção deliberada, seria frágil diante dos scripts, cookies e rotas da VTEX. Também aumentaria o consumo da Vercel e o risco operacional durante o evento.
+
+### Solução aplicada
+
+Foi criada a rota `/catalogo/kian`, alimentada pela API pública oficial da categoria **Últimas Oportunidades — Até 50% OFF**. Os dados são normalizados e gravados em `src/data/kian-products.json`.
+
+```mermaid
+flowchart LR
+    A[API pública Kian] -->|a cada 6 horas| B[GitHub Actions]
+    B --> C[Sincronização]
+    C --> D{Conteúdo mudou?}
+    D -->|Não| E[Nenhuma ação]
+    D -->|Sim| F[Atualiza snapshot]
+    F --> G[Commit automático]
+    G --> H[Deploy Vercel]
+    H --> I[Catálogo estático]
+```
+
+O acesso do visitante nunca consulta a API da Kian. A interface lê somente o snapshot incluído no build.
+
+### Por que isso agrega valor
+
+- **Desempenho previsível:** nenhuma requisição à API externa durante a navegação.
+- **Resiliência:** se a loja ficar indisponível, o último catálogo válido continua no ar.
+- **Menor latência:** os dados são entregues com a aplicação pela Vercel.
+- **Menor carga externa:** o público do evento não multiplica chamadas à loja.
+- **Deploy orientado a mudanças:** só existe novo build quando o conteúdo muda.
+- **Histórico auditável:** alterações ficam registradas no Git.
+- **Experiência consistente:** o visitante permanece dentro da Plataforma FENAREM.
+- **Separação de responsabilidades:** a automação coleta; a interface apresenta.
+
+Como peça de portfólio, a solução demonstra integração com API de terceiros, normalização de dados, cache persistente, automação CI/CD, tratamento de restrições de segurança e otimização para um ambiente real.
+
+### Como a sincronização funciona
+
+O script `scripts/sync-kian-catalog.mjs`:
+
+1. Consulta a primeira página da categoria na API VTEX.
+2. Lê o cabeçalho `resources` para descobrir o total de produtos.
+3. Divide o catálogo em lotes de 50, limite da API.
+4. Busca os lotes restantes em paralelo.
+5. Consulta a ordenação oficial `OrderByTopSaleDESC`.
+6. Marca os 24 primeiros itens como mais vendidos.
+7. Mantém somente ID, nome, referência, descrição, categoria, link, imagem, texto alternativo e indicador de mais vendido.
+8. Descarta preços, tokens de compra, pagamentos e dados sem uso na interface.
+9. Gera um JSON determinístico: se a origem não mudou, o arquivo permanece idêntico.
+
+A automação `.github/workflows/sync-kian-catalog.yml` roda a cada seis horas:
+
+- sem diferenças, encerra sem commit e sem deploy;
+- com diferenças, atualiza o snapshot e cria `chore: sincroniza catálogo da Kian`;
+- se a API falhar, o snapshot publicado continua intacto.
+
+Esse mecanismo funciona como cache persistente versionado, não como cache temporário do navegador ou de um processo.
+
+### Interface e desempenho
+
+O catálogo tem fundo branco e usa o logo vetorial oficial da Kian hospedado em `public/brands/kian.svg`. Os cards exibem imagem, nome, código, categoria e descrição, sem preços.
+
+O filtro **Mais vendidos** funciona localmente e não chama a API. O CSS exibe somente os itens com `bestSeller`, e a contagem alterna entre o total do catálogo e os 24 líderes de venda.
+
+As imagens usam `next/image`, carregamento sob demanda e uma origem restrita no `next.config.ts`. Assim, somente imagens próximas da área visível são carregadas, em dimensões adequadas ao dispositivo.
+
+### Atualização e recuperação
+
+A operação normal é automática. Em uma necessidade excepcional, a sincronização completa pode ser disparada pelo GitHub Actions ou localmente:
 
 ```bash
 pnpm catalog:kian
 ```
+
+Também existem comandos pontuais para diagnóstico ou recuperação:
+
+```bash
+# Atualiza ou inclui um produto pelo ID
+pnpm catalog:kian -- --id=1190
+
+# Remove um produto do snapshot
+pnpm catalog:kian -- --remove=1190
+```
+
+Esses comandos não são necessários no uso cotidiano; a sincronização completa agendada é a fonte principal de manutenção.
+
+### Trade-offs
+
+- Uma mudança na loja pode levar até seis horas para chegar ao catálogo.
+- “Mais vendidos” representa os 24 primeiros itens da ordenação oficial da VTEX no momento da sincronização.
+- As imagens permanecem na infraestrutura pública da Kian, mas são carregadas sob demanda e processadas pelo Next.js.
+- Links, descrições, imagens e identidade visual pertencem à Kian e são utilizados no contexto do evento.
 
 ## Qualidade
 
