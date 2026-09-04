@@ -151,8 +151,19 @@ Para criar outro projeto manualmente:
 - Áreas especiais: `src/data/fairMap/specialAreas.ts`
 - Serviços e atalhos: `src/data/locations.ts`
 - Pontos de origem: `src/data/kiosks.ts`
+- Catálogo local da Kian: `src/data/kian-products.json`
 
 Ao alterar a planta, preserve a ordem dos vértices e confira visualmente clique, toque, seleção e alinhamento em mais de uma resolução.
+
+### Sincronização do catálogo Kian
+
+O catálogo exibido aos visitantes é um snapshot local: abrir a página não consulta a Loja Kian. Uma rotina do GitHub Actions compara a categoria oficial a cada seis horas e só cria um commit — disparando novo deploy — quando algum produto for incluído, removido ou alterado.
+
+A sincronização também pode ser executada sob demanda:
+
+```bash
+pnpm catalog:kian
+```
 
 ## Qualidade
 
