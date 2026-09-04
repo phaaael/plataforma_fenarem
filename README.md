@@ -1,148 +1,78 @@
 # Plataforma FENAREM
 
-Mapa interativo oficial da FENAREM para localização de expositores, stands e áreas de serviço durante o evento.
+[![Produção](https://img.shields.io/badge/produção-Vercel-000?logo=vercel)](https://plataformafenarem.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-A aplicação foi projetada para funcionar em computadores, notebooks, tablets, celulares, totens, telas touch, TVs Full HD, monitores ultrawide e painéis 2K/4K. A planta mantém o sistema de coordenadas original e escala proporcionalmente sem alterar posição, rotação, inclinação ou dimensão dos stands.
+Mapa interativo desenvolvido para orientar visitantes durante a FENAREM — Feira de Negócios Anual da Rede Elétrica e Maxxirede.
 
-## Recursos
+O projeto transforma a planta oficial do evento em uma experiência navegável para totens, telas touch, computadores, tablets e celulares. Visitantes podem buscar expositores, localizar stands e consultar áreas de serviço sem perder a fidelidade visual do mapa.
 
-### Mapa interativo
+**[Acessar aplicação em produção](https://plataformafenarem.vercel.app)**
 
-- Planta oficial da FENAREM em alta resolução.
-- 76 stands com polígonos individuais e geometria fiel à planta.
-- Clique, toque e navegação por teclado em stands e áreas interativas.
-- Destaque discreto no hover, foco e seleção.
-- Stand selecionado permanece identificado enquanto suas informações estão abertas.
-- Pan por mouse ou toque.
-- Zoom in e zoom out.
-- Modo de tela cheia.
-- Centralização automática após inatividade somente quando o mapa estiver deslocado ou ampliado.
-- Controles protegidos contra conflitos com o gesto de arrastar.
-- Atualização do movimento sincronizada com `requestAnimationFrame`.
+## Sobre o projeto
 
-### Busca de expositores
+A aplicação foi criada para uso real durante a FENAREM e também documenta um estudo de caso de produto digital para eventos presenciais. O principal desafio técnico foi sobrepor interações precisas a uma planta complexa, mantendo coordenadas, inclinações e proporções em diferentes resoluções.
 
-- Pesquisa por nome da marca, categoria ou número do stand.
-- Sugestões aleatórias de stands ao abrir a busca vazia.
-- Nova seleção de sugestões a cada abertura.
-- Logos reais recortadas diretamente da planta oficial.
-- Correção automática da rotação de cada logo.
-- Enquadramento quadrado calculado pelas dimensões reais do stand.
-- Seleção do resultado com centralização e abertura das informações.
-- Estado vazio com orientação para uma nova pesquisa.
+Não há banco de dados ou backend: os dados do evento são estruturados em TypeScript e entregues como conteúdo estático otimizado pela Vercel.
 
-### Informações e catálogos
+## Principais recursos
 
-- Painel de informações do expositor.
-- Nome da empresa e código real do stand.
-- Categoria do expositor.
-- Indicação de catálogo indisponível quando não houver endereço cadastrado.
-- Catálogos carregados dentro da própria aplicação por `iframe`.
-- Modal com fundo atenuado e botão de fechamento.
-- Fechamento por botão, clique no fundo ou tecla `Escape`.
-
-### Áreas e serviços
-
-O mapa também possui áreas interativas independentes dos stands, incluindo:
-
-- Lounge.
-- Retirada de vouchers.
-- Consulta de cupons.
-- Banheiros.
-- Restaurante.
-- Credenciamento.
-- Rodada de Negócios Superior.
-- Rodada de Negócios Inferior.
-- Acesso principal e demais pontos configurados na planta.
-
-As áreas removidas da interação continuam visíveis na imagem oficial, mas não recebem hover, clique ou marcação.
-
-### Acesso rápido
-
-- Atalhos para os principais serviços do evento.
-- Estado visual selecionado.
-- Centralização e abertura das informações da área.
-- Identificação do ponto de entrada do visitante.
-
-### Responsividade
-
-- Layout adaptável para landscape e portrait.
-- Painel lateral em desktop.
-- Painel inferior em dispositivos móveis e telas verticais.
-- Escala fluida com `clamp()`, unidades relativas e container queries.
-- Áreas seguras com `env(safe-area-inset-*)`.
-- Controles maiores em dispositivos com ponteiro touch.
-- Mapa proporcional com SVG `viewBox` e `preserveAspectRatio`.
-- Suporte visual para 1366×768, Full HD, 2K, ultrawide e 4K.
-- Página principal sem rolagem desnecessária; rolagem fica restrita a componentes que precisam dela.
-
-### Acessibilidade
-
-- Navegação por teclado nos stands.
-- Ativação por `Enter` e barra de espaço.
-- Foco visível.
-- Nomes acessíveis nos controles.
-- Busca declarada como combobox.
-- Feedback por cor, contorno e estado persistente.
-- Áreas mínimas adequadas para toque.
-- Respeito a `prefers-reduced-motion`.
-- Mensagens de estado com regiões ARIA.
+- Busca por expositor, categoria ou código do stand.
+- Seleção do primeiro resultado por **Enter** ou pelo botão **Concluir** do teclado virtual.
+- Teclado virtual próprio para operação em totens e telas touch.
+- 76 stands mapeados com polígonos individuais.
+- Pan, zoom, tela cheia e centralização do mapa.
+- Destaque visual persistente do stand selecionado.
+- Atalhos para serviços e áreas importantes do evento.
+- Painel com informações e acesso ao catálogo dos expositores.
+- Sugestões de stands ao abrir a busca.
+- Retorno automático à posição inicial após inatividade.
+- Navegação responsiva e acessível por mouse, teclado e toque.
+- Planta SVG em alta fidelidade, com precisão geométrica e textual.
 
 ## Tecnologias
 
-| Tecnologia | Uso |
+| Tecnologia | Aplicação |
 | --- | --- |
-| [Next.js 15](https://nextjs.org/) | Framework, roteamento e build de produção |
-| [React 19](https://react.dev/) | Componentes e gerenciamento de estado |
-| [TypeScript 5](https://www.typescriptlang.org/) | Tipagem estática do projeto |
-| SVG | Planta escalável, polígonos e interações dos stands |
-| CSS | Design system, responsividade, animações e estados visuais |
-| [Lucide React](https://lucide.dev/) | Ícones da interface |
-| ESLint | Verificação de qualidade do código |
-| pnpm | Gerenciamento de dependências e lockfile |
-
-O projeto não utiliza banco de dados ou serviço backend. As informações do mapa são carregadas de arquivos TypeScript locais.
+| Next.js 15 | Framework, roteamento e build |
+| React 19 | Interface e gerenciamento de estado |
+| TypeScript | Tipagem e modelagem dos dados |
+| SVG | Planta, polígonos e interações |
+| CSS | Layout responsivo, animações e estados |
+| Lucide React | Ícones da interface |
+| Vercel | Build, hospedagem e entrega contínua |
+| pnpm | Gerenciamento de dependências |
 
 ## Arquitetura
 
 ```text
 plataforma_fenarem/
 ├── public/
-│   ├── brands/                    # Logos vetoriais disponíveis
-│   └── reference/                 # Planta oficial em alta resolução
+│   ├── brands/                    # Marcas vetoriais
+│   └── reference/                 # Planta oficial do evento
 ├── src/
-│   ├── app/
-│   │   ├── globals.css            # Tokens e estilos globais/responsivos
-│   │   ├── layout.tsx             # Layout raiz e metadados
-│   │   ├── mapa/page.tsx          # Página do mapa
-│   │   └── page.tsx               # Entrada da aplicação
+│   ├── app/                       # Rotas, layout e estilos globais
 │   ├── components/
-│   │   ├── interactive-map/       # Interface, busca e painel principal
-│   │   └── map/                   # SVG, polígonos e interações do mapa
+│   │   ├── interactive-map/       # Busca, teclado e interface principal
+│   │   └── map/                   # Renderização e interação do mapa
 │   ├── data/
-│   │   ├── fairMap/               # Stands, áreas especiais e tipos
-│   │   ├── kiosks.ts              # Pontos de origem do visitante
-│   │   └── locations.ts           # Áreas e atalhos de localização
+│   │   └── fairMap/               # Stands e áreas especiais
 │   ├── lib/                       # Busca e eventos analíticos
-│   ├── services/                  # Composição dos dados da interface
+│   ├── services/                  # Composição dos dados
 │   └── types/                     # Contratos TypeScript
 ├── next.config.ts
 ├── package.json
-├── pnpm-lock.yaml
-└── tsconfig.json
+└── pnpm-lock.yaml
 ```
 
-## Sistema de coordenadas do mapa
+### Sistema de coordenadas
 
-A planta utiliza uma base nativa de `8000 × 4500` pixels. Os stands e áreas são armazenados como polígonos com pontos absolutos nessa base.
-
-O componente SVG utiliza um `viewBox` estável e aplica escala proporcional durante a renderização. Por isso, os dados não precisam ser recalculados para cada resolução.
-
-Exemplo simplificado:
+A camada interativa usa uma base de `8000 × 4500`. Cada stand é representado por um polígono com pontos absolutos:
 
 ```ts
 {
-  id: "O05",
+  id: "C03",
   code: "O05",
   name: "3M",
   type: "stand",
@@ -156,201 +86,88 @@ Exemplo simplificado:
 }
 ```
 
-> Não altere coordenadas, ordem dos vértices ou dimensões sem conferir visualmente a planta oficial.
+O `viewBox` do SVG preserva a geometria em telas Full HD, 2K, ultrawide e 4K. Os polígonos acompanham a planta sem conversões por resolução.
 
-## Pré-requisitos
+## Executando localmente
 
-- [Node.js](https://nodejs.org/) 20 ou superior.
-- [pnpm](https://pnpm.io/) 9 ou superior.
+### Requisitos
 
-Também é possível usar npm, mas o lockfile oficial do projeto é o `pnpm-lock.yaml`.
+- Node.js 20 ou superior.
+- pnpm 8 ou superior.
 
-## Instalação
-
-Clone o repositório:
+### Instalação
 
 ```bash
 git clone https://github.com/phaaael/plataforma_fenarem.git
 cd plataforma_fenarem
-```
-
-Como o repositório é privado, a conta utilizada no clone precisa possuir acesso.
-
-Instale as dependências:
-
-```bash
 pnpm install
 ```
 
-## Desenvolvimento
-
-Inicie o servidor local:
+### Desenvolvimento
 
 ```bash
 pnpm dev
 ```
 
-Acesse:
+Acesse [http://localhost:3000/mapa](http://localhost:3000/mapa).
 
-```text
-http://localhost:3000/mapa
-```
-
-A rota `/` também direciona para a experiência principal.
-
-## Build de produção
-
-Gere a versão otimizada:
+### Validação e produção
 
 ```bash
+pnpm typecheck
 pnpm build
-```
-
-Inicie o servidor de produção:
-
-```bash
 pnpm start
 ```
 
-## Scripts disponíveis
+## Parâmetros úteis
 
-| Comando | Descrição |
-| --- | --- |
-| `pnpm dev` | Inicia o servidor de desenvolvimento |
-| `pnpm build` | Cria o build otimizado de produção |
-| `pnpm start` | Executa o build de produção |
-| `pnpm typecheck` | Valida os tipos sem gerar arquivos |
-| `pnpm lint` | Executa a configuração de lint do projeto |
-
-## Parâmetros da URL
-
-### Kiosk/origem
-
-O ponto de origem pode ser selecionado pelo parâmetro `kiosk`:
+O ponto de origem do visitante pode ser informado pela URL:
 
 ```text
 /mapa?kiosk=entrada
 ```
 
-Os valores disponíveis são definidos em `src/data/kiosks.ts`.
-
-### Editor de depuração do mapa
-
-O modo de depuração pode ser habilitado com:
+O editor visual de hotspots pode ser habilitado apenas durante o desenvolvimento:
 
 ```text
 /mapa?mapDebug=true
 ```
 
-Esse modo é destinado ao desenvolvimento e permite inspecionar áreas da planta. Não deve ser utilizado na URL pública do evento.
+## Deploy
 
-## Cadastro de stands
+O projeto está conectado à Vercel. Cada atualização da branch `main` gera uma nova publicação de produção.
 
-Os stands ficam em:
+Para criar outro projeto manualmente:
 
-```text
-src/data/fairMap/stands.ts
-```
+1. Importe este repositório na Vercel.
+2. Mantenha o preset **Next.js**.
+3. Use `pnpm build` como comando de build.
+4. Não é necessário configurar variáveis de ambiente.
 
-Cada item pode conter:
+## Manutenção dos dados
 
-- `id`: identificador interno estável.
-- `code`: número oficial exibido ao visitante.
-- `name`: nome do expositor.
-- `catalogUrl`: endereço do catálogo, quando disponível.
-- `type`: tipo da área.
-- `precision`: estado de conferência da geometria.
-- `points`: vértices do polígono na planta original.
+- Expositores: `src/data/exhibitors.ts`
+- Stands e polígonos: `src/data/fairMap/stands.ts`
+- Áreas especiais: `src/data/fairMap/specialAreas.ts`
+- Serviços e atalhos: `src/data/locations.ts`
+- Pontos de origem: `src/data/kiosks.ts`
 
-## Cadastro de áreas especiais
+Ao alterar a planta, preserve a ordem dos vértices e confira visualmente clique, toque, seleção e alinhamento em mais de uma resolução.
 
-As áreas independentes dos stands ficam em:
+## Qualidade
 
-```text
-src/data/fairMap/specialAreas.ts
-```
-
-Os rótulos e hotspots usados no Acesso rápido ficam em:
-
-```text
-src/data/locations.ts
-```
-
-Ao remover uma área interativa, verifique também se existe uma versão legada em `FenaremMap.tsx`, evitando que um hotspot antigo volte a aparecer.
-
-## Catálogos
-
-O catálogo é aberto dentro da aplicação. Alguns sites podem bloquear carregamento em `iframe` por políticas próprias, como `X-Frame-Options` ou `Content-Security-Policy`.
-
-Quando um expositor não possui `catalogUrl`, a interface exibe `CATÁLOGO INDISPONÍVEL`.
-
-## Qualidade e validação
-
-Antes de publicar alterações, execute:
+Antes de publicar uma alteração:
 
 ```bash
+pnpm audit --prod
 pnpm typecheck
 pnpm build
 ```
 
-Para alterações visuais, valide pelo menos:
+Também é recomendado validar o fluxo completo em desktop, celular e dispositivo touch.
 
-- Desktop 1366×768.
-- Full HD 1920×1080.
-- Ultrawide 2560×1080 ou superior.
-- 4K 3840×2160.
-- Tablet e celular.
-- Tela vertical 1080×1920.
-- Mouse, teclado e toque.
+## Direitos de uso
 
-## Boas práticas para alterações no mapa
+O código-fonte está disponível publicamente como projeto de portfólio. Isso não concede licença automática para cópia, modificação ou redistribuição.
 
-1. Preserve o arquivo original da planta.
-2. Não transforme stands inclinados em retângulos comuns.
-3. Não altere a geometria para melhorar apenas a aparência.
-4. Confirme que a marcação não invade stands vizinhos.
-5. Teste clique, toque, foco e fechamento do painel.
-6. Confira nome, código e catálogo do expositor.
-7. Execute typecheck e build antes do commit.
-
-## Solução de problemas
-
-### A porta 3000 já está ocupada
-
-O Next.js selecionará outra porta automaticamente. Verifique o endereço informado no terminal.
-
-### A imagem do mapa não aparece
-
-Confirme a existência de:
-
-```text
-public/reference/fenarem-reference.png
-```
-
-### Um catálogo não abre dentro do modal
-
-O site externo pode impedir incorporação por iframe. Confirme os cabeçalhos de segurança do endereço cadastrado.
-
-### Um stand não responde ao clique
-
-Verifique:
-
-- Se o item existe em `stands.ts`.
-- Se o polígono possui pontos válidos.
-- Se o ID corresponde ao expositor produzido por `map-data.ts`.
-- Se outra camada SVG está sobre o polígono.
-
-### A marcação está deslocada
-
-Não converta as coordenadas manualmente para porcentagens. Os pontos devem permanecer na base original `8000 × 4500` e ser renderizados pelo mesmo SVG da planta.
-
-## Segurança
-
-- Nunca envie arquivos `.env` ao repositório.
-- Não inclua tokens, senhas ou credenciais nos arquivos de dados.
-- Links de catálogo são públicos e devem usar HTTPS sempre que possível.
-- Dependências, builds e ferramentas locais são ignorados pelo Git.
-
-## Licença e uso
-
-Projeto privado destinado à operação da FENAREM. Imagens, marcas, catálogos e materiais institucionais pertencem aos seus respectivos titulares e devem ser utilizados somente com a autorização adequada.
+A identidade da FENAREM, a planta do evento, logotipos, marcas e catálogos pertencem aos seus respectivos titulares e são exibidos no contexto autorizado do evento. Para reutilização comercial ou institucional desses materiais, obtenha autorização dos responsáveis.
