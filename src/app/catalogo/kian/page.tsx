@@ -16,6 +16,7 @@ type KianProduct = {
 
 export default function KianCatalogPage() {
   const products = kianProducts as KianProduct[];
+  const bestSellerCount = products.filter((product) => product.bestSeller).length;
 
   return (
     <main className={styles.page}>
@@ -27,7 +28,7 @@ export default function KianCatalogPage() {
 
       <>
           <div className={styles.summary}>
-            <div><strong>{products.length} produtos encontrados</strong><span>Catálogo local verificado com dados da Loja Kian.</span></div>
+            <div><strong aria-live="polite"><span className={styles.allCount}>{products.length}</span><span className={styles.bestSellerCount}>{bestSellerCount}</span> produtos encontrados</strong><span>Catálogo local verificado com dados da Loja Kian.</span></div>
             <input className={styles.filterInput} id="best-sellers" type="checkbox" />
             <label className={styles.filter} htmlFor="best-sellers">Mais vendidos</label>
           </div>

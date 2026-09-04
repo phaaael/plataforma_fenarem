@@ -9,6 +9,9 @@
 .filter{padding:11px 16px;border:1px solid #d8d4cd;border-radius:999px;background:#fff;color:#34322e;font-size:11px;font-weight:900;cursor:pointer;user-select:none}
 .filterInput:focus-visible+.filter{outline:3px solid rgba(237,101,28,.3);outline-offset:2px}
 .filterInput:checked+.filter{border-color:#d95c19;background:#fff3eb;color:#c64d0d}
+.bestSellerCount{display:none}
+.summary:has(.filterInput:checked) .allCount{display:none}
+.summary:has(.filterInput:checked) .bestSellerCount{display:inline}
 .page:has(.filterInput:checked) .card:not(.bestSeller){display:none}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px;padding:12px clamp(18px,4vw,48px) 40px}
 .card{min-width:0;overflow:hidden;border:1px solid #dedbd5;border-radius:14px;background:#fff;box-shadow:0 5px 18px rgba(20,20,20,.06)}
