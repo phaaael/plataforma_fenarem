@@ -11,14 +11,7 @@ type KianProduct = {
   link: string;
   imageUrl: string;
   imageAlt: string;
-  price: number | null;
-  listPrice: number | null;
-  available: boolean;
 };
-
-function formatPrice(value: number) {
-  return new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" }).format(value);
-}
 
 export default function KianCatalogPage() {
   const products = kianProducts as KianProduct[];
@@ -48,12 +41,6 @@ export default function KianCatalogPage() {
                     <h2>{product.name}</h2>
                     <p className={styles.reference}>Cód. {product.reference}</p>
                     {product.description && <p className={styles.description}>{product.description}</p>}
-                    {product.available && product.price !== null && (
-                      <div className={styles.price}>
-                        {product.listPrice !== null && product.listPrice > product.price && <del>{formatPrice(product.listPrice)}</del>}
-                        <strong>{formatPrice(product.price)}</strong>
-                      </div>
-                    )}
                   </div>
                 </article>
               );
@@ -62,7 +49,7 @@ export default function KianCatalogPage() {
         </>
 
       <footer>
-        Snapshot local do catálogo. Produtos, preços e disponibilidade são atualizados somente durante manutenção programada. Fonte: Loja Kian.
+        Snapshot local do catálogo. Produtos e disponibilidade são atualizados somente durante manutenção programada. Fonte: Loja Kian.
       </footer>
     </main>
   );

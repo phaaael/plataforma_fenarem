@@ -13,7 +13,6 @@ async function request(url) {
 
 function normalize(product) {
   const item = product.items?.[0];
-  const offer = item?.sellers?.find((seller) => seller.commertialOffer?.IsAvailable)?.commertialOffer;
   const image = item?.images?.[0];
   return {
     id: product.productId,
@@ -24,9 +23,6 @@ function normalize(product) {
     link: product.link,
     imageUrl: image?.imageUrl || "",
     imageAlt: image?.imageText || product.productName,
-    price: offer?.Price ?? null,
-    listPrice: offer?.ListPrice ?? null,
-    available: Boolean(offer?.IsAvailable),
   };
 }
 
