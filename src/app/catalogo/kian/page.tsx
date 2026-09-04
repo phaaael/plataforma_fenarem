@@ -11,6 +11,7 @@ type KianProduct = {
   link: string;
   imageUrl: string;
   imageAlt: string;
+  bestSeller: boolean;
 };
 
 export default function KianCatalogPage() {
@@ -20,19 +21,20 @@ export default function KianCatalogPage() {
     <main className={styles.page}>
       <header className={styles.hero}>
         <span>CATÁLOGO OFICIAL</span>
-        <h1>KIAN</h1>
+        <Image className={styles.logo} src="/brands/kian.svg" alt="Kian" width={240} height={80} priority />
         <p>Últimas oportunidades — produtos com até 50% de desconto</p>
       </header>
 
       <>
           <div className={styles.summary}>
-            <strong>{products.length} produtos encontrados</strong>
-            <span>Catálogo local verificado com dados da Loja Kian.</span>
+            <div><strong>{products.length} produtos encontrados</strong><span>Catálogo local verificado com dados da Loja Kian.</span></div>
+            <input className={styles.filterInput} id="best-sellers" type="checkbox" />
+            <label className={styles.filter} htmlFor="best-sellers">Mais vendidos</label>
           </div>
           <section className={styles.grid} aria-label="Produtos Kian">
             {products.map((product) => {
               return (
-                <article className={styles.card} key={product.id}>
+                <article className={`${styles.card} ${product.bestSeller ? styles.bestSeller : ""}`} key={product.id}>
                   <div className={styles.image}>
                     {product.imageUrl ? <Image src={product.imageUrl} alt={product.imageAlt || product.name} fill sizes="(max-width: 600px) 50vw, 260px" /> : <span>Imagem indisponível</span>}
                   </div>

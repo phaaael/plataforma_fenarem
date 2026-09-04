@@ -11,7 +11,7 @@ async function request(url) {
   return response;
 }
 
-function normalize(product) {
+function normalize(product, bestSellerIds = new Set()) {
   const item = product.items?.[0];
   const image = item?.images?.[0];
   return {
@@ -23,6 +23,7 @@ function normalize(product) {
     link: product.link,
     imageUrl: image?.imageUrl || "",
     imageAlt: image?.imageText || product.productName,
+    bestSeller: bestSellerIds.has(product.productId),
   };
 }
 
@@ -35,10 +36,12 @@ async function fetchPage(from) {
 
 async function fetchAll() {
   const first = await fetchPage(0);
-  const remaining = await Promise.all(
-    Array.from({ length: Math.ceil(first.total / pageSize) - 1 }, (_, index) => fetchPage((index + 1) * pageSize)),
-  );
-  return [first, ...remaining].flatMap((page) => page.products).map(normalize);
+  const [remaining, bestSellersResponse] = await Promise.all([
+    Promise.all(Array.from({ length: Math.ceil(first.total / pageSize) - 1 }, (_, index) => fetchPage((index + 1) * pageSize))),
+    request(`${categoryApi}&O=OrderByTopSaleDESC&_from=0&_to=23`),
+  ]);
+  const bestSellerIds = new Set((await bestSellersResponse.json()).map((product) => product.productId));
+  return [first, ...remaining].flatMap((page) => page.products).map((product) => normalize(product, bestSellerIds));
 }
 
 async function fetchOne(id) {
@@ -69,6 +72,7 @@ if (removeId) {
 } else if (id) {
   const product = await fetchOne(id);
   const index = products.findIndex((item) => item.id === id);
+  product.bestSeller = index >= 0 ? products[index].bestSeller : false;
   if (index >= 0) products[index] = product;
   else products.push(product);
   console.log(`${index >= 0 ? "Updated" : "Added"} product ${id}`);
