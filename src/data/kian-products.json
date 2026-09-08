@@ -154,17 +154,6 @@
     "bestSeller": true
   },
   {
-    "id": "4060",
-    "name": "KIT 5 CABIDES AÇO ROSA",
-    "reference": "22965",
-    "description": "O kit com 5 cabides de aço na cor rosa é a escolha ideal para quem busca organização, resistência e estética delicada no guarda-roupa. Fabricados em ferro galvanizado, suportam peças mais pesadas sem entortar, mantendo roupas sempre alinhadas e bem conservadas.<br>Com acabamento na cor rosa combinam com estilo de closet delicado, oferecendo um visual clean e feminino. O design fino otimiza espaço, permitindo acomodar mais peças no mesmo ambiente, enquanto sua estrutura reforçada é ideal para camisas, casacos, blusas, vestidos e calças leves.<br>Perfeitos para uso residencial, lojas de roupas, closets planejados e organização profissional<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/kit-5-cabides-aco-rosa-22965/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171811/Kit-5-Cabides-Aco-Rosa.png?v=638991741722100000",
-    "imageAlt": "Kit-5-Cabides-Aco-Rosa",
-    "bestSeller": true
-  },
-  {
     "id": "4011",
     "name": "Arara de Roupas Inox Móvel",
     "reference": "22772",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/luminaria-de-mesa-led-light-4w-rosa-5-000k-branca-fria-bivolt-kian-10613/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171151/Luminaria-de-Mesa-Led-Light-4W-Rosa-5-000K-Branca-Fria-Bivolt-Kian.png?v=638639249443930000",
     "imageAlt": "Luminaria-de-Mesa-Led-Light-4W-Rosa-5-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "922",
@@ -1548,6 +1537,17 @@
     "link": "https://www.lojakian.com.br/capa-para-volante-preto-24112/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171813/Capa-Para-Volante-Preto.png?v=638991741979130000",
     "imageAlt": "Capa-Para-Volante-Preto",
+    "bestSeller": false
+  },
+  {
+    "id": "4060",
+    "name": "KIT 5 CABIDES AÇO ROSA",
+    "reference": "22965",
+    "description": "O kit com 5 cabides de aço na cor rosa é a escolha ideal para quem busca organização, resistência e estética delicada no guarda-roupa. Fabricados em ferro galvanizado, suportam peças mais pesadas sem entortar, mantendo roupas sempre alinhadas e bem conservadas.<br>Com acabamento na cor rosa combinam com estilo de closet delicado, oferecendo um visual clean e feminino. O design fino otimiza espaço, permitindo acomodar mais peças no mesmo ambiente, enquanto sua estrutura reforçada é ideal para camisas, casacos, blusas, vestidos e calças leves.<br>Perfeitos para uso residencial, lojas de roupas, closets planejados e organização profissional<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/kit-5-cabides-aco-rosa-22965/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171811/Kit-5-Cabides-Aco-Rosa.png?v=638991741722100000",
+    "imageAlt": "Kit-5-Cabides-Aco-Rosa",
     "bestSeller": false
   },
   {
