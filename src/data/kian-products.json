@@ -209,17 +209,6 @@
     "bestSeller": true
   },
   {
-    "id": "3819",
-    "name": "Abraçadeira Tipo U 1/2” x 14mm x 0,7mm Saco c/ 50",
-    "reference": "13443",
-    "description": "A Abraçadeira Tipo U é ideal para fixação de tubos, cabos, conduítes e estruturas metálicas, garantindo estabilidade e segurança em instalações industriais, automotivas e de construção. Corpo produzido em aço carbono e acabamento galvanizado , oferece excelente durabilidade, suporte firme e acabamento que evita corrosão. Construção robusta para suportar cargas e vibrações ,fácil instalação com sistema de porcas e arruelas, versátil para aplicações mecânicas, elétricas e estruturais, disponível em diversas medidas para diferentes diâmetros.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/abracadeira-tipo-u-1-2--x-14mm-x-0-7mm-saco-c--50-13443/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171710/Abracadeira-Tipo-U-1-2--x-14mm-x-0-7mm-Saco-c--50.png?v=638987358431070000",
-    "imageAlt": "Abracadeira-Tipo-U-1-2--x-14mm-x-0-7mm-Saco-c--50",
-    "bestSeller": true
-  },
-  {
     "id": "3561",
     "name": "Projetor LED Solar Sensor 50W 6.500K Branca Fria Bivolt Kian",
     "reference": "27229",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/luminaria-de-mesa-led-pelicano-4w-azul-5-000k-branca-fria-bivolt-kian-10609/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171650/Luminaria-de-Mesa-Led-Pelicano-4W-Azul-5-000K-Branca-Fria-Bivolt-Kian.png?v=638842069392500000",
     "imageAlt": "Luminaria-de-Mesa-Led-Pelicano-4W-Azul-5-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5280",
@@ -558,17 +547,6 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-5-16--saco-c--25-13442/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171722/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-16--Saco-c--25.png?v=638987395460970000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-16--Saco-c--25",
-    "bestSeller": false
-  },
-  {
-    "id": "3811",
-    "name": "Abraçadeira Rosca Sem Fim 52 a 76mm x 12mm Saco c/ 25",
-    "reference": "13423",
-    "description": "A Abraçadeira Rosca Sem Fim é a solução ideal para garantir vedação e fixação firmes em mangueiras, tubos e conexões. Corpo fabricado em aço carbono com acabamento galvanizado, oferece durabilidade, ajuste prático e aperto uniforme. Perfeita para aplicações automotivas, industriais, hidráulicas e uso geral, garantindo segurança e desempenho em qualquer ambiente. Aperto preciso com sistema de rosca sem fim .Material resistente à oxidação .Instalação rápida. Ideal para uso profissional e industrial.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/abracadeira-rosca-sem-fim-52-a-76mm-x-12mm-saco-c--25-13423/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171706/Abracadeira-Rosca-Sem-Fim-52-a-76mm-x-12mm-Saco-c--25.png?v=638987287162500000",
-    "imageAlt": "Abracadeira-Rosca-Sem-Fim-52-a-76mm-x-12mm-Saco-c--25",
     "bestSeller": false
   },
   {
@@ -1089,17 +1067,6 @@
     "bestSeller": false
   },
   {
-    "id": "2639",
-    "name": "Luminária Led Tartaruga Preta Redonda 12W 6.500K Branca Fria Bivolt Kian",
-    "reference": "20448",
-    "description": "Design Redondo, moderno e robusto para iluminar áreas internas e externas com luz suave e difusa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-tartaruga-preta-redonda-12w-6-500k-branca-fria-bivolt-kian-20448/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170071/Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638288484087430000",
-    "imageAlt": "Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "4500",
     "name": "Esguicho Tipo Pistola 5 Posições 1/2\"",
     "reference": "13372",
@@ -1119,6 +1086,17 @@
     "link": "https://www.lojakian.com.br/pa-larga-jardinagem-12--24054/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172193/Pa-Larga-Jardinagem-12-.png?v=639058092145870000",
     "imageAlt": "Pa-Larga-Jardinagem-12-",
+    "bestSeller": false
+  },
+  {
+    "id": "2639",
+    "name": "Luminária Led Tartaruga Preta Redonda 12W 6.500K Branca Fria Bivolt Kian",
+    "reference": "20448",
+    "description": "Design Redondo, moderno e robusto para iluminar áreas internas e externas com luz suave e difusa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-tartaruga-preta-redonda-12w-6-500k-branca-fria-bivolt-kian-20448/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170071/Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638288484087430000",
+    "imageAlt": "Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -1859,6 +1837,17 @@
     "bestSeller": false
   },
   {
+    "id": "3819",
+    "name": "Abraçadeira Tipo U 1/2” x 14mm x 0,7mm Saco c/ 50",
+    "reference": "13443",
+    "description": "A Abraçadeira Tipo U é ideal para fixação de tubos, cabos, conduítes e estruturas metálicas, garantindo estabilidade e segurança em instalações industriais, automotivas e de construção. Corpo produzido em aço carbono e acabamento galvanizado , oferece excelente durabilidade, suporte firme e acabamento que evita corrosão. Construção robusta para suportar cargas e vibrações ,fácil instalação com sistema de porcas e arruelas, versátil para aplicações mecânicas, elétricas e estruturais, disponível em diversas medidas para diferentes diâmetros.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/abracadeira-tipo-u-1-2--x-14mm-x-0-7mm-saco-c--50-13443/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171710/Abracadeira-Tipo-U-1-2--x-14mm-x-0-7mm-Saco-c--50.png?v=638987358431070000",
+    "imageAlt": "Abracadeira-Tipo-U-1-2--x-14mm-x-0-7mm-Saco-c--50",
+    "bestSeller": false
+  },
+  {
     "id": "3817",
     "name": "Abraçadeira Tipo U 1.1/2” x 21mm x 1,0mm Saco c/ 25",
     "reference": "13447",
@@ -1878,6 +1867,17 @@
     "link": "https://www.lojakian.com.br/abracadeira-tipo-u-1-1-4--x-21mm-x-0-8mm-saco-c--25-13446/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171708/Abracadeira-Tipo-U-1-1-4--x-21mm-x-0-8mm-Saco-c--25.png?v=638987352681300000",
     "imageAlt": "Abracadeira-Tipo-U-1-1-4--x-21mm-x-0-8mm-Saco-c--25",
+    "bestSeller": false
+  },
+  {
+    "id": "3811",
+    "name": "Abraçadeira Rosca Sem Fim 52 a 76mm x 12mm Saco c/ 25",
+    "reference": "13423",
+    "description": "A Abraçadeira Rosca Sem Fim é a solução ideal para garantir vedação e fixação firmes em mangueiras, tubos e conexões. Corpo fabricado em aço carbono com acabamento galvanizado, oferece durabilidade, ajuste prático e aperto uniforme. Perfeita para aplicações automotivas, industriais, hidráulicas e uso geral, garantindo segurança e desempenho em qualquer ambiente. Aperto preciso com sistema de rosca sem fim .Material resistente à oxidação .Instalação rápida. Ideal para uso profissional e industrial.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/abracadeira-rosca-sem-fim-52-a-76mm-x-12mm-saco-c--25-13423/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171706/Abracadeira-Rosca-Sem-Fim-52-a-76mm-x-12mm-Saco-c--25.png?v=638987287162500000",
+    "imageAlt": "Abracadeira-Rosca-Sem-Fim-52-a-76mm-x-12mm-Saco-c--25",
     "bestSeller": false
   },
   {
