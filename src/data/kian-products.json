@@ -44,17 +44,6 @@
     "bestSeller": true
   },
   {
-    "id": "4422",
-    "name": "Alicate Crimpador de Rede e Telefonia 6P/8P",
-    "reference": "14535",
-    "description": "O Alicate Crimpador 6P/8P é ideal para montagem e manutenção de cabos de rede e telefonia. Compatível com conectores RJ11, RJ12 e RJ45, permite cortar, decapar e crimpar com precisão. Acionamento com catraca. Possui estrutura resistente, cabos ergonômicos e corpo em aço carbono garantindo conforto e eficiência no uso profissional ou doméstico.<br><br><br>Indicado para: técnicos de informática, redes e telefonia.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/alicate-crimpador-de-rede-e-telefonia-6p-8p-14535/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172113/Alicate-Crimpador-de-Rede-e-Telefonia-6P-8P.png?v=639053761406630000",
-    "imageAlt": "Alicate-Crimpador-de-Rede-e-Telefonia-6P-8P",
-    "bestSeller": true
-  },
-  {
     "id": "4231",
     "name": "Lupa 62mm",
     "reference": "14529",
@@ -187,17 +176,6 @@
     "bestSeller": true
   },
   {
-    "id": "4211",
-    "name": "Trilho Duplo Para Cantoneira Preto 1,5m",
-    "reference": "20378",
-    "description": "O Trilho Duplo para Cantoneira Preto 1,5 m é a solução ideal para montar prateleiras ajustáveis com praticidade, resistência e excelente acabamento. Com design duplo, ele oferece maior estabilidade e permite a instalação de cantoneiras de forma segura, suportando diferentes tipos de prateleiras para organização de ambientes residenciais, comerciais ou de escritório.<br><br>Produzido em material resistente e com pintura preta de alta durabilidade, o trilho garante fixação firme na parede e possibilita ajustes conforme a necessidade, tornando a montagem flexível e funcional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-preto-1-5m-20378/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171888/Trilho-Duplo-Para-Cantoneira-Preto-1-5m.png?v=638996020858730000",
-    "imageAlt": "Trilho-Duplo-Para-Cantoneira-Preto-1-5m",
-    "bestSeller": true
-  },
-  {
     "id": "4207",
     "name": "Trilho Duplo para Cantoneira Branco 1,5 m",
     "reference": "14648",
@@ -272,7 +250,7 @@
     "link": "https://www.lojakian.com.br/luminaria-led-arandela-8-dots-branco-8w-6-000k-branca-fria-kian-27216/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171528/Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian.png?v=638772098994170000",
     "imageAlt": "Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "3187",
@@ -283,7 +261,7 @@
     "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-220v-preto-cf-101-kian-24747/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171307/Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian.png?v=638659944147270000",
     "imageAlt": "Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "2523",
@@ -935,6 +913,17 @@
     "bestSeller": false
   },
   {
+    "id": "4422",
+    "name": "Alicate Crimpador de Rede e Telefonia 6P/8P",
+    "reference": "14535",
+    "description": "O Alicate Crimpador 6P/8P é ideal para montagem e manutenção de cabos de rede e telefonia. Compatível com conectores RJ11, RJ12 e RJ45, permite cortar, decapar e crimpar com precisão. Acionamento com catraca. Possui estrutura resistente, cabos ergonômicos e corpo em aço carbono garantindo conforto e eficiência no uso profissional ou doméstico.<br><br><br>Indicado para: técnicos de informática, redes e telefonia.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/alicate-crimpador-de-rede-e-telefonia-6p-8p-14535/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172113/Alicate-Crimpador-de-Rede-e-Telefonia-6P-8P.png?v=639053761406630000",
+    "imageAlt": "Alicate-Crimpador-de-Rede-e-Telefonia-6P-8P",
+    "bestSeller": false
+  },
+  {
     "id": "4372",
     "name": "PÁ PLÁSTICA COM CABO CURTO",
     "reference": "14891",
@@ -965,6 +954,17 @@
     "link": "https://www.lojakian.com.br/o-trilho-duplo-para-cantoneira-preto-1-0-m-20379/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171889/O-Trilho-Duplo-para-Cantoneira-Preto-1-0-m.png?v=638996021080130000",
     "imageAlt": "O-Trilho-Duplo-para-Cantoneira-Preto-1-0-m",
+    "bestSeller": false
+  },
+  {
+    "id": "4211",
+    "name": "Trilho Duplo Para Cantoneira Preto 1,5m",
+    "reference": "20378",
+    "description": "O Trilho Duplo para Cantoneira Preto 1,5 m é a solução ideal para montar prateleiras ajustáveis com praticidade, resistência e excelente acabamento. Com design duplo, ele oferece maior estabilidade e permite a instalação de cantoneiras de forma segura, suportando diferentes tipos de prateleiras para organização de ambientes residenciais, comerciais ou de escritório.<br><br>Produzido em material resistente e com pintura preta de alta durabilidade, o trilho garante fixação firme na parede e possibilita ajustes conforme a necessidade, tornando a montagem flexível e funcional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-preto-1-5m-20378/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171888/Trilho-Duplo-Para-Cantoneira-Preto-1-5m.png?v=638996020858730000",
+    "imageAlt": "Trilho-Duplo-Para-Cantoneira-Preto-1-5m",
     "bestSeller": false
   },
   {
@@ -2263,6 +2263,17 @@
     "link": "https://www.lojakian.com.br/mini-luminaria-led-usb-3-000k-branca-quente-touch-kian-24137/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170591/Mini-Luminaria-LED-USB-3-000K-Branca-Quente-Touch-Kian.png?v=638539871362800000",
     "imageAlt": "Mini-Luminaria-LED-USB-3-000K-Branca-Quente-Touch-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "2639",
+    "name": "Luminária Led Tartaruga Preta Redonda 12W 6.500K Branca Fria Bivolt Kian",
+    "reference": "20448",
+    "description": "Design Redondo, moderno e robusto para iluminar áreas internas e externas com luz suave e difusa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-tartaruga-preta-redonda-12w-6-500k-branca-fria-bivolt-kian-20448/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170071/Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638288484087430000",
+    "imageAlt": "Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -4397,17 +4408,6 @@
     "link": "https://www.lojakian.com.br/balizador-de-embutir-5w-3-000k-branca-quente-kian-24259/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171365/Balizador-de-Embutir-5W-3-000K-Branca-Quente-Kian.png?v=638702357594770000",
     "imageAlt": "Balizador-de-Embutir-5W-3-000K-Branca-Quente-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "2639",
-    "name": "Luminária Led Tartaruga Preta Redonda 12W 6.500K Branca Fria Bivolt Kian",
-    "reference": "20448",
-    "description": "Design Redondo, moderno e robusto para iluminar áreas internas e externas com luz suave e difusa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-tartaruga-preta-redonda-12w-6-500k-branca-fria-bivolt-kian-20448/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170071/Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638288484087430000",
-    "imageAlt": "Luminaria-Led-Tartaruga-Preta-Redonda-12W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
