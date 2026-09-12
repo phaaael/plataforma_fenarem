@@ -198,17 +198,6 @@
     "bestSeller": true
   },
   {
-    "id": "2523",
-    "name": "Lanterna Tática LED UV + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18647",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas. Com luz frontal (tecnologia UV) que detecta notas falsas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-uv---cob-6-000k-branca-fria-recarregavel-kian-18647/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169988/Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267536741570000",
-    "imageAlt": "Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian",
-    "bestSeller": true
-  },
-  {
     "id": "1887",
     "name": "Fita Led 20 metros 6.000K Branca Fria IP65 2835 9W/m 220V Kian",
     "reference": "17371",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-35cm-kian-20611/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172538/Cantoneira-Mao-Francesa-Branca-Para-Trilho-35cm-Kian.png?v=639083140676600000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-35cm-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5187",
@@ -2362,6 +2351,17 @@
     "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
     "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "2523",
+    "name": "Lanterna Tática LED UV + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18647",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas. Com luz frontal (tecnologia UV) que detecta notas falsas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-uv---cob-6-000k-branca-fria-recarregavel-kian-18647/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169988/Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267536741570000",
+    "imageAlt": "Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian",
     "bestSeller": false
   },
   {
