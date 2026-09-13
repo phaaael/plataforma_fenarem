@@ -143,17 +143,6 @@
     "bestSeller": true
   },
   {
-    "id": "4195",
-    "name": "SUPORTE DE TV 14\" A 42\"",
-    "reference": "14931",
-    "description": "O Suporte de TV 14\" a 42\" é a solução ideal para instalar sua televisão com segurança, praticidade e melhor aproveitamento de espaço. Compatível com telas de 14 a 42 polegadas, oferece fixação firme e estável, garantindo uma experiência de visualização mais confortável.<br><br>Fabricado em material resistente, suporta diferentes modelos de TV e facilita a organização do ambiente, deixando o visual mais limpo e moderno.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
-    "imageAlt": "Suporte-de-Tv-14--a-42-",
-    "bestSeller": true
-  },
-  {
     "id": "4040",
     "name": "Bucha Sem Anel Para Fixação 6mm x 30mm c/ 100 und",
     "reference": "13495",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-30cm-20610/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172537/Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm.png?v=639083140391400000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5186",
@@ -943,6 +932,17 @@
     "link": "https://www.lojakian.com.br/suporte-mangueira-de-jardim-24063/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171885/Suporte-Mangueira-De-Jardim.png?v=638996015190600000",
     "imageAlt": "Suporte-Mangueira-De-Jardim",
+    "bestSeller": false
+  },
+  {
+    "id": "4195",
+    "name": "SUPORTE DE TV 14\" A 42\"",
+    "reference": "14931",
+    "description": "O Suporte de TV 14\" a 42\" é a solução ideal para instalar sua televisão com segurança, praticidade e melhor aproveitamento de espaço. Compatível com telas de 14 a 42 polegadas, oferece fixação firme e estável, garantindo uma experiência de visualização mais confortável.<br><br>Fabricado em material resistente, suporta diferentes modelos de TV e facilita a organização do ambiente, deixando o visual mais limpo e moderno.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
+    "imageAlt": "Suporte-de-Tv-14--a-42-",
     "bestSeller": false
   },
   {
