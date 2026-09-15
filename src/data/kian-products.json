@@ -99,17 +99,6 @@
     "bestSeller": true
   },
   {
-    "id": "4771",
-    "name": "Tesoura Poda Galho 24\"",
-    "reference": "24048",
-    "description": "A tesoura de poda para galho 24\" é ideal para cortes precisos em galhos mais grossos. Oferece maior alcance, força e controle, sendo indicada para jardinagem, manutenção de árvores e uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/tesoura-poda-galho-24--24048/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172655/Tesoura-Poda-Galho-24-.png?v=639086820717600000",
-    "imageAlt": "Tesoura-Poda-Galho-24-",
-    "bestSeller": true
-  },
-  {
     "id": "4770",
     "name": "Tesoura Ajustável Para Cerca Viva 21,5\"",
     "reference": "24043",
@@ -140,17 +129,6 @@
     "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-branco-1-5-m-14648/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171886/Trilho-Duplo-para-Cantoneira-Branco-1-5-m.png?v=638996020401000000",
     "imageAlt": "Trilho-Duplo-para-Cantoneira-Branco-1-5-m",
-    "bestSeller": true
-  },
-  {
-    "id": "4195",
-    "name": "SUPORTE DE TV 14\" A 42\"",
-    "reference": "14931",
-    "description": "O Suporte de TV 14\" a 42\" é a solução ideal para instalar sua televisão com segurança, praticidade e melhor aproveitamento de espaço. Compatível com telas de 14 a 42 polegadas, oferece fixação firme e estável, garantindo uma experiência de visualização mais confortável.<br><br>Fabricado em material resistente, suporta diferentes modelos de TV e facilita a organização do ambiente, deixando o visual mais limpo e moderno.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
-    "imageAlt": "Suporte-de-Tv-14--a-42-",
     "bestSeller": true
   },
   {
@@ -195,17 +173,6 @@
     "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-220v-preto-cf-101-kian-24747/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171307/Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian.png?v=638659944147270000",
     "imageAlt": "Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian",
-    "bestSeller": true
-  },
-  {
-    "id": "2523",
-    "name": "Lanterna Tática LED UV + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18647",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas. Com luz frontal (tecnologia UV) que detecta notas falsas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-uv---cob-6-000k-branca-fria-recarregavel-kian-18647/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169988/Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267536741570000",
-    "imageAlt": "Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian",
     "bestSeller": true
   },
   {
@@ -272,7 +239,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-35cm-kian-20611/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172538/Cantoneira-Mao-Francesa-Branca-Para-Trilho-35cm-Kian.png?v=639083140676600000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-35cm-Kian",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5187",
@@ -283,7 +250,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-30cm-20610/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172537/Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm.png?v=639083140391400000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5186",
@@ -294,7 +261,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-25cm-20609/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172536/Cantoneira-Mao-Francesa-Branca-Para-Trilho-25cm.png?v=639083140116500000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-25cm",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5182",
@@ -305,6 +272,17 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-20cm-20608/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172535/Cantoneira-Mao-Francesa-Branca-Para-Trilho-20cm.png?v=639083139843470000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-20cm",
+    "bestSeller": false
+  },
+  {
+    "id": "5181",
+    "name": "Cantoneira Mão Francesa Branca Para Trilho 15cm",
+    "reference": "20607",
+    "description": "A Cantoneira Mão Francesa Branca para Trilho 15cm é ideal para sustentar prateleiras pequenas com segurança e praticidade. Fabricada em aço resistente com acabamento branco, oferece durabilidade e firmeza na fixação. Compatível com trilhos padrão, permite fácil instalação e ajuste de altura, sendo perfeita para organizar ambientes residenciais, comerciais e escritórios com acabamento discreto e funcional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-15cm-20607/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172534/Cantoneira-Mao-Francesa-Branca-Para-Trilho-15cm.png?v=639083139541400000",
+    "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-15cm",
     "bestSeller": false
   },
   {
@@ -437,6 +415,17 @@
     "link": "https://www.lojakian.com.br/pa-estreita-jardinagem-12--24053/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172375/Pa-Estreita-Jardinagem-12-.png?v=639071892545070000",
     "imageAlt": "Pa-Estreita-Jardinagem-12-",
+    "bestSeller": false
+  },
+  {
+    "id": "4771",
+    "name": "Tesoura Poda Galho 24\"",
+    "reference": "24048",
+    "description": "A tesoura de poda para galho 24\" é ideal para cortes precisos em galhos mais grossos. Oferece maior alcance, força e controle, sendo indicada para jardinagem, manutenção de árvores e uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/tesoura-poda-galho-24--24048/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172655/Tesoura-Poda-Galho-24-.png?v=639086820717600000",
+    "imageAlt": "Tesoura-Poda-Galho-24-",
     "bestSeller": false
   },
   {
@@ -591,6 +580,17 @@
     "link": "https://www.lojakian.com.br/nivel-de-aluminio-3-bolhas-12--12442/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172262/Nivel-de-Aluminio-3-Bolhas-12-.png?v=639059953807300000",
     "imageAlt": "Nivel-de-Aluminio-3-Bolhas-12-",
+    "bestSeller": false
+  },
+  {
+    "id": "4635",
+    "name": "Suporte de TV LCD Fixo 10\" a 71\" Kian",
+    "reference": "14934",
+    "description": "Suporte de TV LCD Fixo 10\" a 71\" Kian ideal para quem busca segurança e praticidade. Compatível com TVs LCD, LED e Smart TV, possui estrutura em aço resistente, design discreto e fixação firme, mantendo a TV rente à parede. Compatível com padrão VESA e de fácil instalação, é a escolha certa para ambientes residenciais ou comerciais.<br>Indicado para  ambientes residencias e comerciais",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/suporte-de-tv-lcd-fixo-10--a-71--kian-14934/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172236/Suporte-de-TV-LCD-Fixo-10--a-71--Kian.png?v=639059809888430000",
+    "imageAlt": "Suporte-de-TV-LCD-Fixo-10--a-71--Kian",
     "bestSeller": false
   },
   {
@@ -913,6 +913,17 @@
     "bestSeller": false
   },
   {
+    "id": "4217",
+    "name": "Trinco Para Porta Colonial 150mm",
+    "reference": "13478",
+    "description": "O Trinco para Porta Colonial 150mm oferece segurança e charme clássico para portas internas e externas. Com design colonial, ele combina resistência e estilo, garantindo fechamento firme e funcionalidade no dia a dia.<br>Fabricado em material durável, proporciona excelente desempenho em portas de madeira, sendo ideal para residências, áreas rústicas, portões leves e ambientes que valorizam um toque tradicional. Fácil de instalar e com ótimo acabamento, é a escolha certa para quem busca beleza e praticidade em um único produto.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/trinco-para-porta-colonial-150mm-13478/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171895/Trinco-Para-Porta-Colonial-150mm.png?v=638996032429030000",
+    "imageAlt": "Trinco-Para-Porta-Colonial-150mm",
+    "bestSeller": false
+  },
+  {
     "id": "4213",
     "name": "O Trilho Duplo para Cantoneira Preto 1,0 m",
     "reference": "20379",
@@ -957,6 +968,17 @@
     "bestSeller": false
   },
   {
+    "id": "4195",
+    "name": "SUPORTE DE TV 14\" A 42\"",
+    "reference": "14931",
+    "description": "O Suporte de TV 14\" a 42\" é a solução ideal para instalar sua televisão com segurança, praticidade e melhor aproveitamento de espaço. Compatível com telas de 14 a 42 polegadas, oferece fixação firme e estável, garantindo uma experiência de visualização mais confortável.<br><br>Fabricado em material resistente, suporta diferentes modelos de TV e facilita a organização do ambiente, deixando o visual mais limpo e moderno.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
+    "imageAlt": "Suporte-de-Tv-14--a-42-",
+    "bestSeller": false
+  },
+  {
     "id": "4191",
     "name": "Sapateira 10 Andares 30 Pares",
     "reference": "22773",
@@ -987,6 +1009,17 @@
     "link": "https://www.lojakian.com.br/rebite-repuxo-branco-508-3-16--8mm-c--500-und-13574/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171870/Rebite-Repuxo-Branco-508-3-16--8mm-c--500-und.png?v=638995990552470000",
     "imageAlt": "Rebite-Repuxo-Branco-508-3-16--8mm-c--500-und",
+    "bestSeller": false
+  },
+  {
+    "id": "4167",
+    "name": "Pitão Com Bucha M8 c/ 100",
+    "reference": "13500",
+    "description": "O Pitão com Bucha M8 é a escolha ideal para fixações médias a pesadas, oferecendo segurança, resistência e praticidade na instalação. Fabricado em aço de alta durabilidade, o pitão garante firmeza, enquanto a bucha M8 proporciona ancoragem sólida em paredes de alvenaria, concreto ou drywall.<br>Perfeito para pendurar plantas, suportes, luminárias, cabos, cordas e objetos decorativos mais robustos, garantindo fixação confiável tanto em ambientes residenciais quanto comerciais.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/pitao-com-bucha-m8-c--100-13500/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171864/Pitao-Com-Bucha-M8-c--100.png?v=638995924656400000",
+    "imageAlt": "Pitao-Com-Bucha-M8-c--100",
     "bestSeller": false
   },
   {
@@ -1342,6 +1375,17 @@
     "bestSeller": false
   },
   {
+    "id": "4026",
+    "name": "Broca Para Concreto 13mm - C/5",
+    "reference": "12194",
+    "description": "A broca para concreto 13 mm oferece perfuração rápida, precisa e resistente em superfícies duras como concreto, alvenaria, tijolos e pedras. Fabricada em aço de alta performance com ponta em pastilha de metal duro (vídia), garante maior dureza, longa vida útil e excelente dissipação de calor durante o uso contínuo.<br><br>Seu design helicoidal otimiza a remoção de resíduos, assegurando furos mais limpos e perfurações profundas com estabilidade. Compatível com furadeiras de impacto e marteletes (modo rotação + impacto).<br><br>Perfeita para instalações elétricas, hidráulicas e fixações diversas em obras, reformas e uso profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/broca-para-concreto-13mm-12194/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171792/Broca-Para-Concreto-13mm.png?v=638991717429770000",
+    "imageAlt": "Broca-Para-Concreto-13mm",
+    "bestSeller": false
+  },
+  {
     "id": "4013",
     "name": "Bandeja Para Pintura 17cm",
     "reference": "14105",
@@ -1449,6 +1493,28 @@
     "link": "https://www.lojakian.com.br/chave-fixa-6--x-7mm-14605/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171760/Chave-Fixa-6--x-7mm.png?v=638990034469370000",
     "imageAlt": "Chave-Fixa-6--x-7mm",
+    "bestSeller": false
+  },
+  {
+    "id": "3920",
+    "name": "Chave Canhão 9mm",
+    "reference": "12217",
+    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-canhao-9mm-12217/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171755/Chave-Canhao-9mm.png?v=638990005427970000",
+    "imageAlt": "Chave-Canhao-9mm",
+    "bestSeller": false
+  },
+  {
+    "id": "3914",
+    "name": "Chave Canhão 6mm",
+    "reference": "12214",
+    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
+    "imageAlt": "Chave-Canhao-6mm",
     "bestSeller": false
   },
   {
@@ -2365,6 +2431,17 @@
     "bestSeller": false
   },
   {
+    "id": "2523",
+    "name": "Lanterna Tática LED UV + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18647",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas. Com luz frontal (tecnologia UV) que detecta notas falsas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-uv---cob-6-000k-branca-fria-recarregavel-kian-18647/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169988/Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267536741570000",
+    "imageAlt": "Lanterna-Tatica-LED-UV---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "2463",
     "name": "Painel Led Embutir 36W 120x15cm 4,000k Branca Neutra Caixa Alta Kian",
     "reference": "19492",
@@ -2519,17 +2596,6 @@
     "bestSeller": false
   },
   {
-    "id": "2003",
-    "name": "Arandela Led 4 Focos Ajustável Preta 6W 6.500K Branca Fria Bivolt Kian",
-    "reference": "17890",
-    "description": "Detalhes fazem toda a diferença. As Arandelas Kian são muito utilizadas em ambientes projetados por arquitetos e designers de interiores por valorizar ambientes de passagem, como corredores e escadas, e como iluminação de destaque, evidenciando objetos e acabamentos. Os modelos variam quanto ao foco da luz.  As arandelas são peças extremamente versáteis, por possuir grau de proteção IP65 podem ser usadas em locais internos e externos.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/arandela-led-4-focos-ajustavel-preta-6w-6-500k-branca-fria-bivolt-kian-17890/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169782/Arandela-Led-4-Focos-Ajustavel-Preta-6W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260991826200000",
-    "imageAlt": "Arandela-Led-4-Focos-Ajustavel-Preta-6W-6-500K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "1983",
     "name": "Mini Spot Led Quadrado Preto 1W 6.500K Branca Fria Bivolt Kian",
     "reference": "17838",
@@ -2549,6 +2615,28 @@
     "link": "https://www.lojakian.com.br/mini-spot-led-redondo-preto-1w-6-500k-branca-fria-bivolt-kian-17842/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169737/Mini-Spot-Led-Redondo-Preto-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988748330000",
     "imageAlt": "Mini-Spot-Led-Redondo-Preto-1W-6-500K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1977",
+    "name": "Mini Spot Led Redondo Branco 1W 6.500K Branca Fria Bivolt Kian",
+    "reference": "17841",
+    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/mini-spot-led-redondo-branco-1w-6-500k-branca-fria-bivolt-kian-17841/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169734/Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988585030000",
+    "imageAlt": "Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1971",
+    "name": "Mini Spot Led Quadrado Branco 1W 6.500K Branca Fria Bivolt Kian",
+    "reference": "17836",
+    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/mini-spot-led-quadrado-branco-1w-6-500k-branca-fria-bivolt-kian-17836/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169722/Mini-Spot-Led-Quadrado-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260987717000000",
+    "imageAlt": "Mini-Spot-Led-Quadrado-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -3256,17 +3344,6 @@
     "bestSeller": false
   },
   {
-    "id": "687",
-    "name": "Lâmpada Incandescente Bulbo R63 Aluminizado 50W Base E27 127V Kian - CX/10",
-    "reference": "6102",
-    "description": "Caixa com 10 unidades.<br>Foram desenvolvidas com Bulbo Claro ou Refletivo para realizar o aquecimento e secagem de ambientes. São muito utilizadas em fornos micro-ondas, fogões, geladeiras, estufas, cabines de pintura e até em criadouros de animais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lampada-incandescente-bulbo-r63-aluminizado-50w-base-e27-127v-kian---cx-10-6102/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167805/Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-127V-Kian---CX-10.png?v=638260869240730000",
-    "imageAlt": "Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-127V-Kian---CX-10",
-    "bestSeller": false
-  },
-  {
     "id": "685",
     "name": "Lâmpada Incadescente Chupeta Vermelha 7W Base E14 220V Kian - CX/25",
     "reference": "6101",
@@ -3352,6 +3429,17 @@
     "link": "https://www.lojakian.com.br/lampada-incandescente-vela-leitosa-40w-base-e14-220v-kian---cx-10-6087/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167754/Lampada-Incandescente-Vela-Leitosa-40W-Base-E14-220V-Kian---CX-10.png?v=638260865469030000",
     "imageAlt": "Lampada-Incandescente-Vela-Leitosa-40W-Base-E14-220V-Kian---CX-10",
+    "bestSeller": false
+  },
+  {
+    "id": "656",
+    "name": "Lâmpada Incandescente Vela Clara 40W Base E14 220V Kian - CX/10",
+    "reference": "6086",
+    "description": "Caixa com 10 unidades.<br>Com design clássico no formato Vela, a lâmpada é perfeita para dar um toque especial e elegante na decoração de ambientes residenciais e comerciais que prezam por sofisticação e atenção aos detalhes. Indicada para serem usadas em lustres e pendentes trazem um ar retrô para o ambiente.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lampada-incandescente-vela-clara-40w-base-e14-220v-kian---cx-10-6086/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167751/Lampada-Incandescente-Vela-Clara-40W-Base-E14-220V-Kian---CX-10.png?v=638260865195900000",
+    "imageAlt": "Lampada-Incandescente-Vela-Clara-40W-Base-E14-220V-Kian---CX-10",
     "bestSeller": false
   },
   {
@@ -3663,17 +3751,6 @@
     "bestSeller": false
   },
   {
-    "id": "5181",
-    "name": "Cantoneira Mão Francesa Branca Para Trilho 15cm",
-    "reference": "20607",
-    "description": "A Cantoneira Mão Francesa Branca para Trilho 15cm é ideal para sustentar prateleiras pequenas com segurança e praticidade. Fabricada em aço resistente com acabamento branco, oferece durabilidade e firmeza na fixação. Compatível com trilhos padrão, permite fácil instalação e ajuste de altura, sendo perfeita para organizar ambientes residenciais, comerciais e escritórios com acabamento discreto e funcional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-15cm-20607/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172534/Cantoneira-Mao-Francesa-Branca-Para-Trilho-15cm.png?v=639083139541400000",
-    "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-15cm",
-    "bestSeller": false
-  },
-  {
     "id": "5164",
     "name": "Cantoneira Mão Francesa Preta Para Trilho 20cm",
     "reference": "20387",
@@ -3817,17 +3894,6 @@
     "bestSeller": false
   },
   {
-    "id": "4635",
-    "name": "Suporte de TV LCD Fixo 10\" a 71\" Kian",
-    "reference": "14934",
-    "description": "Suporte de TV LCD Fixo 10\" a 71\" Kian ideal para quem busca segurança e praticidade. Compatível com TVs LCD, LED e Smart TV, possui estrutura em aço resistente, design discreto e fixação firme, mantendo a TV rente à parede. Compatível com padrão VESA e de fácil instalação, é a escolha certa para ambientes residenciais ou comerciais.<br>Indicado para  ambientes residencias e comerciais",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/suporte-de-tv-lcd-fixo-10--a-71--kian-14934/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172236/Suporte-de-TV-LCD-Fixo-10--a-71--Kian.png?v=639059809888430000",
-    "imageAlt": "Suporte-de-TV-LCD-Fixo-10--a-71--Kian",
-    "bestSeller": false
-  },
-  {
     "id": "4546",
     "name": "Trincha Multiuso 3/4\"",
     "reference": "14131",
@@ -3949,17 +4015,6 @@
     "bestSeller": false
   },
   {
-    "id": "4217",
-    "name": "Trinco Para Porta Colonial 150mm",
-    "reference": "13478",
-    "description": "O Trinco para Porta Colonial 150mm oferece segurança e charme clássico para portas internas e externas. Com design colonial, ele combina resistência e estilo, garantindo fechamento firme e funcionalidade no dia a dia.<br>Fabricado em material durável, proporciona excelente desempenho em portas de madeira, sendo ideal para residências, áreas rústicas, portões leves e ambientes que valorizam um toque tradicional. Fácil de instalar e com ótimo acabamento, é a escolha certa para quem busca beleza e praticidade em um único produto.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/trinco-para-porta-colonial-150mm-13478/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171895/Trinco-Para-Porta-Colonial-150mm.png?v=638996032429030000",
-    "imageAlt": "Trinco-Para-Porta-Colonial-150mm",
-    "bestSeller": false
-  },
-  {
     "id": "4185",
     "name": "RODO DUPLO 42 CM SEM CABO",
     "reference": "22977",
@@ -3979,17 +4034,6 @@
     "link": "https://www.lojakian.com.br/prumo-de-parede-700gr-12460/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171867/Prumo-de-Parede-700gr.png?v=638995930957200000",
     "imageAlt": "Prumo-de-Parede-700gr",
-    "bestSeller": false
-  },
-  {
-    "id": "4167",
-    "name": "Pitão Com Bucha M8 c/ 100",
-    "reference": "13500",
-    "description": "O Pitão com Bucha M8 é a escolha ideal para fixações médias a pesadas, oferecendo segurança, resistência e praticidade na instalação. Fabricado em aço de alta durabilidade, o pitão garante firmeza, enquanto a bucha M8 proporciona ancoragem sólida em paredes de alvenaria, concreto ou drywall.<br>Perfeito para pendurar plantas, suportes, luminárias, cabos, cordas e objetos decorativos mais robustos, garantindo fixação confiável tanto em ambientes residenciais quanto comerciais.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/pitao-com-bucha-m8-c--100-13500/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171864/Pitao-Com-Bucha-M8-c--100.png?v=638995924656400000",
-    "imageAlt": "Pitao-Com-Bucha-M8-c--100",
     "bestSeller": false
   },
   {
@@ -4114,17 +4158,6 @@
     "bestSeller": false
   },
   {
-    "id": "4026",
-    "name": "Broca Para Concreto 13mm - C/5",
-    "reference": "12194",
-    "description": "A broca para concreto 13 mm oferece perfuração rápida, precisa e resistente em superfícies duras como concreto, alvenaria, tijolos e pedras. Fabricada em aço de alta performance com ponta em pastilha de metal duro (vídia), garante maior dureza, longa vida útil e excelente dissipação de calor durante o uso contínuo.<br><br>Seu design helicoidal otimiza a remoção de resíduos, assegurando furos mais limpos e perfurações profundas com estabilidade. Compatível com furadeiras de impacto e marteletes (modo rotação + impacto).<br><br>Perfeita para instalações elétricas, hidráulicas e fixações diversas em obras, reformas e uso profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/broca-para-concreto-13mm-12194/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171792/Broca-Para-Concreto-13mm.png?v=638991717429770000",
-    "imageAlt": "Broca-Para-Concreto-13mm",
-    "bestSeller": false
-  },
-  {
     "id": "4024",
     "name": "Broca Para Metal Ar 7,5mm 19/64\"",
     "reference": "12164",
@@ -4243,28 +4276,6 @@
     "link": "https://www.lojakian.com.br/chave-de-grifo-tipo-americana-12--12272/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171758/Chave-de-Grifo-Tipo-Americana-12-.png?v=638990016752800000",
     "imageAlt": "Chave-de-Grifo-Tipo-Americana-12-",
-    "bestSeller": false
-  },
-  {
-    "id": "3920",
-    "name": "Chave Canhão 9mm",
-    "reference": "12217",
-    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-canhao-9mm-12217/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171755/Chave-Canhao-9mm.png?v=638990005427970000",
-    "imageAlt": "Chave-Canhao-9mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3914",
-    "name": "Chave Canhão 6mm",
-    "reference": "12214",
-    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
-    "imageAlt": "Chave-Canhao-6mm",
     "bestSeller": false
   },
   {
@@ -4598,6 +4609,17 @@
     "bestSeller": false
   },
   {
+    "id": "2003",
+    "name": "Arandela Led 4 Focos Ajustável Preta 6W 6.500K Branca Fria Bivolt Kian",
+    "reference": "17890",
+    "description": "Detalhes fazem toda a diferença. As Arandelas Kian são muito utilizadas em ambientes projetados por arquitetos e designers de interiores por valorizar ambientes de passagem, como corredores e escadas, e como iluminação de destaque, evidenciando objetos e acabamentos. Os modelos variam quanto ao foco da luz.  As arandelas são peças extremamente versáteis, por possuir grau de proteção IP65 podem ser usadas em locais internos e externos.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/arandela-led-4-focos-ajustavel-preta-6w-6-500k-branca-fria-bivolt-kian-17890/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169782/Arandela-Led-4-Focos-Ajustavel-Preta-6W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260991826200000",
+    "imageAlt": "Arandela-Led-4-Focos-Ajustavel-Preta-6W-6-500K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "2001",
     "name": "Arandela Led 4 Focos Ajustável Preta 6W 3.000K Branca Quente Bivolt Kian",
     "reference": "17889",
@@ -4606,17 +4628,6 @@
     "link": "https://www.lojakian.com.br/arandela-led-4-focos-ajustavel-preta-6w-3-000k-branca-quente-bivolt-kian-17889/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169779/Arandela-Led-4-Focos-Ajustavel-Preta-6W-3-000K-Branca-Quente-Bivolt-Kian.png?v=638260991545300000",
     "imageAlt": "Arandela-Led-4-Focos-Ajustavel-Preta-6W-3-000K-Branca-Quente-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1977",
-    "name": "Mini Spot Led Redondo Branco 1W 6.500K Branca Fria Bivolt Kian",
-    "reference": "17841",
-    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/mini-spot-led-redondo-branco-1w-6-500k-branca-fria-bivolt-kian-17841/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169734/Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988585030000",
-    "imageAlt": "Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -4639,17 +4650,6 @@
     "link": "https://www.lojakian.com.br/mini-spot-led-redondo-branco-1w-3-000k-branca-quente-bivolt-kian-17839/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169728/Mini-Spot-Led-Redondo-Branco-1W-3-000K-Branca-Quente-Bivolt-Kian.png?v=638260988113000000",
     "imageAlt": "Mini-Spot-Led-Redondo-Branco-1W-3-000K-Branca-Quente-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1971",
-    "name": "Mini Spot Led Quadrado Branco 1W 6.500K Branca Fria Bivolt Kian",
-    "reference": "17836",
-    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/mini-spot-led-quadrado-branco-1w-6-500k-branca-fria-bivolt-kian-17836/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169722/Mini-Spot-Led-Quadrado-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260987717000000",
-    "imageAlt": "Mini-Spot-Led-Quadrado-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -4862,14 +4862,14 @@
     "bestSeller": false
   },
   {
-    "id": "656",
-    "name": "Lâmpada Incandescente Vela Clara 40W Base E14 220V Kian - CX/10",
-    "reference": "6086",
-    "description": "Caixa com 10 unidades.<br>Com design clássico no formato Vela, a lâmpada é perfeita para dar um toque especial e elegante na decoração de ambientes residenciais e comerciais que prezam por sofisticação e atenção aos detalhes. Indicada para serem usadas em lustres e pendentes trazem um ar retrô para o ambiente.",
+    "id": "687",
+    "name": "Lâmpada Incandescente Bulbo R63 Aluminizado 50W Base E27 127V Kian - CX/10",
+    "reference": "6102",
+    "description": "Caixa com 10 unidades.<br>Foram desenvolvidas com Bulbo Claro ou Refletivo para realizar o aquecimento e secagem de ambientes. São muito utilizadas em fornos micro-ondas, fogões, geladeiras, estufas, cabines de pintura e até em criadouros de animais.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lampada-incandescente-vela-clara-40w-base-e14-220v-kian---cx-10-6086/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167751/Lampada-Incandescente-Vela-Clara-40W-Base-E14-220V-Kian---CX-10.png?v=638260865195900000",
-    "imageAlt": "Lampada-Incandescente-Vela-Clara-40W-Base-E14-220V-Kian---CX-10",
+    "link": "https://www.lojakian.com.br/lampada-incandescente-bulbo-r63-aluminizado-50w-base-e27-127v-kian---cx-10-6102/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167805/Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-127V-Kian---CX-10.png?v=638260869240730000",
+    "imageAlt": "Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-127V-Kian---CX-10",
     "bestSeller": false
   },
   {
