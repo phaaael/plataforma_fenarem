@@ -99,17 +99,6 @@
     "bestSeller": true
   },
   {
-    "id": "4771",
-    "name": "Tesoura Poda Galho 24\"",
-    "reference": "24048",
-    "description": "A tesoura de poda para galho 24\" é ideal para cortes precisos em galhos mais grossos. Oferece maior alcance, força e controle, sendo indicada para jardinagem, manutenção de árvores e uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/tesoura-poda-galho-24--24048/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172655/Tesoura-Poda-Galho-24-.png?v=639086820717600000",
-    "imageAlt": "Tesoura-Poda-Galho-24-",
-    "bestSeller": true
-  },
-  {
     "id": "4770",
     "name": "Tesoura Ajustável Para Cerca Viva 21,5\"",
     "reference": "24043",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-25cm-20609/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172536/Cantoneira-Mao-Francesa-Branca-Para-Trilho-25cm.png?v=639083140116500000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-25cm",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "5182",
@@ -426,6 +415,17 @@
     "link": "https://www.lojakian.com.br/pa-estreita-jardinagem-12--24053/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172375/Pa-Estreita-Jardinagem-12-.png?v=639071892545070000",
     "imageAlt": "Pa-Estreita-Jardinagem-12-",
+    "bestSeller": false
+  },
+  {
+    "id": "4771",
+    "name": "Tesoura Poda Galho 24\"",
+    "reference": "24048",
+    "description": "A tesoura de poda para galho 24\" é ideal para cortes precisos em galhos mais grossos. Oferece maior alcance, força e controle, sendo indicada para jardinagem, manutenção de árvores e uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/tesoura-poda-galho-24--24048/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172655/Tesoura-Poda-Galho-24-.png?v=639086820717600000",
+    "imageAlt": "Tesoura-Poda-Galho-24-",
     "bestSeller": false
   },
   {
