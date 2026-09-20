@@ -132,6 +132,17 @@
     "bestSeller": true
   },
   {
+    "id": "5050",
+    "name": "Porta Cadeado 2\"",
+    "reference": "13461",
+    "description": "O Porta Cadeado 2\" é ideal para reforçar a segurança de portões, portas de armários e portinhas de ferro ou madeira. Fabricado em aço resistente, garante durabilidade, firmeza e proteção confiável contra arrombamentos.<br><br>Com design compacto e compatível com cadeados de até 2\", facilita a instalação em diversos ambientes residenciais e comerciais. Perfeito para quem busca porta cadeado 2 polegadas, suporte seguro para cadeado e proteção eficiente para portas e portões.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/porta-cadeado-2--13461/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172485/Porta-Cadeado-2-.png?v=639083083655500000",
+    "imageAlt": "Porta-Cadeado-2-",
+    "bestSeller": true
+  },
+  {
     "id": "5048",
     "name": "Dobradiça Colonial Com Anel 3'x2.1/2\" Com 3 Unidades",
     "reference": "13459",
@@ -261,7 +272,7 @@
     "link": "https://www.lojakian.com.br/trincha-multiuso-1-2--14130/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172360/TRINCHA-MULTIUSO-1-2-.png?v=639071867281470000",
     "imageAlt": "TRINCHA-MULTIUSO-1-2-",
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "4762",
@@ -1438,17 +1449,6 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-7-8--saco-c--4-13440/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171721/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-7-8--Saco-c--4.png?v=638987395204370000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-7-8--Saco-c--4",
-    "bestSeller": false
-  },
-  {
-    "id": "3839",
-    "name": "Esticador Para Cabo de Aço Gancho Olhal 5/8” Saco c/ 5",
-    "reference": "13439",
-    "description": "O Esticador para Cabo de Aço Gancho Olhal é a solução ideal para tensionar, ajustar e firmar cabos de aço em aplicações industriais, estruturais e de uso geral. Corpo fabricado em aço carbono e acabamento galvanizado, garante durabilidade, segurança e precisão no ajuste da tensão. Sistema gancho + olhal: praticidade na fixação. Corpo reforçado para suportar altas cargas. Regulagem precisa para tensionamento seguro . Ideal para cercamentos, estaiamentos, amarrações e estruturas metálicas. Resistente à oxidação, garantindo longa vida útil.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-5-8--saco-c--5-13439/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171720/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5.png?v=638987394956270000",
-    "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5",
     "bestSeller": false
   },
   {
@@ -3575,17 +3575,6 @@
     "bestSeller": false
   },
   {
-    "id": "5050",
-    "name": "Porta Cadeado 2\"",
-    "reference": "13461",
-    "description": "O Porta Cadeado 2\" é ideal para reforçar a segurança de portões, portas de armários e portinhas de ferro ou madeira. Fabricado em aço resistente, garante durabilidade, firmeza e proteção confiável contra arrombamentos.<br><br>Com design compacto e compatível com cadeados de até 2\", facilita a instalação em diversos ambientes residenciais e comerciais. Perfeito para quem busca porta cadeado 2 polegadas, suporte seguro para cadeado e proteção eficiente para portas e portões.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/porta-cadeado-2--13461/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172485/Porta-Cadeado-2-.png?v=639083083655500000",
-    "imageAlt": "Porta-Cadeado-2-",
-    "bestSeller": false
-  },
-  {
     "id": "5049",
     "name": "Dobradiça Colonial Com Anel 3.1/2\"x3\" Com 3 Unidades",
     "reference": "13460",
@@ -4331,6 +4320,17 @@
     "link": "https://www.lojakian.com.br/grampo-para-cabo-de-aco-1-2--saco-c--25-13425/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171724/Grampo-Para-Cabo-de-Aco-1-2--Saco-c--25.png?v=638987412679930000",
     "imageAlt": "Grampo-Para-Cabo-de-Aco-1-2--Saco-c--25",
+    "bestSeller": false
+  },
+  {
+    "id": "3839",
+    "name": "Esticador Para Cabo de Aço Gancho Olhal 5/8” Saco c/ 5",
+    "reference": "13439",
+    "description": "O Esticador para Cabo de Aço Gancho Olhal é a solução ideal para tensionar, ajustar e firmar cabos de aço em aplicações industriais, estruturais e de uso geral. Corpo fabricado em aço carbono e acabamento galvanizado, garante durabilidade, segurança e precisão no ajuste da tensão. Sistema gancho + olhal: praticidade na fixação. Corpo reforçado para suportar altas cargas. Regulagem precisa para tensionamento seguro . Ideal para cercamentos, estaiamentos, amarrações e estruturas metálicas. Resistente à oxidação, garantindo longa vida útil.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-5-8--saco-c--5-13439/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171720/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5.png?v=638987394956270000",
+    "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5",
     "bestSeller": false
   },
   {
