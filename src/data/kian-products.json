@@ -44,28 +44,6 @@
     "bestSeller": true
   },
   {
-    "id": "4787",
-    "name": "Luminária Led Painel BKL Redonda Sobrepor Branca 12W 6.000K Branca Fria Bivolt Kian",
-    "reference": "24636",
-    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
-    "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": true
-  },
-  {
-    "id": "4762",
-    "name": "Bandeja Para Pintura 23cm",
-    "reference": "14106",
-    "description": "A bandeja para pintura 23 cm é ideal para o uso com rolos e pincéis, facilitando a distribuição uniforme da tinta. Prática e resistente, auxilia no controle da quantidade de tinta, sendo indicada para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/bandeja-para-pintura-23cm-14106/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172359/Bandeja-Para-Pintura-23cm.png?v=639071867056700000",
-    "imageAlt": "Bandeja-Para-Pintura-23cm",
-    "bestSeller": true
-  },
-  {
     "id": "4466",
     "name": "DOBRADIÇA RETA PARA MÓVEIS 35MM SEM PISTÃO COM 2 UNIDADES",
     "reference": "14897",
@@ -96,6 +74,17 @@
     "link": "https://www.lojakian.com.br/dobradica-invisivel-60mm-13472/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171817/Dobradica-Invisivel-60mm.png?v=638993443018200000",
     "imageAlt": "Dobradica-Invisivel-60mm",
+    "bestSeller": true
+  },
+  {
+    "id": "3401",
+    "name": "Luminária Led Painel BKL Redonda Embutir Branca 24W 6.000K Branca Fria Bivolt Kian",
+    "reference": "24618",
+    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-24w-6-000k-branca-fria-bivolt-kian-24618/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171439/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638733168721300000",
+    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-24W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": true
   },
   {
@@ -143,6 +132,17 @@
     "bestSeller": true
   },
   {
+    "id": "4787",
+    "name": "Luminária Led Painel BKL Redonda Sobrepor Branca 12W 6.000K Branca Fria Bivolt Kian",
+    "reference": "24636",
+    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
+    "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": true
+  },
+  {
     "id": "4763",
     "name": "TRINCHA MULTIUSO 1/2\"",
     "reference": "14130",
@@ -151,6 +151,28 @@
     "link": "https://www.lojakian.com.br/trincha-multiuso-1-2--14130/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172360/TRINCHA-MULTIUSO-1-2-.png?v=639071867281470000",
     "imageAlt": "TRINCHA-MULTIUSO-1-2-",
+    "bestSeller": true
+  },
+  {
+    "id": "4762",
+    "name": "Bandeja Para Pintura 23cm",
+    "reference": "14106",
+    "description": "A bandeja para pintura 23 cm é ideal para o uso com rolos e pincéis, facilitando a distribuição uniforme da tinta. Prática e resistente, auxilia no controle da quantidade de tinta, sendo indicada para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/bandeja-para-pintura-23cm-14106/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172359/Bandeja-Para-Pintura-23cm.png?v=639071867056700000",
+    "imageAlt": "Bandeja-Para-Pintura-23cm",
+    "bestSeller": true
+  },
+  {
+    "id": "4644",
+    "name": "Ferro de Soldar 30W 127V",
+    "reference": "12486",
+    "description": "O ferro de soldar 30W 127V é ideal para trabalhos leves de soldagem em eletrônica e pequenos reparos. Oferece aquecimento rápido, precisão e praticidade, sendo indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/ferro-de-soldar-30w-127v-12486/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172263/Ferro-de-Soldar-30W-127V.png?v=639059954206300000",
+    "imageAlt": "Ferro-de-Soldar-30W-127V",
     "bestSeller": true
   },
   {
@@ -231,17 +253,6 @@
     "bestSeller": true
   },
   {
-    "id": "3401",
-    "name": "Luminária Led Painel BKL Redonda Embutir Branca 24W 6.000K Branca Fria Bivolt Kian",
-    "reference": "24618",
-    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-24w-6-000k-branca-fria-bivolt-kian-24618/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171439/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638733168721300000",
-    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-24W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": true
-  },
-  {
     "id": "2623",
     "name": "Luminária Led Tartaruga Branca Oval 18W 4.000K Branca Neutra Bivolt Kian",
     "reference": "20440",
@@ -261,7 +272,7 @@
     "link": "https://www.lojakian.com.br/lampada-led-mr16-4w-azul-base-gu10-bivolt-kian-10653/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170531/Lampada-Led-MR16-4W-Azul-Base-GU10-Bivolt-Kian.png?v=638518904089570000",
     "imageAlt": "Lampada-Led-MR16-4W-Azul-Base-GU10-Bivolt-Kian",
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "744",
@@ -283,17 +294,6 @@
     "link": "https://www.lojakian.com.br/luminaria-de-mesa-flex-base-branca-base-e27-bivolt-kian-7811/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170442/Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian.jpg?v=638508574825970000",
     "imageAlt": "Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "4644",
-    "name": "Ferro de Soldar 30W 127V",
-    "reference": "12486",
-    "description": "O ferro de soldar 30W 127V é ideal para trabalhos leves de soldagem em eletrônica e pequenos reparos. Oferece aquecimento rápido, precisão e praticidade, sendo indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/ferro-de-soldar-30w-127v-12486/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172263/Ferro-de-Soldar-30W-127V.png?v=639059954206300000",
-    "imageAlt": "Ferro-de-Soldar-30W-127V",
     "bestSeller": false
   },
   {
@@ -404,39 +404,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-6-000k-branca-fria-bivolt-kian-27395/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171587/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959837830000",
     "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3613",
-    "name": "Luminária Led Painel Recuado Quadrada Embutir 24W 6.000K Branca Fria Bivolt Kian",
-    "reference": "27391",
-    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-embutir-24w-6-000k-branca-fria-bivolt-kian-27391/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171583/Luminaria-Led-Painel-Recuado-Quadrada-Embutir-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959199700000",
-    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Embutir-24W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3563",
-    "name": "Projetor LED Solar Sensor 100W 6.500K Branca Fria Bivolt Kian",
-    "reference": "27230",
-    "description": "Solução sustentável e econômica para iluminação de ambientes externos. Ele recarrega durante o dia e ilumina à noite, permitindo a projeção de luz durante a noite. O projetor solar é fácil de instalar e pode ser usado em jardins, áreas de lazer, entradas de garagem e outros locais que precisam de iluminação noturna.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/projetor-led-solar-sensor-100w-6-500k-branca-fria-bivolt-kian-27230/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171552/Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638772993145770000",
-    "imageAlt": "Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3531",
-    "name": "Luminária Led Arandela 8 Dots Branco 8W 6.000K Branca fria Kian",
-    "reference": "27216",
-    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-arandela-8-dots-branco-8w-6-000k-branca-fria-kian-27216/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171528/Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian.png?v=638772098994170000",
-    "imageAlt": "Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian",
     "bestSeller": false
   },
   {
@@ -682,6 +649,17 @@
     "bestSeller": false
   },
   {
+    "id": "3613",
+    "name": "Luminária Led Painel Recuado Quadrada Embutir 24W 6.000K Branca Fria Bivolt Kian",
+    "reference": "27391",
+    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-embutir-24w-6-000k-branca-fria-bivolt-kian-27391/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171583/Luminaria-Led-Painel-Recuado-Quadrada-Embutir-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959199700000",
+    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Embutir-24W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3565",
     "name": "Arandela Led Leitura Branca 3W 3.000K Branca Quente Bivolt Kian",
     "reference": "27407",
@@ -690,6 +668,17 @@
     "link": "https://www.lojakian.com.br/arandela-led-leitura-branca-3w-3-000k-branca-quente-bivolt-kian-27407/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171553/Arandela-Led-Leitura-Branca-3W-3-000K-Branca-Quente-Bivolt-Kian.png?v=638773011205670000",
     "imageAlt": "Arandela-Led-Leitura-Branca-3W-3-000K-Branca-Quente-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "3563",
+    "name": "Projetor LED Solar Sensor 100W 6.500K Branca Fria Bivolt Kian",
+    "reference": "27230",
+    "description": "Solução sustentável e econômica para iluminação de ambientes externos. Ele recarrega durante o dia e ilumina à noite, permitindo a projeção de luz durante a noite. O projetor solar é fácil de instalar e pode ser usado em jardins, áreas de lazer, entradas de garagem e outros locais que precisam de iluminação noturna.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/projetor-led-solar-sensor-100w-6-500k-branca-fria-bivolt-kian-27230/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171552/Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638772993145770000",
+    "imageAlt": "Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -712,17 +701,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-slim-dual-redonda-embutir-18w-3-000k---6w-3-000k-kian-27223/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171547/Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian.png?v=638772231469700000",
     "imageAlt": "Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3523",
-    "name": "Luminária Led Arandela 8 Dots Preto 8W 6.000K Branca fria Kian",
-    "reference": "27212",
-    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-arandela-8-dots-preto-8w-6-000k-branca-fria-kian-27212/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171520/Luminaria-Led-Arandela-8-Dots-Preto-8W-6-000K-Branca-fria-Kian.png?v=638772087043270000",
-    "imageAlt": "Luminaria-Led-Arandela-8-Dots-Preto-8W-6-000K-Branca-fria-Kian",
     "bestSeller": false
   },
   {
@@ -877,6 +855,17 @@
     "link": "https://www.lojakian.com.br/chuveiro-articulado-com-braco-1-2-abs-cromado-13396/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172239/Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado.png?v=639059834202800000",
     "imageAlt": "Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado",
+    "bestSeller": false
+  },
+  {
+    "id": "4628",
+    "name": "Alicate Multiuso Para Eletricista 9\" 229mm",
+    "reference": "12140",
+    "description": "O alicate multiuso para eletricista 9\" (229 mm) é ideal para cortes, aperto e manuseio de fios e cabos. Resistente e funcional, oferece praticidade e segurança para trabalhos elétricos, sendo indicado para uso profissional ou doméstico.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/alicate-multiuso-para-eletricista-9--229mm-12140/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172233/Alicate-Multiuso-Para-Eletricista-9--229mm.png?v=639059797605330000",
+    "imageAlt": "Alicate-Multiuso-Para-Eletricista-9--229mm",
     "bestSeller": false
   },
   {
@@ -1254,6 +1243,17 @@
     "bestSeller": false
   },
   {
+    "id": "3531",
+    "name": "Luminária Led Arandela 8 Dots Branco 8W 6.000K Branca fria Kian",
+    "reference": "27216",
+    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-arandela-8-dots-branco-8w-6-000k-branca-fria-kian-27216/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171528/Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian.png?v=638772098994170000",
+    "imageAlt": "Luminaria-Led-Arandela-8-Dots-Branco-8W-6-000K-Branca-fria-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3327",
     "name": "Air Fryer 3,5 litros 220V Cinza 1200W AF-105 Kian",
     "reference": "24291",
@@ -1364,17 +1364,6 @@
     "bestSeller": false
   },
   {
-    "id": "4628",
-    "name": "Alicate Multiuso Para Eletricista 9\" 229mm",
-    "reference": "12140",
-    "description": "O alicate multiuso para eletricista 9\" (229 mm) é ideal para cortes, aperto e manuseio de fios e cabos. Resistente e funcional, oferece praticidade e segurança para trabalhos elétricos, sendo indicado para uso profissional ou doméstico.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/alicate-multiuso-para-eletricista-9--229mm-12140/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172233/Alicate-Multiuso-Para-Eletricista-9--229mm.png?v=639059797605330000",
-    "imageAlt": "Alicate-Multiuso-Para-Eletricista-9--229mm",
-    "bestSeller": false
-  },
-  {
     "id": "4197",
     "name": "SUPORTE DE TV 26\" A 55\"",
     "reference": "14932",
@@ -1405,17 +1394,6 @@
     "link": "https://www.lojakian.com.br/conjunto-de-bits-44-pecas-24698/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171856/Conjunto-de-Bits-44-Pecas.png?v=638993483106030000",
     "imageAlt": "Conjunto-de-Bits-44-Pecas",
-    "bestSeller": false
-  },
-  {
-    "id": "3185",
-    "name": "Cafeteira Elétrica 30 xícaras 127V Preto CF-100 Kian",
-    "reference": "24746",
-    "description": "Ideal para quem busca praticidade e qualidade no preparo do café. Com 800W de potência, esta cafeteira combina eficiência e funcionalidade, sendo perfeita para o uso diário. Possui uma jarra de vidro temperado, que não deixa resíduos ou odores, além de ser durável e fácil de limpar.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-127v-preto-cf-100-kian-24746/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171319/Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian.png?v=638659949569930000",
-    "imageAlt": "Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian",
     "bestSeller": false
   },
   {
@@ -2321,6 +2299,17 @@
     "bestSeller": false
   },
   {
+    "id": "3523",
+    "name": "Luminária Led Arandela 8 Dots Preto 8W 6.000K Branca fria Kian",
+    "reference": "27212",
+    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-arandela-8-dots-preto-8w-6-000k-branca-fria-kian-27212/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171520/Luminaria-Led-Arandela-8-Dots-Preto-8W-6-000K-Branca-fria-Kian.png?v=638772087043270000",
+    "imageAlt": "Luminaria-Led-Arandela-8-Dots-Preto-8W-6-000K-Branca-fria-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3501",
     "name": "Luminária Led Arandela 4 Dots Preto 4W 6.000K Branca fria Kian",
     "reference": "27210",
@@ -2340,6 +2329,17 @@
     "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-220v-preto-cf-101-kian-24747/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171307/Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian.png?v=638659944147270000",
     "imageAlt": "Cafeteira-Eletrica-30-xicaras-220V-Preto-CF-101-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "3185",
+    "name": "Cafeteira Elétrica 30 xícaras 127V Preto CF-100 Kian",
+    "reference": "24746",
+    "description": "Ideal para quem busca praticidade e qualidade no preparo do café. Com 800W de potência, esta cafeteira combina eficiência e funcionalidade, sendo perfeita para o uso diário. Possui uma jarra de vidro temperado, que não deixa resíduos ou odores, além de ser durável e fácil de limpar.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-127v-preto-cf-100-kian-24746/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171319/Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian.png?v=638659949569930000",
+    "imageAlt": "Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian",
     "bestSeller": false
   },
   {
@@ -3421,17 +3421,6 @@
     "bestSeller": false
   },
   {
-    "id": "4429",
-    "name": "Jogo de Chave Precisão 11 peças",
-    "reference": "24068",
-    "description": "O Jogo de Chave de Precisão 11 Peças é ideal para manutenção de eletrônicos, celulares, relógios, óculos e pequenos equipamentos. <br>Fabricadas em aço resistente, as chaves oferecem alta precisão e durabilidade, com design ergonômico para melhor controle e conforto no uso.<br><br><br>Indicado para: eletrônica, informática, manutenção fina e uso doméstico.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-chave-precisao-11-pecas-24068/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172225/Jogo-de-Chave-Precisao-11-pecas.png?v=639059750073400000",
-    "imageAlt": "Jogo-de-Chave-Precisao-11-pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4060",
     "name": "KIT 5 CABIDES AÇO ROSA",
     "reference": "22965",
@@ -3498,17 +3487,6 @@
     "bestSeller": false
   },
   {
-    "id": "4432",
-    "name": "RODO DUPLO 42CM COM CABO",
-    "reference": "14890",
-    "description": "O rodo duplo 42 cm com cabo é ideal para a limpeza eficiente de pisos internos e externos. Possui dupla borracha que garante melhor remoção de água e sujeira, proporcionando secagem rápida e acabamento uniforme. Resistente, prático e fácil de manusear, é indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/rodo-duplo-42cm-com-cabo-14890/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172200/Rodo-Duplo-42CM-Com-Cabo.png?v=639058113768330000",
-    "imageAlt": "Rodo-Duplo-42CM-Com-Cabo",
-    "bestSeller": false
-  },
-  {
     "id": "4217",
     "name": "Trinco Para Porta Colonial 150mm",
     "reference": "13478",
@@ -3572,6 +3550,17 @@
     "link": "https://www.lojakian.com.br/dobradica-galvanizada-pino-reversivel-3-x2--com-3-unidades-13454/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172158/Dobradica-Galvanizada-Pino-Reversivel-3-X2--com-3-Unidades.png?v=639057211685200000",
     "imageAlt": "Dobradica-Galvanizada-Pino-Reversivel-3-X2--com-3-Unidades",
+    "bestSeller": false
+  },
+  {
+    "id": "4429",
+    "name": "Jogo de Chave Precisão 11 peças",
+    "reference": "24068",
+    "description": "O Jogo de Chave de Precisão 11 Peças é ideal para manutenção de eletrônicos, celulares, relógios, óculos e pequenos equipamentos. <br>Fabricadas em aço resistente, as chaves oferecem alta precisão e durabilidade, com design ergonômico para melhor controle e conforto no uso.<br><br><br>Indicado para: eletrônica, informática, manutenção fina e uso doméstico.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-chave-precisao-11-pecas-24068/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172225/Jogo-de-Chave-Precisao-11-pecas.png?v=639059750073400000",
+    "imageAlt": "Jogo-de-Chave-Precisao-11-pecas",
     "bestSeller": false
   },
   {
@@ -3913,6 +3902,17 @@
     "link": "https://www.lojakian.com.br/dobradica-galvanizada-pino-reversivel-3-1-2-x2--1-2--com-3-unidades-13455/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172159/Dobradica-Galvanizada-Pino-Reversivel-3-1-2-X2--1-2--com-3-unidades.png?v=639057212037770000",
     "imageAlt": "Dobradica-Galvanizada-Pino-Reversivel-3-1-2-X2--1-2--com-3-unidades",
+    "bestSeller": false
+  },
+  {
+    "id": "4432",
+    "name": "RODO DUPLO 42CM COM CABO",
+    "reference": "14890",
+    "description": "O rodo duplo 42 cm com cabo é ideal para a limpeza eficiente de pisos internos e externos. Possui dupla borracha que garante melhor remoção de água e sujeira, proporcionando secagem rápida e acabamento uniforme. Resistente, prático e fácil de manusear, é indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/rodo-duplo-42cm-com-cabo-14890/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172200/Rodo-Duplo-42CM-Com-Cabo.png?v=639058113768330000",
+    "imageAlt": "Rodo-Duplo-42CM-Com-Cabo",
     "bestSeller": false
   },
   {
