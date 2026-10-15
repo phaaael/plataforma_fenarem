@@ -132,17 +132,6 @@
     "bestSeller": true
   },
   {
-    "id": "4763",
-    "name": "TRINCHA MULTIUSO 1/2\"",
-    "reference": "14130",
-    "description": "A trincha multiuso 1/2\" é ideal para pinturas, retoques e acabamentos em geral. Oferece precisão, bom controle e praticidade, sendo indicada para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/trincha-multiuso-1-2--14130/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172360/TRINCHA-MULTIUSO-1-2-.png?v=639071867281470000",
-    "imageAlt": "TRINCHA-MULTIUSO-1-2-",
-    "bestSeller": true
-  },
-  {
     "id": "4762",
     "name": "Bandeja Para Pintura 23cm",
     "reference": "14106",
@@ -220,6 +209,17 @@
     "bestSeller": true
   },
   {
+    "id": "3625",
+    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 24W 6.000K Branca Fria Bivolt Kian",
+    "reference": "27397",
+    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-24w-6-000k-branca-fria-bivolt-kian-27397/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171589/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773965190800000",
+    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": true
+  },
+  {
     "id": "3609",
     "name": "Luminária Led Painel Recuado Quadrada Embutir 18W 6.000K Branca Fria Bivolt Kian",
     "reference": "27389",
@@ -283,6 +283,17 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
     "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "4763",
+    "name": "TRINCHA MULTIUSO 1/2\"",
+    "reference": "14130",
+    "description": "A trincha multiuso 1/2\" é ideal para pinturas, retoques e acabamentos em geral. Oferece precisão, bom controle e praticidade, sendo indicada para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/trincha-multiuso-1-2--14130/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172360/TRINCHA-MULTIUSO-1-2-.png?v=639071867281470000",
+    "imageAlt": "TRINCHA-MULTIUSO-1-2-",
     "bestSeller": false
   },
   {
@@ -374,14 +385,14 @@
     "bestSeller": false
   },
   {
-    "id": "3625",
-    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 24W 6.000K Branca Fria Bivolt Kian",
-    "reference": "27397",
+    "id": "3621",
+    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 18W 6.000K Branca Fria Bivolt Kian",
+    "reference": "27395",
     "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-24w-6-000k-branca-fria-bivolt-kian-27397/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171589/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773965190800000",
-    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-6-000k-branca-fria-bivolt-kian-27395/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171587/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959837830000",
+    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -495,6 +506,17 @@
     "bestSeller": false
   },
   {
+    "id": "4764",
+    "name": "Adaptador SDS Plus Para Mandril 1/2\"",
+    "reference": "14532",
+    "description": "O adaptador SDS Plus para mandril 1/2\" permite utilizar brocas convencionais em marteletes com encaixe SDS Plus. Prático e resistente, garante encaixe seguro, versatilidade e melhor aproveitamento da ferramenta, sendo ideal para uso profissional ou doméstico.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/adaptador-sds-plus-para-mandril-1-2--14532/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172361/Adaptador-SDS-Plus-Para-Mandril-1-2-.png?v=639071867504070000",
+    "imageAlt": "Adaptador-SDS-Plus-Para-Mandril-1-2-",
+    "bestSeller": false
+  },
+  {
     "id": "4651",
     "name": "Arruela Lisa Galvanizada 1/8 Com 1KG",
     "reference": "13506",
@@ -550,6 +572,17 @@
     "bestSeller": false
   },
   {
+    "id": "3914",
+    "name": "Chave Canhão 6mm",
+    "reference": "12214",
+    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
+    "imageAlt": "Chave-Canhao-6mm",
+    "bestSeller": false
+  },
+  {
     "id": "3904",
     "name": "Chave Canhão 11mm",
     "reference": "12219",
@@ -591,17 +624,6 @@
     "link": "https://www.lojakian.com.br/abracadeira-rosca-sem-fim-27-a-51mm-x-12mm-saco-c--50-13422/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171705/Abracadeira-Rosca-Sem-Fim-27-a-51mm-x-12mm-Saco-c--50.png?v=638987286921270000",
     "imageAlt": "Abracadeira-Rosca-Sem-Fim-27-a-51mm-x-12mm-Saco-c--50",
-    "bestSeller": false
-  },
-  {
-    "id": "3621",
-    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 18W 6.000K Branca Fria Bivolt Kian",
-    "reference": "27395",
-    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-6-000k-branca-fria-bivolt-kian-27395/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171587/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959837830000",
-    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -734,6 +756,17 @@
     "link": "https://www.lojakian.com.br/lampada-led-mr11-dimerizavel-3-5w-2-700k-branca-quente-base-gu10-bivolt-kian-12736/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/168910/Lampada-Led-MR11-Dimerizavel-3-5W-2-700K-Branca-Quente-Base-GU10-Bivolt-Kian.png?v=638260933824330000",
     "imageAlt": "Lampada-Led-MR11-Dimerizavel-3-5W-2-700K-Branca-Quente-Base-GU10-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1133",
+    "name": "Spot Embutir Quadrado P/Lâmpada PAR20 Kian",
+    "reference": "11794",
+    "description": "Possibilita uma rápida instalação para lâmpadas direcionais. Estes acessórios estão disponíveis nos modelos redondo e quadrado e contam com diversos tamanhos, garantindo inúmeras possibilidades de aplicação.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/spot-embutir-quadrado-p-lampada-par20-kian-11794/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170236/Spot-Embutir-Quadrado-P-Lampada-PAR20-Kian.jpg?v=638342808097370000",
+    "imageAlt": "Spot-Embutir-Quadrado-P-Lampada-PAR20-Kian",
     "bestSeller": false
   },
   {
@@ -913,6 +946,17 @@
     "bestSeller": false
   },
   {
+    "id": "4121",
+    "name": "Pincel Nº 22 Com 12 Peças",
+    "reference": "14128",
+    "description": "O Pincel Nº 22 com cabo de madeira e cerdas naturais oferece alto desempenho, excelente absorção de tinta e acabamento uniforme, sendo ideal para superfícies amplas. Suas cerdas naturais garantem aplicação suave, melhor rendimento e maior precisão, evitando marcas e proporcionando resultado realmente profissional.<br>O cabo de madeira é ergonômico, resistente e confortável, permitindo maior controle durante o uso, mesmo em pinturas prolongadas. Perfeito para trabalhos residenciais, artesanais, pintura de paredes, madeiras, portas, grades e superfícies metálicas.<br>Uma ferramenta durável e eficiente para quem busca qualidade superior em qualquer projeto de pintura.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/pincel-n-22-com-12-pcs-rayco-14128/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171861/PINCEL-N-22-COM-12-PCS-RAYCO.png?v=638993512787570000",
+    "imageAlt": "PINCEL-N-22-COM-12-PCS-RAYCO",
+    "bestSeller": false
+  },
+  {
     "id": "4050",
     "name": "Broxa de Nylon Redonda 10,5cm",
     "reference": "14115",
@@ -932,17 +976,6 @@
     "link": "https://www.lojakian.com.br/chave-canhao-9mm-12217/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171755/Chave-Canhao-9mm.png?v=638990005427970000",
     "imageAlt": "Chave-Canhao-9mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3914",
-    "name": "Chave Canhão 6mm",
-    "reference": "12214",
-    "description": "A chave canhão é a ferramenta ideal para apertar e desapertar porcas e parafusos sextavados, especialmente em locais profundos ou de difícil alcance. Seu tubo alongado permite acessar fixadores embutidos com facilidade, garantindo agilidade, precisão e excelente transmissão de torque. Haste fabricada em aço especial temperado com acabamento cromado de alta resistência e cabo anatômico em polipropileno, oferece durabilidade e desempenho superior em trabalhos profissionais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
-    "imageAlt": "Chave-Canhao-6mm",
     "bestSeller": false
   },
   {
@@ -1023,28 +1056,6 @@
     "bestSeller": false
   },
   {
-    "id": "1867",
-    "name": "Luminária Led Painel Sobrepor 40W 120x30cm 4.000k Branca Neutra Bivolt Kian",
-    "reference": "17832",
-    "description": "Design moderno que se harmoniza com os ambientes. Mais luz e economia: Iluminação de alta potência com baixo consumo de energia. Podem ser usados em espaços residenciais e comerciais. Perfeito para utilização em tetos de alvenaria.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-sobrepor-40w-120x30cm-4-000k-branca-neutra-bivolt-kian-17832/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169710/Luminaria-Led-Painel-Sobrepor-40W-120x30cm-4-000k-Branca-Neutra-Bivolt-Kian.png?v=638260986941400000",
-    "imageAlt": "Luminaria-Led-Painel-Sobrepor-40W-120x30cm-4-000k-Branca-Neutra-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1386",
-    "name": "Fita Led 2 metros 3.000K Branca Quente IP44 2835 S/Fonte 12V Kian",
-    "reference": "16133",
-    "description": "Disponíveis nas temperaturas de cor branca morna (3.000K) e branca fria (6.000K), elas são perfeitas para iluminar sancas do teto, prateleiras, escadas, estantes, cabeceiras de cama, entre outros ambientes. Contam também com um revestimento impermeável que permite a utilização em ambientes externos.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/fita-led-2-metros-3-000k-branca-quente-ip44-2835-s-fonte-12v-kian-16133/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169432/Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian.png?v=638260964436100000",
-    "imageAlt": "Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "1311",
     "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
     "reference": "15504",
@@ -1122,17 +1133,6 @@
     "bestSeller": false
   },
   {
-    "id": "4764",
-    "name": "Adaptador SDS Plus Para Mandril 1/2\"",
-    "reference": "14532",
-    "description": "O adaptador SDS Plus para mandril 1/2\" permite utilizar brocas convencionais em marteletes com encaixe SDS Plus. Prático e resistente, garante encaixe seguro, versatilidade e melhor aproveitamento da ferramenta, sendo ideal para uso profissional ou doméstico.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/adaptador-sds-plus-para-mandril-1-2--14532/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172361/Adaptador-SDS-Plus-Para-Mandril-1-2-.png?v=639071867504070000",
-    "imageAlt": "Adaptador-SDS-Plus-Para-Mandril-1-2-",
-    "bestSeller": false
-  },
-  {
     "id": "4522",
     "name": "Disco De Serra Circular 7.1/4' X 20mm 24D",
     "reference": "12475",
@@ -1152,6 +1152,17 @@
     "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-preto-2-0m-20377/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171887/Trilho-Duplo-Para-Cantoneira-Preto-2-0m.png?v=638996020633630000",
     "imageAlt": "Trilho-Duplo-Para-Cantoneira-Preto-2-0m",
+    "bestSeller": false
+  },
+  {
+    "id": "4163",
+    "name": "Pincel Nº 24 Com 12 Peças",
+    "reference": "14129",
+    "description": "O Pincel nº 24 com cabo de madeira e cerdas naturais é ideal para quem busca precisão, cobertura uniforme e excelente acabamento em pinturas. Suas cerdas naturais garantem maior absorção e liberação equilibrada da tinta, proporcionando aplicação mais suave e profissional em paredes, superfícies de madeira, artesanato e retoques.<br>O cabo de madeira anatômico oferece firmeza e conforto durante o uso, tornando o pincel perfeito tanto para trabalhos domésticos quanto para aplicações profissionais. Resistente e durável, é compatível com tintas látex, PVA, esmalte, óleo e variadas superfícies.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/pincel-n--24-com-12-pecas-14129/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171862/Pincel-N--24-Com-12-Pecas.png?v=638995846685370000",
+    "imageAlt": "Pincel-N--24-Com-12-Pecas",
     "bestSeller": false
   },
   {
@@ -1207,17 +1218,6 @@
     "link": "https://www.lojakian.com.br/espatula-plastica-2--14149/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171839/Espatula-Plastica-2-.png?v=638993447525630000",
     "imageAlt": "Espatula-Plastica-2-",
-    "bestSeller": false
-  },
-  {
-    "id": "4121",
-    "name": "Pincel Nº 22 Com 12 Peças",
-    "reference": "14128",
-    "description": "O Pincel Nº 22 com cabo de madeira e cerdas naturais oferece alto desempenho, excelente absorção de tinta e acabamento uniforme, sendo ideal para superfícies amplas. Suas cerdas naturais garantem aplicação suave, melhor rendimento e maior precisão, evitando marcas e proporcionando resultado realmente profissional.<br>O cabo de madeira é ergonômico, resistente e confortável, permitindo maior controle durante o uso, mesmo em pinturas prolongadas. Perfeito para trabalhos residenciais, artesanais, pintura de paredes, madeiras, portas, grades e superfícies metálicas.<br>Uma ferramenta durável e eficiente para quem busca qualidade superior em qualquer projeto de pintura.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/pincel-n-22-com-12-pcs-rayco-14128/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171861/PINCEL-N-22-COM-12-PCS-RAYCO.png?v=638993512787570000",
-    "imageAlt": "PINCEL-N-22-COM-12-PCS-RAYCO",
     "bestSeller": false
   },
   {
@@ -1284,6 +1284,17 @@
     "link": "https://www.lojakian.com.br/fita-led-20-metros-6-000k-branca-fria-ip65-2835-9w-m-220v-kian-17371/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172121/Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian.png?v=639053984811870000",
     "imageAlt": "Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1386",
+    "name": "Fita Led 2 metros 3.000K Branca Quente IP44 2835 S/Fonte 12V Kian",
+    "reference": "16133",
+    "description": "Disponíveis nas temperaturas de cor branca morna (3.000K) e branca fria (6.000K), elas são perfeitas para iluminar sancas do teto, prateleiras, escadas, estantes, cabeceiras de cama, entre outros ambientes. Contam também com um revestimento impermeável que permite a utilização em ambientes externos.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/fita-led-2-metros-3-000k-branca-quente-ip44-2835-s-fonte-12v-kian-16133/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169432/Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian.png?v=638260964436100000",
+    "imageAlt": "Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian",
     "bestSeller": false
   },
   {
@@ -1394,6 +1405,17 @@
     "link": "https://www.lojakian.com.br/conjunto-de-bits-44-pecas-24698/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172815/Conjunto-de-Bits-44-Pecas.png?v=639274996128000000",
     "imageAlt": "Conjunto-de-Bits-44-Pecas",
+    "bestSeller": false
+  },
+  {
+    "id": "3127",
+    "name": "Sanduicheira e Grill Inox 220V Vermelho 750W Kian",
+    "reference": "24498",
+    "description": "É a solução ideal para o preparo de lanches rápidos e práticos. Com 750W de potência, ela aquece rapidamente e grelha seus sanduíches com perfeição. O design moderno em inox traz sofisticação para sua cozinha, enquanto as placas antiaderentes facilitam a limpeza. Compacta e eficiente, é perfeita para o dia a dia agitado.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/sanduicheira-e-grill-inox-220v-vermelho-750w-kian-24498/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171079/Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian.png?v=638634055607930000",
+    "imageAlt": "Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian",
     "bestSeller": false
   },
   {
@@ -1691,17 +1713,6 @@
     "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
     "imageAlt": "Suporte-de-Tv-14--a-42-",
-    "bestSeller": false
-  },
-  {
-    "id": "4163",
-    "name": "Pincel Nº 24 Com 12 Peças",
-    "reference": "14129",
-    "description": "O Pincel nº 24 com cabo de madeira e cerdas naturais é ideal para quem busca precisão, cobertura uniforme e excelente acabamento em pinturas. Suas cerdas naturais garantem maior absorção e liberação equilibrada da tinta, proporcionando aplicação mais suave e profissional em paredes, superfícies de madeira, artesanato e retoques.<br>O cabo de madeira anatômico oferece firmeza e conforto durante o uso, tornando o pincel perfeito tanto para trabalhos domésticos quanto para aplicações profissionais. Resistente e durável, é compatível com tintas látex, PVA, esmalte, óleo e variadas superfícies.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/pincel-n--24-com-12-pecas-14129/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171862/Pincel-N--24-Com-12-Pecas.png?v=638995846685370000",
-    "imageAlt": "Pincel-N--24-Com-12-Pecas",
     "bestSeller": false
   },
   {
@@ -2365,17 +2376,6 @@
     "bestSeller": false
   },
   {
-    "id": "3127",
-    "name": "Sanduicheira e Grill Inox 220V Vermelho 750W Kian",
-    "reference": "24498",
-    "description": "É a solução ideal para o preparo de lanches rápidos e práticos. Com 750W de potência, ela aquece rapidamente e grelha seus sanduíches com perfeição. O design moderno em inox traz sofisticação para sua cozinha, enquanto as placas antiaderentes facilitam a limpeza. Compacta e eficiente, é perfeita para o dia a dia agitado.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/sanduicheira-e-grill-inox-220v-vermelho-750w-kian-24498/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171079/Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian.png?v=638634055607930000",
-    "imageAlt": "Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "2947",
     "name": "Processador de Alimentos Turbo Vermelho 220V 350W Kian",
     "reference": "24230",
@@ -2607,6 +2607,17 @@
     "bestSeller": false
   },
   {
+    "id": "1867",
+    "name": "Luminária Led Painel Sobrepor 40W 120x30cm 4.000k Branca Neutra Bivolt Kian",
+    "reference": "17832",
+    "description": "Design moderno que se harmoniza com os ambientes. Mais luz e economia: Iluminação de alta potência com baixo consumo de energia. Podem ser usados em espaços residenciais e comerciais. Perfeito para utilização em tetos de alvenaria.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-sobrepor-40w-120x30cm-4-000k-branca-neutra-bivolt-kian-17832/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169710/Luminaria-Led-Painel-Sobrepor-40W-120x30cm-4-000k-Branca-Neutra-Bivolt-Kian.png?v=638260986941400000",
+    "imageAlt": "Luminaria-Led-Painel-Sobrepor-40W-120x30cm-4-000k-Branca-Neutra-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "1865",
     "name": "Luminária Led Painel Sobrepor 40W 120x30cm 3.000k Branca Quente Bivolt Kian",
     "reference": "17831",
@@ -2736,17 +2747,6 @@
     "link": "https://www.lojakian.com.br/spot-embutir-redondo-p-lampada-par30-kian-11795/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/168870/Spot-Embutir-Redondo-P-Lampada-PAR30-Kian.png?v=638260931976100000",
     "imageAlt": "Spot-Embutir-Redondo-P-Lampada-PAR30-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1133",
-    "name": "Spot Embutir Quadrado P/Lâmpada PAR20 Kian",
-    "reference": "11794",
-    "description": "Possibilita uma rápida instalação para lâmpadas direcionais. Estes acessórios estão disponíveis nos modelos redondo e quadrado e contam com diversos tamanhos, garantindo inúmeras possibilidades de aplicação.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/spot-embutir-quadrado-p-lampada-par20-kian-11794/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170236/Spot-Embutir-Quadrado-P-Lampada-PAR20-Kian.jpg?v=638342808097370000",
-    "imageAlt": "Spot-Embutir-Quadrado-P-Lampada-PAR20-Kian",
     "bestSeller": false
   },
   {
@@ -3443,17 +3443,6 @@
     "bestSeller": false
   },
   {
-    "id": "4536",
-    "name": "Jogo De Chave Catraca/Soquete 3/8\" 40 Peças",
-    "reference": "24109",
-    "description": "O jogo de chave catraca/soquete 3/8\" com 40 peças é ideal para manutenção e reparos em geral. Oferece praticidade, variedade de soquetes e excelente desempenho. Acompanha estojo plástico para armazenamento, garantindo organização, proteção das peças e fácil transporte, indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-chave-catraca-soquete-3-8--40-pecas-24109/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172221/Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas.png?v=639059217548930000",
-    "imageAlt": "Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4480",
     "name": "Dobradiça Galvanizada Pino Reversível 2.1/2\"X1.1/2\" com 3 Unidades",
     "reference": "13453",
@@ -3509,6 +3498,17 @@
     "bestSeller": false
   },
   {
+    "id": "4536",
+    "name": "Jogo De Chave Catraca/Soquete 3/8\" 40 Peças",
+    "reference": "24109",
+    "description": "O jogo de chave catraca/soquete 3/8\" com 40 peças é ideal para manutenção e reparos em geral. Oferece praticidade, variedade de soquetes e excelente desempenho. Acompanha estojo plástico para armazenamento, garantindo organização, proteção das peças e fácil transporte, indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-chave-catraca-soquete-3-8--40-pecas-24109/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172221/Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas.png?v=639059217548930000",
+    "imageAlt": "Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas",
+    "bestSeller": false
+  },
+  {
     "id": "4527",
     "name": "Nível de Alumínio 3 Bolhas 14\"",
     "reference": "12443",
@@ -3528,17 +3528,6 @@
     "link": "https://www.lojakian.com.br/dobradica-galvanizada-pino-reversivel-3-x2--com-3-unidades-13454/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172158/Dobradica-Galvanizada-Pino-Reversivel-3-X2--com-3-Unidades.png?v=639057211685200000",
     "imageAlt": "Dobradica-Galvanizada-Pino-Reversivel-3-X2--com-3-Unidades",
-    "bestSeller": false
-  },
-  {
-    "id": "4429",
-    "name": "Jogo de Chave Precisão 11 peças",
-    "reference": "24068",
-    "description": "O Jogo de Chave de Precisão 11 Peças é ideal para manutenção de eletrônicos, celulares, relógios, óculos e pequenos equipamentos. <br>Fabricadas em aço resistente, as chaves oferecem alta precisão e durabilidade, com design ergonômico para melhor controle e conforto no uso.<br><br><br>Indicado para: eletrônica, informática, manutenção fina e uso doméstico.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-chave-precisao-11-pecas-24068/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172225/Jogo-de-Chave-Precisao-11-pecas.png?v=639059750073400000",
-    "imageAlt": "Jogo-de-Chave-Precisao-11-pecas",
     "bestSeller": false
   },
   {
@@ -3572,6 +3561,17 @@
     "link": "https://www.lojakian.com.br/luminaria-led-embutir-parede-ki02b-ip44-branco-2w-4x4-branca-fria-6-5k-kian-12812/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169006/Luminaria-Led-Embutir-parede-KI02B-IP44-Branco-2W-4X4-Branca-Fria-6-5K-Kian.png?v=638260939013770000",
     "imageAlt": "Luminaria-Led-Embutir-parede-KI02B-IP44-Branco-2W-4X4-Branca-Fria-6-5K-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "4429",
+    "name": "Jogo de Chave Precisão 11 peças",
+    "reference": "24068",
+    "description": "O Jogo de Chave de Precisão 11 Peças é ideal para manutenção de eletrônicos, celulares, relógios, óculos e pequenos equipamentos. <br>Fabricadas em aço resistente, as chaves oferecem alta precisão e durabilidade, com design ergonômico para melhor controle e conforto no uso.<br><br><br>Indicado para: eletrônica, informática, manutenção fina e uso doméstico.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-chave-precisao-11-pecas-24068/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172225/Jogo-de-Chave-Precisao-11-pecas.png?v=639059750073400000",
+    "imageAlt": "Jogo-de-Chave-Precisao-11-pecas",
     "bestSeller": false
   },
   {
