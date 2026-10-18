@@ -110,17 +110,6 @@
     "bestSeller": true
   },
   {
-    "id": "1487",
-    "name": "Dimmer Bivolt Branco Kian",
-    "reference": "13257",
-    "description": "Ambientes versáteis merecem uma iluminação que acompanhem sua proposta. O Dimmer Kian surge como uma alternativa prática e eficiente para controlar a luminosidade de uma lâmpada no ambiente. O variador de intensidade luminosa é compatível com todas as lâmpadas incandescentes, halógenas e a linha LED Dimerizável Kian.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/dimmer-bivolt-branco-kian-13257/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169063/Dimmer-Bivolt-Branco-Kian.jpg?v=638260942133500000",
-    "imageAlt": "Dimmer-Bivolt-Branco-Kian",
-    "bestSeller": true
-  },
-  {
     "id": "5162",
     "name": "Cantoneira Mão Francesa Preta Para Trilho 35cm",
     "reference": "20384",
@@ -220,17 +209,6 @@
     "bestSeller": true
   },
   {
-    "id": "3625",
-    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 24W 6.000K Branca Fria Bivolt Kian",
-    "reference": "27397",
-    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-24w-6-000k-branca-fria-bivolt-kian-27397/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171589/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773965190800000",
-    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": true
-  },
-  {
     "id": "3609",
     "name": "Luminária Led Painel Recuado Quadrada Embutir 18W 6.000K Branca Fria Bivolt Kian",
     "reference": "27389",
@@ -250,6 +228,28 @@
     "link": "https://www.lojakian.com.br/luminaria-led-tartaruga-preta-oval-12w-4-000k-branca-neutra-bivolt-kian--20442/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170052/Luminaria-Led-Tartaruga-Preta-Oval-12W-4-000K-Branca-Neutra-Bivolt-Kian-.png?v=638288454237470000",
     "imageAlt": "Luminaria-Led-Tartaruga-Preta-Oval-12W-4-000K-Branca-Neutra-Bivolt-Kian-",
+    "bestSeller": true
+  },
+  {
+    "id": "2525",
+    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18648",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
+    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": true
+  },
+  {
+    "id": "1487",
+    "name": "Dimmer Bivolt Branco Kian",
+    "reference": "13257",
+    "description": "Ambientes versáteis merecem uma iluminação que acompanhem sua proposta. O Dimmer Kian surge como uma alternativa prática e eficiente para controlar a luminosidade de uma lâmpada no ambiente. O variador de intensidade luminosa é compatível com todas as lâmpadas incandescentes, halógenas e a linha LED Dimerizável Kian.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/dimmer-bivolt-branco-kian-13257/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169063/Dimmer-Bivolt-Branco-Kian.jpg?v=638260942133500000",
+    "imageAlt": "Dimmer-Bivolt-Branco-Kian",
     "bestSeller": true
   },
   {
@@ -371,6 +371,17 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-3-8--saco-c--25-13438/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171719/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25.png?v=638987394669500000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25",
+    "bestSeller": false
+  },
+  {
+    "id": "3625",
+    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 24W 6.000K Branca Fria Bivolt Kian",
+    "reference": "27397",
+    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-24w-6-000k-branca-fria-bivolt-kian-27397/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171589/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773965190800000",
+    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-24W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -594,17 +605,6 @@
     "bestSeller": false
   },
   {
-    "id": "3883",
-    "name": "Jogo de Soquete CRV 1/4\" x 65mm c/ 5 Pçs",
-    "reference": "14536",
-    "description": "O jogo de soquete CRV é a escolha ideal para quem busca ferramentas profissionais resistentes, duráveis e de alto desempenho. Fabricado em aço cromo-vanádio, o kit oferece soquetes reforçados, com excelente resistência à torção e à corrosão, garantindo eficiência em serviços de manutenção automotiva, industrial e mecânica.<br>O jogo permite apertar e desapertar porcas e parafusos com precisão, oferecendo ótimo encaixe e torque seguro.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-soquete-crv-1-4--x-65mm-c--5-pcs-14536/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171737/Jogo-de-Soquete-CRV-1-4--x-65mm-c--5-Pcs.png?v=638989782405730000",
-    "imageAlt": "Jogo-de-Soquete-CRV-1-4--x-65mm-c--5-Pcs",
-    "bestSeller": false
-  },
-  {
     "id": "3859",
     "name": "Grampo Para Cabo de Aço 5/8\" Saco c/ 15",
     "reference": "13430",
@@ -726,17 +726,6 @@
     "bestSeller": false
   },
   {
-    "id": "2525",
-    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18648",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
-    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "1357",
     "name": "Interruptor Inteligente 1 via Touch Branco  - Wi-Fi Switch Bivolt Kian",
     "reference": "15740",
@@ -803,17 +792,6 @@
     "bestSeller": false
   },
   {
-    "id": "5187",
-    "name": "Cantoneira Mão Francesa Branca Para Trilho 30cm",
-    "reference": "20610",
-    "description": "A Cantoneira Mão Francesa Branca para Trilho 30cm é ideal para sustentar prateleiras de médio porte com segurança e estabilidade. Fabricada em aço resistente com acabamento branco, oferece durabilidade e firmeza na fixação. Compatível com trilhos padrão, permite fácil instalação e ajuste de altura, sendo perfeita para organizar ambientes residenciais, comerciais e escritórios com praticidade e acabamento discreto.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-30cm-20610/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172537/Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm.png?v=639083140391400000",
-    "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm",
-    "bestSeller": false
-  },
-  {
     "id": "4771",
     "name": "Tesoura Poda Galho 24\"",
     "reference": "24048",
@@ -877,6 +855,17 @@
     "link": "https://www.lojakian.com.br/alicate-multiuso-para-eletricista-9--229mm-12140/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172233/Alicate-Multiuso-Para-Eletricista-9--229mm.png?v=639059797605330000",
     "imageAlt": "Alicate-Multiuso-Para-Eletricista-9--229mm",
+    "bestSeller": false
+  },
+  {
+    "id": "4522",
+    "name": "Disco De Serra Circular 7.1/4' X 20mm 24D",
+    "reference": "12475",
+    "description": "O disco de serra circular 7.1/4\" x 20 mm com 24 dentes é ideal para cortes eficientes em madeira e derivados. Oferece bom desempenho, corte limpo e resistência, sendo indicado para uso em serras circulares manuais ou de bancada.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/disco-de-serra-circular-7-1-4--x-20mm-24d-12475/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172212/Disco-De-Serra-Circular-7-1-4--X-20mm-24D.png?v=639059211131770000",
+    "imageAlt": "Disco-De-Serra-Circular-7-1-4--X-20mm-24D",
     "bestSeller": false
   },
   {
@@ -990,6 +979,17 @@
     "bestSeller": false
   },
   {
+    "id": "3883",
+    "name": "Jogo de Soquete CRV 1/4\" x 65mm c/ 5 Pçs",
+    "reference": "14536",
+    "description": "O jogo de soquete CRV é a escolha ideal para quem busca ferramentas profissionais resistentes, duráveis e de alto desempenho. Fabricado em aço cromo-vanádio, o kit oferece soquetes reforçados, com excelente resistência à torção e à corrosão, garantindo eficiência em serviços de manutenção automotiva, industrial e mecânica.<br>O jogo permite apertar e desapertar porcas e parafusos com precisão, oferecendo ótimo encaixe e torque seguro.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-soquete-crv-1-4--x-65mm-c--5-pcs-14536/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171737/Jogo-de-Soquete-CRV-1-4--x-65mm-c--5-Pcs.png?v=638989782405730000",
+    "imageAlt": "Jogo-de-Soquete-CRV-1-4--x-65mm-c--5-Pcs",
+    "bestSeller": false
+  },
+  {
     "id": "3327",
     "name": "Air Fryer 3,5 litros 220V Cinza 1200W AF-105 Kian",
     "reference": "24291",
@@ -1053,17 +1053,6 @@
     "link": "https://www.lojakian.com.br/lampada-eletronica-t2-827-7w-base-e27-220v-kian-7857/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171608/Lampada-Eletronica-T2-827-7W-Base-E27-220V-Kian.png?v=638791191364070000",
     "imageAlt": "Lampada-Eletronica-T2-827-7W-Base-E27-220V-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1311",
-    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
-    "reference": "15504",
-    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
-    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
     "bestSeller": false
   },
   {
@@ -1133,28 +1122,6 @@
     "bestSeller": false
   },
   {
-    "id": "4522",
-    "name": "Disco De Serra Circular 7.1/4' X 20mm 24D",
-    "reference": "12475",
-    "description": "O disco de serra circular 7.1/4\" x 20 mm com 24 dentes é ideal para cortes eficientes em madeira e derivados. Oferece bom desempenho, corte limpo e resistência, sendo indicado para uso em serras circulares manuais ou de bancada.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/disco-de-serra-circular-7-1-4--x-20mm-24d-12475/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172212/Disco-De-Serra-Circular-7-1-4--X-20mm-24D.png?v=639059211131770000",
-    "imageAlt": "Disco-De-Serra-Circular-7-1-4--X-20mm-24D",
-    "bestSeller": false
-  },
-  {
-    "id": "4209",
-    "name": "Trilho Duplo Para Cantoneira Preto 2,0m",
-    "reference": "20377",
-    "description": "O Trilho Duplo para Cantoneira Preto 2,0 m é perfeito para montar prateleiras ajustáveis com alta capacidade de carga, durabilidade e versatilidade. Seu sistema duplo proporciona maior estabilidade e segurança na instalação de cantoneiras, permitindo criar estruturas organizadas em casas, escritórios, depósitos e comércios.<br>Fabricado em material resistente e com pintura preta de excelente acabamento, o trilho oferece fixação firme na parede e possibilita ajustes de altura conforme a necessidade, garantindo uma solução prática e funcional para organização.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-preto-2-0m-20377/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171887/Trilho-Duplo-Para-Cantoneira-Preto-2-0m.png?v=638996020633630000",
-    "imageAlt": "Trilho-Duplo-Para-Cantoneira-Preto-2-0m",
-    "bestSeller": false
-  },
-  {
     "id": "4163",
     "name": "Pincel Nº 24 Com 12 Peças",
     "reference": "14129",
@@ -1185,17 +1152,6 @@
     "link": "https://www.lojakian.com.br/conjunto-de-bits-58-pecas-24697/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171855/Conjunto-de-Bits-58-Pecas.png?v=638993482830830000",
     "imageAlt": "Conjunto-de-Bits-58-Pecas",
-    "bestSeller": false
-  },
-  {
-    "id": "4143",
-    "name": "Enxada Ancinho 3 dentes 12\"",
-    "reference": "24057",
-    "description": "A Enxada Ancinho 3 Dentes 12\" é a ferramenta ideal para quem busca eficiência, resistência e praticidade em atividades de jardinagem, horta e manejo do solo. Com três dentes robustos, ela facilita o areamento, nivelamento e remoção de detritos, garantindo um preparo mais rápido e preciso da terra.<br>Seu design compacto de 12 polegadas oferece excelente controle, tornando o uso mais confortável em espaços pequenos ou detalhados. Produzida em material de alta qualidade, proporciona durabilidade e ótimo desempenho mesmo em solo mais firme.<br>Perfeita para jardineiros, horticultores e uso doméstico, entregando versatilidade e resultados profissionais.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/enxada-ancinho-3-dentes-12--24057/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171849/Enxada-Ancinho-3-dentes-12-.png?v=638993452414670000",
-    "imageAlt": "Enxada-Ancinho-3-dentes-12-",
     "bestSeller": false
   },
   {
@@ -1243,17 +1199,6 @@
     "bestSeller": false
   },
   {
-    "id": "3943",
-    "name": "CHAVE FIXA 20MM X 22MM",
-    "reference": "14612",
-    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-fixa-20mm-x-22mm-14612/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171766/Chave-Fixa-20mm-x-22mm.png?v=638990047184730000",
-    "imageAlt": "Chave-Fixa-20mm-x-22mm",
-    "bestSeller": false
-  },
-  {
     "id": "3819",
     "name": "Abraçadeira Tipo U 1/2” x 14mm x 0,7mm Saco c/ 50",
     "reference": "13443",
@@ -1287,17 +1232,6 @@
     "bestSeller": false
   },
   {
-    "id": "1887",
-    "name": "Fita Led 20 metros 6.000K Branca Fria IP65 2835 9W/m 220V Kian",
-    "reference": "17371",
-    "description": "Disponíveis nas temperaturas de cor branca morna (3.000K) e branca fria (6.000K), elas são perfeitas para iluminar sancas do teto, prateleiras, escadas, estantes, cabeceiras de cama, entre outros ambientes. Contam também com um revestimento impermeável que permite a utilização em ambientes externos",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/fita-led-20-metros-6-000k-branca-fria-ip65-2835-9w-m-220v-kian-17371/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172121/Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian.png?v=639053984811870000",
-    "imageAlt": "Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "1386",
     "name": "Fita Led 2 metros 3.000K Branca Quente IP44 2835 S/Fonte 12V Kian",
     "reference": "16133",
@@ -1306,6 +1240,17 @@
     "link": "https://www.lojakian.com.br/fita-led-2-metros-3-000k-branca-quente-ip44-2835-s-fonte-12v-kian-16133/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169432/Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian.png?v=638260964436100000",
     "imageAlt": "Fita-Led-2-metros-3-000K-Branca-Quente-IP44-2835-S-Fonte-12V-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1311",
+    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
+    "reference": "15504",
+    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
+    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
     "bestSeller": false
   },
   {
@@ -1386,6 +1331,17 @@
     "bestSeller": false
   },
   {
+    "id": "4507",
+    "name": "Jogo De Serra Copo 1\" Com 7 Peças",
+    "reference": "12412",
+    "description": "O jogo de serra copo 1\" com 7 peças é ideal para perfurações precisas em madeira, MDF, plástico e materiais similares. O conjunto inclui serras copo nos diâmetros de 26, 32, 38, 45, 50, 56 e 63 mm, garantindo versatilidade, bom acabamento e eficiência para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-serra-copo-1--com-7-pecas-12412/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172194/Jogo-De-Serra-Copo-1--Com-7-Pecas.png?v=639058093847400000",
+    "imageAlt": "Jogo-De-Serra-Copo-1--Com-7-Pecas",
+    "bestSeller": false
+  },
+  {
     "id": "4197",
     "name": "SUPORTE DE TV 26\" A 55\"",
     "reference": "14932",
@@ -1408,14 +1364,14 @@
     "bestSeller": false
   },
   {
-    "id": "3127",
-    "name": "Sanduicheira e Grill Inox 220V Vermelho 750W Kian",
-    "reference": "24498",
-    "description": "É a solução ideal para o preparo de lanches rápidos e práticos. Com 750W de potência, ela aquece rapidamente e grelha seus sanduíches com perfeição. O design moderno em inox traz sofisticação para sua cozinha, enquanto as placas antiaderentes facilitam a limpeza. Compacta e eficiente, é perfeita para o dia a dia agitado.",
+    "id": "1887",
+    "name": "Fita Led 20 metros 6.000K Branca Fria IP65 2835 9W/m 220V Kian",
+    "reference": "17371",
+    "description": "Disponíveis nas temperaturas de cor branca morna (3.000K) e branca fria (6.000K), elas são perfeitas para iluminar sancas do teto, prateleiras, escadas, estantes, cabeceiras de cama, entre outros ambientes. Contam também com um revestimento impermeável que permite a utilização em ambientes externos",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/sanduicheira-e-grill-inox-220v-vermelho-750w-kian-24498/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171079/Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian.png?v=638634055607930000",
-    "imageAlt": "Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian",
+    "link": "https://www.lojakian.com.br/fita-led-20-metros-6-000k-branca-fria-ip65-2835-9w-m-220v-kian-17371/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172121/Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian.png?v=639053984811870000",
+    "imageAlt": "Fita-Led-20-metros-6-000K-Branca-Fria-IP65-2835-9W-m-220V-Kian",
     "bestSeller": false
   },
   {
@@ -1449,6 +1405,17 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-40cm-kian-20612/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172539/Cantoneira-Mao-Francesa-Branca-Para-Trilho-40cm-Kian.png?v=639083140960870000",
     "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-40cm-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "5187",
+    "name": "Cantoneira Mão Francesa Branca Para Trilho 30cm",
+    "reference": "20610",
+    "description": "A Cantoneira Mão Francesa Branca para Trilho 30cm é ideal para sustentar prateleiras de médio porte com segurança e estabilidade. Fabricada em aço resistente com acabamento branco, oferece durabilidade e firmeza na fixação. Compatível com trilhos padrão, permite fácil instalação e ajuste de altura, sendo perfeita para organizar ambientes residenciais, comerciais e escritórios com praticidade e acabamento discreto.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-30cm-20610/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172537/Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm.png?v=639083140391400000",
+    "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-30cm",
     "bestSeller": false
   },
   {
@@ -1617,17 +1584,6 @@
     "bestSeller": false
   },
   {
-    "id": "4507",
-    "name": "Jogo De Serra Copo 1\" Com 7 Peças",
-    "reference": "12412",
-    "description": "O jogo de serra copo 1\" com 7 peças é ideal para perfurações precisas em madeira, MDF, plástico e materiais similares. O conjunto inclui serras copo nos diâmetros de 26, 32, 38, 45, 50, 56 e 63 mm, garantindo versatilidade, bom acabamento e eficiência para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-serra-copo-1--com-7-pecas-12412/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172194/Jogo-De-Serra-Copo-1--Com-7-Pecas.png?v=639058093847400000",
-    "imageAlt": "Jogo-De-Serra-Copo-1--Com-7-Pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4496",
     "name": "Pá Larga Jardinagem 12\"",
     "reference": "24054",
@@ -1683,6 +1639,17 @@
     "bestSeller": false
   },
   {
+    "id": "4209",
+    "name": "Trilho Duplo Para Cantoneira Preto 2,0m",
+    "reference": "20377",
+    "description": "O Trilho Duplo para Cantoneira Preto 2,0 m é perfeito para montar prateleiras ajustáveis com alta capacidade de carga, durabilidade e versatilidade. Seu sistema duplo proporciona maior estabilidade e segurança na instalação de cantoneiras, permitindo criar estruturas organizadas em casas, escritórios, depósitos e comércios.<br>Fabricado em material resistente e com pintura preta de excelente acabamento, o trilho oferece fixação firme na parede e possibilita ajustes de altura conforme a necessidade, garantindo uma solução prática e funcional para organização.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/trilho-duplo-para-cantoneira-preto-2-0m-20377/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171887/Trilho-Duplo-Para-Cantoneira-Preto-2-0m.png?v=638996020633630000",
+    "imageAlt": "Trilho-Duplo-Para-Cantoneira-Preto-2-0m",
+    "bestSeller": false
+  },
+  {
     "id": "4207",
     "name": "Trilho Duplo para Cantoneira Branco 1,5 m",
     "reference": "14648",
@@ -1702,6 +1669,17 @@
     "link": "https://www.lojakian.com.br/suporte-de-tv-14--a-42--14931/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171880/Suporte-de-Tv-14--a-42-.png?v=638996008364600000",
     "imageAlt": "Suporte-de-Tv-14--a-42-",
+    "bestSeller": false
+  },
+  {
+    "id": "4143",
+    "name": "Enxada Ancinho 3 dentes 12\"",
+    "reference": "24057",
+    "description": "A Enxada Ancinho 3 Dentes 12\" é a ferramenta ideal para quem busca eficiência, resistência e praticidade em atividades de jardinagem, horta e manejo do solo. Com três dentes robustos, ela facilita o areamento, nivelamento e remoção de detritos, garantindo um preparo mais rápido e preciso da terra.<br>Seu design compacto de 12 polegadas oferece excelente controle, tornando o uso mais confortável em espaços pequenos ou detalhados. Produzida em material de alta qualidade, proporciona durabilidade e ótimo desempenho mesmo em solo mais firme.<br>Perfeita para jardineiros, horticultores e uso doméstico, entregando versatilidade e resultados profissionais.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/enxada-ancinho-3-dentes-12--24057/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171849/Enxada-Ancinho-3-dentes-12-.png?v=638993452414670000",
+    "imageAlt": "Enxada-Ancinho-3-dentes-12-",
     "bestSeller": false
   },
   {
@@ -1856,6 +1834,17 @@
     "link": "https://www.lojakian.com.br/martelo-de-borracha-60mm-branco-rayco-12439/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171780/MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO.png?v=638990700745730000",
     "imageAlt": "MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO",
+    "bestSeller": false
+  },
+  {
+    "id": "3943",
+    "name": "CHAVE FIXA 20MM X 22MM",
+    "reference": "14612",
+    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-fixa-20mm-x-22mm-14612/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171766/Chave-Fixa-20mm-x-22mm.png?v=638990047184730000",
+    "imageAlt": "Chave-Fixa-20mm-x-22mm",
     "bestSeller": false
   },
   {
@@ -2362,6 +2351,17 @@
     "link": "https://www.lojakian.com.br/cafeteira-eletrica-30-xicaras-127v-preto-cf-100-kian-24746/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171319/Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian.png?v=638659949569930000",
     "imageAlt": "Cafeteira-Eletrica-30-xicaras-127V-Preto-CF-100-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "3127",
+    "name": "Sanduicheira e Grill Inox 220V Vermelho 750W Kian",
+    "reference": "24498",
+    "description": "É a solução ideal para o preparo de lanches rápidos e práticos. Com 750W de potência, ela aquece rapidamente e grelha seus sanduíches com perfeição. O design moderno em inox traz sofisticação para sua cozinha, enquanto as placas antiaderentes facilitam a limpeza. Compacta e eficiente, é perfeita para o dia a dia agitado.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/sanduicheira-e-grill-inox-220v-vermelho-750w-kian-24498/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171079/Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian.png?v=638634055607930000",
+    "imageAlt": "Sanduicheira-e-Grill-Inox-220V-Vermelho-750W-Kian",
     "bestSeller": false
   },
   {
@@ -3443,39 +3443,6 @@
     "bestSeller": false
   },
   {
-    "id": "4217",
-    "name": "Trinco Para Porta Colonial 150mm",
-    "reference": "13478",
-    "description": "O Trinco para Porta Colonial 150mm oferece segurança e charme clássico para portas internas e externas. Com design colonial, ele combina resistência e estilo, garantindo fechamento firme e funcionalidade no dia a dia.<br>Fabricado em material durável, proporciona excelente desempenho em portas de madeira, sendo ideal para residências, áreas rústicas, portões leves e ambientes que valorizam um toque tradicional. Fácil de instalar e com ótimo acabamento, é a escolha certa para quem busca beleza e praticidade em um único produto.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/trinco-para-porta-colonial-150mm-13478/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171895/Trinco-Para-Porta-Colonial-150mm.png?v=638996032429030000",
-    "imageAlt": "Trinco-Para-Porta-Colonial-150mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3937",
-    "name": "CHAVE FIXA 12MM X 13MM",
-    "reference": "14608",
-    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-fixa-12mm-x-13mm-14608/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171763/Chave-Fixa-12mm-x-13mm.png?v=638990046462400000",
-    "imageAlt": "Chave-Fixa-12mm-x-13mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3934",
-    "name": "CHAVE FIXA 10MM X 11MM",
-    "reference": "14607",
-    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-fixa-10mm-x-11mm-14607/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171762/Chave-Fixa-10mm-x-11mm.png?v=638990040934400000",
-    "imageAlt": "Chave-Fixa-10mm-x-11mm",
-    "bestSeller": false
-  },
-  {
     "id": "646",
     "name": "Lâmpada Incandescente Vela Leitosa 25W Base E14 127V Kian - CX/10",
     "reference": "6081",
@@ -3484,17 +3451,6 @@
     "link": "https://www.lojakian.com.br/lampada-incandescente-vela-leitosa-25w-base-e14-127v-kian---cx-10-6081/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167730/Lampada-Incandescente-Vela-Leitosa-25W-Base-E14-127V-Kian---CX-10.png?v=638260863834170000",
     "imageAlt": "Lampada-Incandescente-Vela-Leitosa-25W-Base-E14-127V-Kian---CX-10",
-    "bestSeller": false
-  },
-  {
-    "id": "4536",
-    "name": "Jogo De Chave Catraca/Soquete 3/8\" 40 Peças",
-    "reference": "24109",
-    "description": "O jogo de chave catraca/soquete 3/8\" com 40 peças é ideal para manutenção e reparos em geral. Oferece praticidade, variedade de soquetes e excelente desempenho. Acompanha estojo plástico para armazenamento, garantindo organização, proteção das peças e fácil transporte, indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-chave-catraca-soquete-3-8--40-pecas-24109/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172221/Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas.png?v=639059217548930000",
-    "imageAlt": "Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas",
     "bestSeller": false
   },
   {
@@ -3528,6 +3484,17 @@
     "link": "https://www.lojakian.com.br/bucha-sem-anel-para-fixacao-6mm-x-30mm-c--100-und-13495/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171799/Bucha-Sem-Anel-Para-Fixacao-6mm-x-30mm-c--100-und.png?v=638991728491270000",
     "imageAlt": "Bucha-Sem-Anel-Para-Fixacao-6mm-x-30mm-c--100-und",
+    "bestSeller": false
+  },
+  {
+    "id": "3934",
+    "name": "CHAVE FIXA 10MM X 11MM",
+    "reference": "14607",
+    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-fixa-10mm-x-11mm-14607/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171762/Chave-Fixa-10mm-x-11mm.png?v=638990040934400000",
+    "imageAlt": "Chave-Fixa-10mm-x-11mm",
     "bestSeller": false
   },
   {
@@ -3784,6 +3751,17 @@
     "bestSeller": false
   },
   {
+    "id": "4536",
+    "name": "Jogo De Chave Catraca/Soquete 3/8\" 40 Peças",
+    "reference": "24109",
+    "description": "O jogo de chave catraca/soquete 3/8\" com 40 peças é ideal para manutenção e reparos em geral. Oferece praticidade, variedade de soquetes e excelente desempenho. Acompanha estojo plástico para armazenamento, garantindo organização, proteção das peças e fácil transporte, indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-chave-catraca-soquete-3-8--40-pecas-24109/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172221/Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas.png?v=639059217548930000",
+    "imageAlt": "Jogo-De-Chave-Catraca-Soquete-3-8--40-Pecas",
+    "bestSeller": false
+  },
+  {
     "id": "4531",
     "name": "Martelo Polido Cabo De Madeira 27mm",
     "reference": "12436",
@@ -3935,6 +3913,17 @@
     "link": "https://www.lojakian.com.br/trinco-para-porta-colonial-200mm-13479/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171891/Trinco-Para-Porta-Colonial-200mm.png?v=638996026787600000",
     "imageAlt": "Trinco-Para-Porta-Colonial-200mm",
+    "bestSeller": false
+  },
+  {
+    "id": "4217",
+    "name": "Trinco Para Porta Colonial 150mm",
+    "reference": "13478",
+    "description": "O Trinco para Porta Colonial 150mm oferece segurança e charme clássico para portas internas e externas. Com design colonial, ele combina resistência e estilo, garantindo fechamento firme e funcionalidade no dia a dia.<br>Fabricado em material durável, proporciona excelente desempenho em portas de madeira, sendo ideal para residências, áreas rústicas, portões leves e ambientes que valorizam um toque tradicional. Fácil de instalar e com ótimo acabamento, é a escolha certa para quem busca beleza e praticidade em um único produto.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/trinco-para-porta-colonial-150mm-13478/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171895/Trinco-Para-Porta-Colonial-150mm.png?v=638996032429030000",
+    "imageAlt": "Trinco-Para-Porta-Colonial-150mm",
     "bestSeller": false
   },
   {
@@ -4243,6 +4232,17 @@
     "link": "https://www.lojakian.com.br/chave-fixa-14mm-x-15mm-14609/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171764/Chave-Fixa-14mm-x-15mm.png?v=638990046727730000",
     "imageAlt": "Chave-Fixa-14mm-x-15mm",
+    "bestSeller": false
+  },
+  {
+    "id": "3937",
+    "name": "CHAVE FIXA 12MM X 13MM",
+    "reference": "14608",
+    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-fixa-12mm-x-13mm-14608/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171763/Chave-Fixa-12mm-x-13mm.png?v=638990046462400000",
+    "imageAlt": "Chave-Fixa-12mm-x-13mm",
     "bestSeller": false
   },
   {
