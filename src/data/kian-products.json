@@ -154,17 +154,6 @@
     "bestSeller": true
   },
   {
-    "id": "2525",
-    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18648",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
-    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
-    "bestSeller": true
-  },
-  {
     "id": "1487",
     "name": "Dimmer Bivolt Branco Kian",
     "reference": "13257",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-3-8--saco-c--25-13438/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171719/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25.png?v=638987394669500000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "3625",
@@ -286,17 +275,6 @@
     "bestSeller": false
   },
   {
-    "id": "3621",
-    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 18W 6.000K Branca Fria Bivolt Kian",
-    "reference": "27395",
-    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-6-000k-branca-fria-bivolt-kian-27395/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171587/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959837830000",
-    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "3543",
     "name": "Luminária Led Painel Slim Dual Redonda Embutir 18W 3.000K + 6W 3.000K Kian",
     "reference": "27223",
@@ -305,6 +283,28 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-slim-dual-redonda-embutir-18w-3-000k---6w-3-000k-kian-27223/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171547/Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian.png?v=638772231469700000",
     "imageAlt": "Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "2525",
+    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18648",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
+    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "1311",
+    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
+    "reference": "15504",
+    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
+    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
     "bestSeller": false
   },
   {
@@ -396,6 +396,17 @@
     "bestSeller": false
   },
   {
+    "id": "3621",
+    "name": "Luminária Led Painel Recuado Quadrada Sobrepor 18W 6.000K Branca Fria Bivolt Kian",
+    "reference": "27395",
+    "description": "O painel de embutir recuado possui um recuo anti-ofuscante, que proporciona mais conforto visual e um design sofisticado para o seu ambiente. Seu formato discreto e elegante garante uma iluminação uniforme e agradável, sendo a escolha ideal para quem busca sofisticação e funcionalidade. Fácil de instalar, é perfeito para projetos de iluminação clean e eficientes.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-6-000k-branca-fria-bivolt-kian-27395/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171587/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773959837830000",
+    "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3615",
     "name": "Luminária Led Painel Recuado Quadrada Sobrepor 12W 3.000K Branca Quente Bivolt Kian",
     "reference": "27392",
@@ -470,17 +481,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-32w-6-000k-branca-fria-bivolt-kian-24610/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171429/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-32W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638732598501770000",
     "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-32W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1311",
-    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
-    "reference": "15504",
-    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
-    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
     "bestSeller": false
   },
   {
@@ -627,6 +627,17 @@
     "bestSeller": false
   },
   {
+    "id": "4163",
+    "name": "Pincel Nº 24 Com 12 Peças",
+    "reference": "14129",
+    "description": "O Pincel nº 24 com cabo de madeira e cerdas naturais é ideal para quem busca precisão, cobertura uniforme e excelente acabamento em pinturas. Suas cerdas naturais garantem maior absorção e liberação equilibrada da tinta, proporcionando aplicação mais suave e profissional em paredes, superfícies de madeira, artesanato e retoques.<br>O cabo de madeira anatômico oferece firmeza e conforto durante o uso, tornando o pincel perfeito tanto para trabalhos domésticos quanto para aplicações profissionais. Resistente e durável, é compatível com tintas látex, PVA, esmalte, óleo e variadas superfícies.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/pincel-n--24-com-12-pecas-14129/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171862/Pincel-N--24-Com-12-Pecas.png?v=638995846685370000",
+    "imageAlt": "Pincel-N--24-Com-12-Pecas",
+    "bestSeller": false
+  },
+  {
     "id": "4121",
     "name": "Pincel Nº 22 Com 12 Peças",
     "reference": "14128",
@@ -646,17 +657,6 @@
     "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
     "imageAlt": "Chave-Canhao-6mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3383",
-    "name": "Luminária Led Painel BKL Quadrada Embutir Branca 12W 6.000K Branca Fria Bivolt Kian",
-    "reference": "24606",
-    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-12w-6-000k-branca-fria-bivolt-kian-24606/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171421/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638732586253200000",
-    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -770,28 +770,6 @@
     "bestSeller": false
   },
   {
-    "id": "4787",
-    "name": "Luminária Led Painel BKL Redonda Sobrepor Branca 12W 6.000K Branca Fria Bivolt Kian",
-    "reference": "24636",
-    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
-    "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "4163",
-    "name": "Pincel Nº 24 Com 12 Peças",
-    "reference": "14129",
-    "description": "O Pincel nº 24 com cabo de madeira e cerdas naturais é ideal para quem busca precisão, cobertura uniforme e excelente acabamento em pinturas. Suas cerdas naturais garantem maior absorção e liberação equilibrada da tinta, proporcionando aplicação mais suave e profissional em paredes, superfícies de madeira, artesanato e retoques.<br>O cabo de madeira anatômico oferece firmeza e conforto durante o uso, tornando o pincel perfeito tanto para trabalhos domésticos quanto para aplicações profissionais. Resistente e durável, é compatível com tintas látex, PVA, esmalte, óleo e variadas superfícies.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/pincel-n--24-com-12-pecas-14129/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171862/Pincel-N--24-Com-12-Pecas.png?v=638995846685370000",
-    "imageAlt": "Pincel-N--24-Com-12-Pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4155",
     "name": "Conjunto de Bits 44 Peças",
     "reference": "24698",
@@ -855,6 +833,17 @@
     "link": "https://www.lojakian.com.br/chuveiro-articulado-1-2--abs-cromado-13399/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171815/Chuveiro-Articulado-1-2--Abs-Cromado.png?v=638993442574830000",
     "imageAlt": "Chuveiro-Articulado-1-2--Abs-Cromado",
+    "bestSeller": false
+  },
+  {
+    "id": "3383",
+    "name": "Luminária Led Painel BKL Quadrada Embutir Branca 12W 6.000K Branca Fria Bivolt Kian",
+    "reference": "24606",
+    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-12w-6-000k-branca-fria-bivolt-kian-24606/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171421/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638732586253200000",
+    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -1163,6 +1152,17 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-preta-para-trilho-15cm-20388/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172522/Cantoneira-Mao-Francesa-Preta-Para-Trilho-15cm.png?v=639083135190600000",
     "imageAlt": "Cantoneira-Mao-Francesa-Preta-Para-Trilho-15cm",
+    "bestSeller": false
+  },
+  {
+    "id": "4787",
+    "name": "Luminária Led Painel BKL Redonda Sobrepor Branca 12W 6.000K Branca Fria Bivolt Kian",
+    "reference": "24636",
+    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
+    "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -3256,6 +3256,17 @@
     "bestSeller": false
   },
   {
+    "id": "4432",
+    "name": "RODO DUPLO 42CM COM CABO",
+    "reference": "14890",
+    "description": "O rodo duplo 42 cm com cabo é ideal para a limpeza eficiente de pisos internos e externos. Possui dupla borracha que garante melhor remoção de água e sujeira, proporcionando secagem rápida e acabamento uniforme. Resistente, prático e fácil de manusear, é indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/rodo-duplo-42cm-com-cabo-14890/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172200/Rodo-Duplo-42CM-Com-Cabo.png?v=639058113768330000",
+    "imageAlt": "Rodo-Duplo-42CM-Com-Cabo",
+    "bestSeller": false
+  },
+  {
     "id": "3934",
     "name": "CHAVE FIXA 10MM X 11MM",
     "reference": "14607",
@@ -3638,17 +3649,6 @@
     "link": "https://www.lojakian.com.br/trilho-simples-para-cantoneira-branco-2-mts-20615/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172157/Trilho-Simples-para-Cantoneira-Branco-2-MTs.png?v=639057207373300000",
     "imageAlt": "Trilho-Simples-para-Cantoneira-Branco-2-MTs",
-    "bestSeller": false
-  },
-  {
-    "id": "4432",
-    "name": "RODO DUPLO 42CM COM CABO",
-    "reference": "14890",
-    "description": "O rodo duplo 42 cm com cabo é ideal para a limpeza eficiente de pisos internos e externos. Possui dupla borracha que garante melhor remoção de água e sujeira, proporcionando secagem rápida e acabamento uniforme. Resistente, prático e fácil de manusear, é indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/rodo-duplo-42cm-com-cabo-14890/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172200/Rodo-Duplo-42CM-Com-Cabo.png?v=639058113768330000",
-    "imageAlt": "Rodo-Duplo-42CM-Com-Cabo",
     "bestSeller": false
   },
   {
