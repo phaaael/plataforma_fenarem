@@ -88,17 +88,6 @@
     "bestSeller": true
   },
   {
-    "id": "4498",
-    "name": "Conjunto De Engate Para Mangueira Com 3 Conectores e Esguicho",
-    "reference": "13370",
-    "description": "O conjunto de engate para mangueira com 3 conectores e esguicho oferece praticidade e versatilidade na irrigação. Facilita a conexão da mangueira à torneira e aos acessórios, garantindo melhor controle do fluxo de água. Ideal para jardins, quintais e áreas externas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/conjunto-de-engate-para-mangueira-com-3-conectores-e-esguicho-13370/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172166/Conjunto-De-Engate-Para-Mangueira-Com-3-Conectores-e-Esguicho.png?v=639057247555800000",
-    "imageAlt": "Conjunto-De-Engate-Para-Mangueira-Com-3-Conectores-e-Esguicho",
-    "bestSeller": true
-  },
-  {
     "id": "4481",
     "name": "Trilho Simples Para Cantoneira Preto 2.0MT",
     "reference": "20380",
@@ -154,6 +143,17 @@
     "bestSeller": true
   },
   {
+    "id": "2525",
+    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18648",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
+    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": true
+  },
+  {
     "id": "1487",
     "name": "Dimmer Bivolt Branco Kian",
     "reference": "13257",
@@ -162,6 +162,17 @@
     "link": "https://www.lojakian.com.br/dimmer-bivolt-branco-kian-13257/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169063/Dimmer-Bivolt-Branco-Kian.jpg?v=638260942133500000",
     "imageAlt": "Dimmer-Bivolt-Branco-Kian",
+    "bestSeller": true
+  },
+  {
+    "id": "1311",
+    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
+    "reference": "15504",
+    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
+    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
     "bestSeller": true
   },
   {
@@ -184,6 +195,17 @@
     "link": "https://www.lojakian.com.br/ferro-de-soldar-30w-127v-12486/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172263/Ferro-de-Soldar-30W-127V.png?v=639059954206300000",
     "imageAlt": "Ferro-de-Soldar-30W-127V",
+    "bestSeller": true
+  },
+  {
+    "id": "4498",
+    "name": "Conjunto De Engate Para Mangueira Com 3 Conectores e Esguicho",
+    "reference": "13370",
+    "description": "O conjunto de engate para mangueira com 3 conectores e esguicho oferece praticidade e versatilidade na irrigação. Facilita a conexão da mangueira à torneira e aos acessórios, garantindo melhor controle do fluxo de água. Ideal para jardins, quintais e áreas externas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/conjunto-de-engate-para-mangueira-com-3-conectores-e-esguicho-13370/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172166/Conjunto-De-Engate-Para-Mangueira-Com-3-Conectores-e-Esguicho.png?v=639057247555800000",
+    "imageAlt": "Conjunto-De-Engate-Para-Mangueira-Com-3-Conectores-e-Esguicho",
     "bestSeller": true
   },
   {
@@ -250,7 +272,7 @@
     "link": "https://www.lojakian.com.br/lima-chata-bastarda-8--12425/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171767/Lima-Chata-Bastarda-8-.png?v=638990094473700000",
     "imageAlt": "Lima-Chata-Bastarda-8-",
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "3837",
@@ -261,7 +283,7 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-3-8--saco-c--25-13438/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171719/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25.png?v=638987394669500000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-8--Saco-c--25",
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "3625",
@@ -275,6 +297,17 @@
     "bestSeller": false
   },
   {
+    "id": "3563",
+    "name": "Projetor LED Solar Sensor 100W 6.500K Branca Fria Bivolt Kian",
+    "reference": "27230",
+    "description": "Solução sustentável e econômica para iluminação de ambientes externos. Ele recarrega durante o dia e ilumina à noite, permitindo a projeção de luz durante a noite. O projetor solar é fácil de instalar e pode ser usado em jardins, áreas de lazer, entradas de garagem e outros locais que precisam de iluminação noturna.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/projetor-led-solar-sensor-100w-6-500k-branca-fria-bivolt-kian-27230/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171552/Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638772993145770000",
+    "imageAlt": "Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3543",
     "name": "Luminária Led Painel Slim Dual Redonda Embutir 18W 3.000K + 6W 3.000K Kian",
     "reference": "27223",
@@ -283,39 +316,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-slim-dual-redonda-embutir-18w-3-000k---6w-3-000k-kian-27223/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171547/Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian.png?v=638772231469700000",
     "imageAlt": "Luminaria-Led-Painel-Slim-Dual-Redonda-Embutir-18W-3-000K---6W-3-000K-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "2525",
-    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18648",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
-    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1311",
-    "name": "Projetor Led Solar 5W 6.000K Branca Fria Kian",
-    "reference": "15504",
-    "description": "O Projetor Solar Kian é 100% movida a energia solar, possui detector de movimento e acende automaticamente ao anoitecer. Possui bateria interna e substituível. Instalação sem a necessidade de fios ou acessórios extras. Possui autonomia de até 5 noites. Acenda suas Possibilidades com o SOL.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/projetor-led-solar-5w-6-000k-branca-fria-kian-15504/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171189/Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian.png?v=638639259230630000",
-    "imageAlt": "Projetor-Led-Solar-5W-6-000K-Branca-Fria-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "5280",
-    "name": "Sapateira 4 Andares 12 Pares",
-    "reference": "22774",
-    "description": "A sapateira 4 andares para 12 pares é ideal para organizar calçados de forma prática e funcional, otimizando o espaço em quartos, closets e áreas de serviço.<br><br>Com quatro níveis, permite acomodar até 12 pares de sapatos, mantendo tudo visível e de fácil acesso. Sua estrutura leve e resistente proporciona estabilidade e praticidade no dia a dia.<br><br>Compacta e versátil, é perfeita para manter o ambiente organizado sem ocupar muito espaço.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/sapateira-4-andares-12-pares-22774/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172557/Sapateira-4-Andares-12-Pares.jpg?v=639083180781000000",
-    "imageAlt": "Sapateira-4-Andares-12-Pares",
     "bestSeller": false
   },
   {
@@ -426,17 +426,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-embutir-18w-6-000k-branca-fria-bivolt-kian-27389/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171581/Luminaria-Led-Painel-Recuado-Quadrada-Embutir-18W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638773953116330000",
     "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Embutir-18W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3563",
-    "name": "Projetor LED Solar Sensor 100W 6.500K Branca Fria Bivolt Kian",
-    "reference": "27230",
-    "description": "Solução sustentável e econômica para iluminação de ambientes externos. Ele recarrega durante o dia e ilumina à noite, permitindo a projeção de luz durante a noite. O projetor solar é fácil de instalar e pode ser usado em jardins, áreas de lazer, entradas de garagem e outros locais que precisam de iluminação noturna.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/projetor-led-solar-sensor-100w-6-500k-branca-fria-bivolt-kian-27230/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171552/Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638772993145770000",
-    "imageAlt": "Projetor-LED-Solar-Sensor-100W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -616,17 +605,6 @@
     "bestSeller": false
   },
   {
-    "id": "4191",
-    "name": "Sapateira 10 Andares 30 Pares",
-    "reference": "22773",
-    "description": "A Sapateira 10 Andares para 30 Pares é a solução prática e eficiente para organizar sapatos em ambientes pequenos ou grandes. Com estrutura leve e funcional, oferece 10 níveis de armazenamento, comportando até 30 pares de forma acessível e bem distribuída.<br>Ideal para closets, quartos, lavanderias ou áreas de serviço. Sua montagem é simples e rápida, garantindo praticidade no dia a dia. Mantém seus calçados sempre visíveis, ventilados e fáceis de encontrar.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/sapateira-10-andares-30-pares-22773/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171878/Sapateira-10-Andares-30-Pares.jpg?v=638996002900800000",
-    "imageAlt": "Sapateira-10-Andares-30-Pares",
-    "bestSeller": false
-  },
-  {
     "id": "4163",
     "name": "Pincel Nº 24 Com 12 Peças",
     "reference": "14129",
@@ -657,17 +635,6 @@
     "link": "https://www.lojakian.com.br/chave-canhao-6mm-12214/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171752/Chave-Canhao-6mm.png?v=638990004727370000",
     "imageAlt": "Chave-Canhao-6mm",
-    "bestSeller": false
-  },
-  {
-    "id": "3327",
-    "name": "Air Fryer 3,5 litros 220V Cinza 1200W AF-105 Kian",
-    "reference": "24291",
-    "description": "Ideal para preparar suas receitas de forma saudável e rápida. Com uma capacidade de 3,5 litros, ela permite que você faça desde pequenas porções até refeições completas sem a necessidade de óleo. Seu design compacto combina com qualquer cozinha e seu aquecimento rápido torna o preparo de alimentos ainda mais eficiente. Cozinhe de forma prática, preservando o sabor e a crocância dos alimentos.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/air-fryer-3-5-litros-220v-cinza-1200w-af-105-kian-24291/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171468/Air-Fryer-3-5-litros-220V-Cinza-1200W-AF-105-Kian.png?v=638736056352700000",
-    "imageAlt": "Air-Fryer-3-5-litros-220V-Cinza-1200W-AF-105-Kian",
     "bestSeller": false
   },
   {
@@ -715,17 +682,6 @@
     "bestSeller": false
   },
   {
-    "id": "1357",
-    "name": "Interruptor Inteligente 1 via Touch Branco  - Wi-Fi Switch Bivolt Kian",
-    "reference": "15740",
-    "description": "Os interruptores Wi-Fi Switch, chegam para complementar o portfólio da linha Kian Smart Trend. Com tecnologia touch possui um design diferenciado, que segue as novas tendências de automação residencial e comercial. Possui acabamento em vidro, o que faz com que o Wi-Fi Switch traga uma atmosfera moderna para o ambiente em que é instalado. Além disso, facilita a limpeza e não fica com aspecto amarelado. Estão disponíveis nos modelos com 1, 2 ou 3 vias,",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/interruptor-inteligente-1-via-touch-branco----wi-fi-switch-bivolt-kian-15740/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171167/Interruptor-Inteligente-1-via-Touch-Branco----Wi-Fi-Switch-Bivolt-Kian.png?v=638639253298670000",
-    "imageAlt": "Interruptor-Inteligente-1-via-Touch-Branco----Wi-Fi-Switch-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "930",
     "name": "Luminária de Mesa Led Light 4W Rosa 5.000K Branca Fria Bivolt Kian",
     "reference": "10613",
@@ -759,6 +715,17 @@
     "bestSeller": false
   },
   {
+    "id": "5280",
+    "name": "Sapateira 4 Andares 12 Pares",
+    "reference": "22774",
+    "description": "A sapateira 4 andares para 12 pares é ideal para organizar calçados de forma prática e funcional, otimizando o espaço em quartos, closets e áreas de serviço.<br><br>Com quatro níveis, permite acomodar até 12 pares de sapatos, mantendo tudo visível e de fácil acesso. Sua estrutura leve e resistente proporciona estabilidade e praticidade no dia a dia.<br><br>Compacta e versátil, é perfeita para manter o ambiente organizado sem ocupar muito espaço.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/sapateira-4-andares-12-pares-22774/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172557/Sapateira-4-Andares-12-Pares.jpg?v=639083180781000000",
+    "imageAlt": "Sapateira-4-Andares-12-Pares",
+    "bestSeller": false
+  },
+  {
     "id": "5047",
     "name": "Dobradiça Cromada Pino e Bola 3.1/2\" x 3\" Com 3 Unidades",
     "reference": "13458",
@@ -781,17 +748,6 @@
     "bestSeller": false
   },
   {
-    "id": "4153",
-    "name": "Conjunto de Bits 58 Peças",
-    "reference": "24697",
-    "description": "O Conjunto de Bits 58 Peças é a solução completa para quem precisa de praticidade, precisão e versatilidade em reparos, montagens e trabalhos profissionais. O kit reúne uma ampla variedade de bits para parafusadeiras e chaves manuais, atendendo diferentes tipos de parafusos e aplicações.<br>Fabricados em aço de alta resistência, os bits garantem encaixe preciso, excelente durabilidade e desempenho superior mesmo em uso intenso. Acompanha estojo rígido e organizado, que facilita o transporte e mantém todas as peças seguras e acessíveis.<br>Perfeito para montagem de móveis, manutenção residencial, oficina, automotivo e uso diário, oferecendo eficiência em qualquer tarefa.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/conjunto-de-bits-58-pecas-24697/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171855/Conjunto-de-Bits-58-Pecas.png?v=638993482830830000",
-    "imageAlt": "Conjunto-de-Bits-58-Pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4145",
     "name": "Chaveiro Multifunção 11 em 1",
     "reference": "24110",
@@ -800,6 +756,17 @@
     "link": "https://www.lojakian.com.br/chaveiro-multifuncao-11-em-1-24110/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171850/Chaveiro-Multifuncao-11-em-1.png?v=638993452670070000",
     "imageAlt": "Chaveiro-Multifuncao-11-em-1",
+    "bestSeller": false
+  },
+  {
+    "id": "4143",
+    "name": "Enxada Ancinho 3 dentes 12\"",
+    "reference": "24057",
+    "description": "A Enxada Ancinho 3 Dentes 12\" é a ferramenta ideal para quem busca eficiência, resistência e praticidade em atividades de jardinagem, horta e manejo do solo. Com três dentes robustos, ela facilita o areamento, nivelamento e remoção de detritos, garantindo um preparo mais rápido e preciso da terra.<br>Seu design compacto de 12 polegadas oferece excelente controle, tornando o uso mais confortável em espaços pequenos ou detalhados. Produzida em material de alta qualidade, proporciona durabilidade e ótimo desempenho mesmo em solo mais firme.<br>Perfeita para jardineiros, horticultores e uso doméstico, entregando versatilidade e resultados profissionais.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/enxada-ancinho-3-dentes-12--24057/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171849/Enxada-Ancinho-3-dentes-12-.png?v=638993452414670000",
+    "imageAlt": "Enxada-Ancinho-3-dentes-12-",
     "bestSeller": false
   },
   {
@@ -825,6 +792,17 @@
     "bestSeller": false
   },
   {
+    "id": "4109",
+    "name": "Escápula Com Bucha M8 c/ 100 und",
+    "reference": "13584",
+    "description": "A Escápula com Bucha M8 é perfeita para quem precisa de uma fixação forte, estável e confiável em paredes de alvenaria, concreto ou tijolo. Indicada para cargas médias, oferece excelente desempenho em diferentes tipos de instalações, garantindo segurança e durabilidade.<br>Acompanha bucha M8, que proporciona encaixe firme e preciso, evitando folgas e aumentando a vida útil da fixação. Muito utilizada em suportes, prateleiras, estruturas metálicas, equipamentos, montagens industriais, sistemas elétricos e hidráulicos, além de aplicações residenciais.<br>Com instalação prática e resultado profissional, a escápula com bucha M8 garante fixação eficiente e versátil para diversos projetos.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/escapula-com-bucha-m8-c--100-und-13584/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171829/Escapula-Com-Bucha-M8-c--100-und.png?v=638993445694500000",
+    "imageAlt": "Escapula-Com-Bucha-M8-c--100-und",
+    "bestSeller": false
+  },
+  {
     "id": "4081",
     "name": "Chuveiro Articulado 1/2\" Abs Cromado",
     "reference": "13399",
@@ -836,14 +814,14 @@
     "bestSeller": false
   },
   {
-    "id": "3383",
-    "name": "Luminária Led Painel BKL Quadrada Embutir Branca 12W 6.000K Branca Fria Bivolt Kian",
-    "reference": "24606",
-    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "id": "3327",
+    "name": "Air Fryer 3,5 litros 220V Cinza 1200W AF-105 Kian",
+    "reference": "24291",
+    "description": "Ideal para preparar suas receitas de forma saudável e rápida. Com uma capacidade de 3,5 litros, ela permite que você faça desde pequenas porções até refeições completas sem a necessidade de óleo. Seu design compacto combina com qualquer cozinha e seu aquecimento rápido torna o preparo de alimentos ainda mais eficiente. Cozinhe de forma prática, preservando o sabor e a crocância dos alimentos.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-12w-6-000k-branca-fria-bivolt-kian-24606/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171421/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638732586253200000",
-    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
+    "link": "https://www.lojakian.com.br/air-fryer-3-5-litros-220v-cinza-1200w-af-105-kian-24291/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171468/Air-Fryer-3-5-litros-220V-Cinza-1200W-AF-105-Kian.png?v=638736056352700000",
+    "imageAlt": "Air-Fryer-3-5-litros-220V-Cinza-1200W-AF-105-Kian",
     "bestSeller": false
   },
   {
@@ -869,6 +847,28 @@
     "bestSeller": false
   },
   {
+    "id": "2203",
+    "name": "Lâmpada Led Bulbo A60 12W 4.000K Branca Neutra Bivolt Kian - CX/10",
+    "reference": "17935",
+    "description": "Caixa com 10 unidades.<br>Iluminação de alto desempenho e em formato consagrado para propostas de ambientações residenciais, comerciais e até decorativas. Versatilidade de aplicação que se une à fácil instalação e à alta durabilidade para substituir tecnologias convencionais e aproveitar ao máximo todos os benefícios da iluminação LED.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lampada-led-bulbo-a60-12w-4-000k-branca-neutra-bivolt-kian---cx-10-17935/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169814/Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10.png?v=638260993982100000",
+    "imageAlt": "Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10",
+    "bestSeller": false
+  },
+  {
+    "id": "1357",
+    "name": "Interruptor Inteligente 1 via Touch Branco  - Wi-Fi Switch Bivolt Kian",
+    "reference": "15740",
+    "description": "Os interruptores Wi-Fi Switch, chegam para complementar o portfólio da linha Kian Smart Trend. Com tecnologia touch possui um design diferenciado, que segue as novas tendências de automação residencial e comercial. Possui acabamento em vidro, o que faz com que o Wi-Fi Switch traga uma atmosfera moderna para o ambiente em que é instalado. Além disso, facilita a limpeza e não fica com aspecto amarelado. Estão disponíveis nos modelos com 1, 2 ou 3 vias,",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/interruptor-inteligente-1-via-touch-branco----wi-fi-switch-bivolt-kian-15740/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171167/Interruptor-Inteligente-1-via-Touch-Branco----Wi-Fi-Switch-Bivolt-Kian.png?v=638639253298670000",
+    "imageAlt": "Interruptor-Inteligente-1-via-Touch-Branco----Wi-Fi-Switch-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "1089",
     "name": "Fita Led 50 metros 6.000K Branca Fria IP65 5050 14W/m 220V Kian",
     "reference": "11647",
@@ -888,28 +888,6 @@
     "link": "https://www.lojakian.com.br/luminaria-de-mesa-flex-base-preta-base-e27-bivolt-kian-7812/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170447/Luminaria-De-Mesa-Flex-Base-Preta-Base-E27-Bivolt-Kian.jpg?v=638508575107130000",
     "imageAlt": "Luminaria-De-Mesa-Flex-Base-Preta-Base-E27-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "742",
-    "name": "Luminária De Mesa Flex Base Branca Base E27 Bivolt Kian",
-    "reference": "7811",
-    "description": "Use a iluminação ao seu favor para atividades que demandam atenção e inspiram produtividade. São 3 diferentes modelos de Luminárias de Mesa Kian para iluminar seu escritório, levando estilo, eficiência e praticidade para a rotina dos usuários.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-de-mesa-flex-base-branca-base-e27-bivolt-kian-7811/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170442/Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian.jpg?v=638508574825970000",
-    "imageAlt": "Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "689",
-    "name": "Lâmpada Incandescente Bulbo R63 Aluminizado 50W Base E27 220V Kian - CX/10",
-    "reference": "6103",
-    "description": "Caixa com 10 unidades.<br>Foram desenvolvidas com Bulbo Claro ou Refletivo para realizar o aquecimento e secagem de ambientes. São muito utilizadas em fornos micro-ondas, fogões, geladeiras, estufas, cabines de pintura e até em criadouros de animais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lampada-incandescente-bulbo-r63-aluminizado-50w-base-e27-220v-kian---cx-10-6103/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167808/Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-220V-Kian---CX-10.png?v=638260869521630000",
-    "imageAlt": "Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-220V-Kian---CX-10",
     "bestSeller": false
   },
   {
@@ -957,14 +935,14 @@
     "bestSeller": false
   },
   {
-    "id": "4143",
-    "name": "Enxada Ancinho 3 dentes 12\"",
-    "reference": "24057",
-    "description": "A Enxada Ancinho 3 Dentes 12\" é a ferramenta ideal para quem busca eficiência, resistência e praticidade em atividades de jardinagem, horta e manejo do solo. Com três dentes robustos, ela facilita o areamento, nivelamento e remoção de detritos, garantindo um preparo mais rápido e preciso da terra.<br>Seu design compacto de 12 polegadas oferece excelente controle, tornando o uso mais confortável em espaços pequenos ou detalhados. Produzida em material de alta qualidade, proporciona durabilidade e ótimo desempenho mesmo em solo mais firme.<br>Perfeita para jardineiros, horticultores e uso doméstico, entregando versatilidade e resultados profissionais.<br>",
+    "id": "4191",
+    "name": "Sapateira 10 Andares 30 Pares",
+    "reference": "22773",
+    "description": "A Sapateira 10 Andares para 30 Pares é a solução prática e eficiente para organizar sapatos em ambientes pequenos ou grandes. Com estrutura leve e funcional, oferece 10 níveis de armazenamento, comportando até 30 pares de forma acessível e bem distribuída.<br>Ideal para closets, quartos, lavanderias ou áreas de serviço. Sua montagem é simples e rápida, garantindo praticidade no dia a dia. Mantém seus calçados sempre visíveis, ventilados e fáceis de encontrar.<br>",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/enxada-ancinho-3-dentes-12--24057/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171849/Enxada-Ancinho-3-dentes-12-.png?v=638993452414670000",
-    "imageAlt": "Enxada-Ancinho-3-dentes-12-",
+    "link": "https://www.lojakian.com.br/sapateira-10-andares-30-pares-22773/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171878/Sapateira-10-Andares-30-Pares.jpg?v=638996002900800000",
+    "imageAlt": "Sapateira-10-Andares-30-Pares",
     "bestSeller": false
   },
   {
@@ -1430,6 +1408,17 @@
     "bestSeller": false
   },
   {
+    "id": "4153",
+    "name": "Conjunto de Bits 58 Peças",
+    "reference": "24697",
+    "description": "O Conjunto de Bits 58 Peças é a solução completa para quem precisa de praticidade, precisão e versatilidade em reparos, montagens e trabalhos profissionais. O kit reúne uma ampla variedade de bits para parafusadeiras e chaves manuais, atendendo diferentes tipos de parafusos e aplicações.<br>Fabricados em aço de alta resistência, os bits garantem encaixe preciso, excelente durabilidade e desempenho superior mesmo em uso intenso. Acompanha estojo rígido e organizado, que facilita o transporte e mantém todas as peças seguras e acessíveis.<br>Perfeito para montagem de móveis, manutenção residencial, oficina, automotivo e uso diário, oferecendo eficiência em qualquer tarefa.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/conjunto-de-bits-58-pecas-24697/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171855/Conjunto-de-Bits-58-Pecas.png?v=638993482830830000",
+    "imageAlt": "Conjunto-de-Bits-58-Pecas",
+    "bestSeller": false
+  },
+  {
     "id": "4111",
     "name": "Escápula Com Bucha M10 c/ 100 und",
     "reference": "13585",
@@ -1438,17 +1427,6 @@
     "link": "https://www.lojakian.com.br/escapula-com-bucha-m10-c--100-und-13585/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171830/Escapula-Com-Bucha-M10-c--100-und.png?v=638993445922300000",
     "imageAlt": "Escapula-Com-Bucha-M10-c--100-und",
-    "bestSeller": false
-  },
-  {
-    "id": "4109",
-    "name": "Escápula Com Bucha M8 c/ 100 und",
-    "reference": "13584",
-    "description": "A Escápula com Bucha M8 é perfeita para quem precisa de uma fixação forte, estável e confiável em paredes de alvenaria, concreto ou tijolo. Indicada para cargas médias, oferece excelente desempenho em diferentes tipos de instalações, garantindo segurança e durabilidade.<br>Acompanha bucha M8, que proporciona encaixe firme e preciso, evitando folgas e aumentando a vida útil da fixação. Muito utilizada em suportes, prateleiras, estruturas metálicas, equipamentos, montagens industriais, sistemas elétricos e hidráulicos, além de aplicações residenciais.<br>Com instalação prática e resultado profissional, a escápula com bucha M8 garante fixação eficiente e versátil para diversos projetos.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/escapula-com-bucha-m8-c--100-und-13584/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171829/Escapula-Com-Bucha-M8-c--100-und.png?v=638993445694500000",
-    "imageAlt": "Escapula-Com-Bucha-M8-c--100-und",
     "bestSeller": false
   },
   {
@@ -2035,6 +2013,17 @@
     "bestSeller": false
   },
   {
+    "id": "3383",
+    "name": "Luminária Led Painel BKL Quadrada Embutir Branca 12W 6.000K Branca Fria Bivolt Kian",
+    "reference": "24606",
+    "description": "O melhor da tecnologia LED Backlight para proporcionar uma iluminação mais uniforme, com melhor desempenho e eficiência luminosa.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-quadrada-embutir-branca-12w-6-000k-branca-fria-bivolt-kian-24606/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171421/Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638732586253200000",
+    "imageAlt": "Luminaria-Led-Painel-BKL-Quadrada-Embutir-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "3187",
     "name": "Cafeteira Elétrica 30 xícaras 220V Preto CF-101 Kian",
     "reference": "24747",
@@ -2175,17 +2164,6 @@
     "link": "https://www.lojakian.com.br/luminaria-1x36pl-embutir-alet-alto-brilho-4-pinos-soquete-2g11-kian-8476/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167971/Luminaria-1X36PL-Embutir-Alet-Alto-Brilho-4-Pinos-Soquete-2G11-Kian.png?v=638260880163830000",
     "imageAlt": "Luminaria-1X36PL-Embutir-Alet-Alto-Brilho-4-Pinos-Soquete-2G11-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "2203",
-    "name": "Lâmpada Led Bulbo A60 12W 4.000K Branca Neutra Bivolt Kian - CX/10",
-    "reference": "17935",
-    "description": "Caixa com 10 unidades.<br>Iluminação de alto desempenho e em formato consagrado para propostas de ambientações residenciais, comerciais e até decorativas. Versatilidade de aplicação que se une à fácil instalação e à alta durabilidade para substituir tecnologias convencionais e aproveitar ao máximo todos os benefícios da iluminação LED.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lampada-led-bulbo-a60-12w-4-000k-branca-neutra-bivolt-kian---cx-10-17935/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169814/Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10.png?v=638260993982100000",
-    "imageAlt": "Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10",
     "bestSeller": false
   },
   {
@@ -2761,6 +2739,17 @@
     "bestSeller": false
   },
   {
+    "id": "742",
+    "name": "Luminária De Mesa Flex Base Branca Base E27 Bivolt Kian",
+    "reference": "7811",
+    "description": "Use a iluminação ao seu favor para atividades que demandam atenção e inspiram produtividade. São 3 diferentes modelos de Luminárias de Mesa Kian para iluminar seu escritório, levando estilo, eficiência e praticidade para a rotina dos usuários.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-de-mesa-flex-base-branca-base-e27-bivolt-kian-7811/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170442/Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian.jpg?v=638508574825970000",
+    "imageAlt": "Luminaria-De-Mesa-Flex-Base-Branca-Base-E27-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "740",
     "name": "Luminária De Mesa Flex Base Azul Base E27 Bivolt Kian",
     "reference": "7810",
@@ -2846,6 +2835,17 @@
     "link": "https://www.lojakian.com.br/lampada-halogena-dicroica-mr16-base-e27-3-000k-branca-quente-50w-127v-kian---cx-10-7712/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167828/Lampada-Halogena-Dicroica-MR16-Base-E27-3-000K-Branca-Quente-50W-127V-Kian---CX-10.png?v=638260870970270000",
     "imageAlt": "Lampada-Halogena-Dicroica-MR16-Base-E27-3-000K-Branca-Quente-50W-127V-Kian---CX-10",
+    "bestSeller": false
+  },
+  {
+    "id": "689",
+    "name": "Lâmpada Incandescente Bulbo R63 Aluminizado 50W Base E27 220V Kian - CX/10",
+    "reference": "6103",
+    "description": "Caixa com 10 unidades.<br>Foram desenvolvidas com Bulbo Claro ou Refletivo para realizar o aquecimento e secagem de ambientes. São muito utilizadas em fornos micro-ondas, fogões, geladeiras, estufas, cabines de pintura e até em criadouros de animais.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lampada-incandescente-bulbo-r63-aluminizado-50w-base-e27-220v-kian---cx-10-6103/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/167808/Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-220V-Kian---CX-10.png?v=638260869521630000",
+    "imageAlt": "Lampada-Incandescente-Bulbo-R63-Aluminizado-50W-Base-E27-220V-Kian---CX-10",
     "bestSeller": false
   },
   {
@@ -3212,17 +3212,6 @@
     "bestSeller": false
   },
   {
-    "id": "4646",
-    "name": "Chuveiro Articulado Com Braço 1/2 ABS Cromado",
-    "reference": "13396",
-    "description": "O chuveiro articulado com braço 1/2\" em ABS cromado oferece praticidade e ajuste de direção do jato, proporcionando maior conforto no banho. Possui acabamento cromado, fácil instalação e boa durabilidade, sendo ideal para banheiros residenciais ou comerciais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chuveiro-articulado-com-braco-1-2-abs-cromado-13396/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172239/Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado.png?v=639059834202800000",
-    "imageAlt": "Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado",
-    "bestSeller": false
-  },
-  {
     "id": "4123",
     "name": "Espátula Plástica 2\"",
     "reference": "14149",
@@ -3256,14 +3245,14 @@
     "bestSeller": false
   },
   {
-    "id": "3934",
-    "name": "CHAVE FIXA 10MM X 11MM",
-    "reference": "14607",
-    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
+    "id": "4646",
+    "name": "Chuveiro Articulado Com Braço 1/2 ABS Cromado",
+    "reference": "13396",
+    "description": "O chuveiro articulado com braço 1/2\" em ABS cromado oferece praticidade e ajuste de direção do jato, proporcionando maior conforto no banho. Possui acabamento cromado, fácil instalação e boa durabilidade, sendo ideal para banheiros residenciais ou comerciais.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/chave-fixa-10mm-x-11mm-14607/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171762/Chave-Fixa-10mm-x-11mm.png?v=638990040934400000",
-    "imageAlt": "Chave-Fixa-10mm-x-11mm",
+    "link": "https://www.lojakian.com.br/chuveiro-articulado-com-braco-1-2-abs-cromado-13396/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172239/Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado.png?v=639059834202800000",
+    "imageAlt": "Chuveiro-Articulado-Com-Braco-1-2-ABS-Cromado",
     "bestSeller": false
   },
   {
@@ -4122,6 +4111,17 @@
     "link": "https://www.lojakian.com.br/chave-fixa-12mm-x-13mm-14608/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171763/Chave-Fixa-12mm-x-13mm.png?v=638990046462400000",
     "imageAlt": "Chave-Fixa-12mm-x-13mm",
+    "bestSeller": false
+  },
+  {
+    "id": "3934",
+    "name": "CHAVE FIXA 10MM X 11MM",
+    "reference": "14607",
+    "description": "A chave fixa é uma ferramenta indispensável para apertar e desapertar porcas e parafusos sextavados com segurança e precisão. Corpo fabricado em aço carbono com acabamento cromado de alta resistência, oferece excelente durabilidade, firmeza e transmissão de torque. Seu design com duas bocas de medidas diferentes na mesma ferramenta garante versatilidade e praticidade no dia a dia de trabalho.   Encaixe preciso que evita desgaste nas peças. Ideal para mecânica, manutenção industrial, construção e uso profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/chave-fixa-10mm-x-11mm-14607/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171762/Chave-Fixa-10mm-x-11mm.png?v=638990040934400000",
+    "imageAlt": "Chave-Fixa-10mm-x-11mm",
     "bestSeller": false
   },
   {
