@@ -231,17 +231,6 @@
     "bestSeller": true
   },
   {
-    "id": "4205",
-    "name": "Suporte Mangueira De Jardim",
-    "reference": "24063",
-    "description": "O Suporte para Mangueira de Jardim é a solução ideal para manter sua área externa organizada, prática e sem emaranhados. Desenvolvido para acomodar mangueiras com segurança, ele evita dobras, prolonga a vida útil do material e facilita o uso no dia a dia.<br>Suporta diferentes tamanhos de mangueira e pode ser instalado na parede com facilidade, oferecendo um armazenamento estável e sempre ao alcance.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/suporte-mangueira-de-jardim-24063/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171885/Suporte-Mangueira-De-Jardim.png?v=638996015190600000",
-    "imageAlt": "Suporte-Mangueira-De-Jardim",
-    "bestSeller": true
-  },
-  {
     "id": "4129",
     "name": "Espátula Plástica 5\"",
     "reference": "14152",
@@ -272,7 +261,7 @@
     "link": "https://www.lojakian.com.br/lima-chata-bastarda-8--12425/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171767/Lima-Chata-Bastarda-8-.png?v=638990094473700000",
     "imageAlt": "Lima-Chata-Bastarda-8-",
-    "bestSeller": false
+    "bestSeller": true
   },
   {
     "id": "3837",
@@ -1111,6 +1100,17 @@
     "bestSeller": false
   },
   {
+    "id": "5182",
+    "name": "Cantoneira Mão Francesa Branca Para Trilho 20cm",
+    "reference": "20608",
+    "description": "A Cantoneira Mão Francesa Branca para Trilho 20cm é ideal para sustentar prateleiras leves e médias com segurança e praticidade. Fabricada em aço resistente com acabamento branco, garante durabilidade e firmeza na fixação. Compatível com trilhos padrão, permite fácil instalação e ajuste de altura, sendo perfeita para organizar ambientes residenciais, comerciais e escritórios com acabamento discreto e elegante.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-branca-para-trilho-20cm-20608/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172535/Cantoneira-Mao-Francesa-Branca-Para-Trilho-20cm.png?v=639083139843470000",
+    "imageAlt": "Cantoneira-Mao-Francesa-Branca-Para-Trilho-20cm",
+    "bestSeller": false
+  },
+  {
     "id": "5181",
     "name": "Cantoneira Mão Francesa Branca Para Trilho 15cm",
     "reference": "20607",
@@ -1647,17 +1647,6 @@
     "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-5-8--saco-c--5-13439/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171720/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5.png?v=638987394956270000",
     "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-5-8--Saco-c--5",
-    "bestSeller": false
-  },
-  {
-    "id": "3835",
-    "name": "Esticador Para Cabo de Aço Gancho Olhal 3/4” Saco c/ 4",
-    "reference": "13437",
-    "description": "O Esticador para Cabo de Aço Gancho Olhal é a solução ideal para tensionar, ajustar e firmar cabos de aço em aplicações industriais, estruturais e de uso geral. Corpo fabricado em aço carbono e acabamento galvanizado, garante durabilidade, segurança e precisão no ajuste da tensão. Sistema gancho + olhal: praticidade na fixação. Corpo reforçado para suportar altas cargas. Regulagem precisa para tensionamento seguro . Ideal para cercamentos, estaiamentos, amarrações e estruturas metálicas. Resistente à oxidação, garantindo longa vida útil.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/esticador-para-cabo-de-aco-gancho-olhal-3-4--saco-c--4-13437/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171718/Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-4--Saco-c--4.png?v=638987394419930000",
-    "imageAlt": "Esticador-Para-Cabo-de-Aco-Gancho-Olhal-3-4--Saco-c--4",
     "bestSeller": false
   },
   {
@@ -3187,6 +3176,17 @@
     "link": "https://www.lojakian.com.br/cantoneira-mao-francesa-preta-para-trilho-35cm-20384/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172516/Cantoneira-Mao-Francesa-Preta-Para-Trilho-35cm.png?v=639083134261330000",
     "imageAlt": "Cantoneira-Mao-Francesa-Preta-Para-Trilho-35cm",
+    "bestSeller": false
+  },
+  {
+    "id": "4205",
+    "name": "Suporte Mangueira De Jardim",
+    "reference": "24063",
+    "description": "O Suporte para Mangueira de Jardim é a solução ideal para manter sua área externa organizada, prática e sem emaranhados. Desenvolvido para acomodar mangueiras com segurança, ele evita dobras, prolonga a vida útil do material e facilita o uso no dia a dia.<br>Suporta diferentes tamanhos de mangueira e pode ser instalado na parede com facilidade, oferecendo um armazenamento estável e sempre ao alcance.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/suporte-mangueira-de-jardim-24063/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171885/Suporte-Mangueira-De-Jardim.png?v=638996015190600000",
+    "imageAlt": "Suporte-Mangueira-De-Jardim",
     "bestSeller": false
   },
   {
