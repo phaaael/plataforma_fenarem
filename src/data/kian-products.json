@@ -66,6 +66,28 @@
     "bestSeller": true
   },
   {
+    "id": "5286",
+    "name": "Rolo Adesivo Tira Pelos 20 Folhas",
+    "reference": "22958",
+    "description": "O rolo tira pelos é ideal para remover pelos, fiapos, poeira e pequenas partículas de roupas, estofados e tecidos em geral.<br><br>Possui folhas adesivas de fácil destaque, garantindo praticidade no uso e reposição rápida durante a limpeza. Compacto e leve, pode ser utilizado em casa, no trabalho ou levado na bolsa para emergências.<br><br>Indicado para roupas, sofás, bancos de carro e superfícies têxteis.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/rolo-adesivo-tira-pelos-20-folhas-22958/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172564/Rolo-Adesivo-Tira-Pelos-20-Folhas.png?v=639083181724670000",
+    "imageAlt": "Rolo-Adesivo-Tira-Pelos-20-Folhas",
+    "bestSeller": true
+  },
+  {
+    "id": "5201",
+    "name": "Tapate Para Banheiro Antideslizante de Microfibra Bolinha Branco",
+    "reference": "22695",
+    "description": "O Tapete para Banheiro Antideslizante de Microfibra Bolinha Branco é ideal para garantir conforto, segurança e higiene no banheiro. Produzido em microfibra macia e absorvente, oferece toque agradável e rápida secagem. Com base antiderrapante, evita escorregões, proporcionando segurança ao pisar. Seu design com bolinhas e acabamento branco combina com qualquer decoração, deixando o ambiente organizado e elegante.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/tapate-para-banheiro-antideslizante-de-microfibra-bolinha-branco-22695/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172555/Tapate-Para-Banheiro-Antideslizante-de-Microfibra-Bolinha-Branco.png?v=639083170398400000",
+    "imageAlt": "Tapate-Para-Banheiro-Antideslizante-de-Microfibra-Bolinha-Branco",
+    "bestSeller": true
+  },
+  {
     "id": "5187",
     "name": "Cantoneira Mão Francesa Branca Para Trilho 30cm",
     "reference": "20610",
@@ -231,17 +253,6 @@
     "bestSeller": true
   },
   {
-    "id": "5201",
-    "name": "Tapate Para Banheiro Antideslizante de Microfibra Bolinha Branco",
-    "reference": "22695",
-    "description": "O Tapete para Banheiro Antideslizante de Microfibra Bolinha Branco é ideal para garantir conforto, segurança e higiene no banheiro. Produzido em microfibra macia e absorvente, oferece toque agradável e rápida secagem. Com base antiderrapante, evita escorregões, proporcionando segurança ao pisar. Seu design com bolinhas e acabamento branco combina com qualquer decoração, deixando o ambiente organizado e elegante.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/tapate-para-banheiro-antideslizante-de-microfibra-bolinha-branco-22695/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172555/Tapate-Para-Banheiro-Antideslizante-de-Microfibra-Bolinha-Branco.png?v=639083170398400000",
-    "imageAlt": "Tapate-Para-Banheiro-Antideslizante-de-Microfibra-Bolinha-Branco",
-    "bestSeller": true
-  },
-  {
     "id": "4764",
     "name": "Adaptador SDS Plus Para Mandril 1/2\"",
     "reference": "14532",
@@ -253,6 +264,17 @@
     "bestSeller": true
   },
   {
+    "id": "4644",
+    "name": "Ferro de Soldar 30W 127V",
+    "reference": "12486",
+    "description": "O ferro de soldar 30W 127V é ideal para trabalhos leves de soldagem em eletrônica e pequenos reparos. Oferece aquecimento rápido, precisão e praticidade, sendo indicado para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/ferro-de-soldar-30w-127v-12486/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172263/Ferro-de-Soldar-30W-127V.png?v=639059954206300000",
+    "imageAlt": "Ferro-de-Soldar-30W-127V",
+    "bestSeller": false
+  },
+  {
     "id": "4403",
     "name": "Pano de Microfibra Limpa Vidro 35x35cm",
     "reference": "14952",
@@ -261,7 +283,7 @@
     "link": "https://www.lojakian.com.br/pano-de-microfibra-limpa-vidro-35x35cm-14952/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172010/Pano-de-Microfibra-Limpa-Vidro-35x35cm.png?v=639035661326430000",
     "imageAlt": "Pano-de-Microfibra-Limpa-Vidro-35x35cm",
-    "bestSeller": true
+    "bestSeller": false
   },
   {
     "id": "4131",
@@ -294,6 +316,17 @@
     "link": "https://www.lojakian.com.br/espatula-plastica-3--14150/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171840/Espatula-Plastica-3-.png?v=638993447796430000",
     "imageAlt": "Espatula-Plastica-3-",
+    "bestSeller": false
+  },
+  {
+    "id": "3945",
+    "name": "Lima Chata Bastarda 8\"",
+    "reference": "12425",
+    "description": "A lima chata bastarda é a ferramenta ideal para desbaste rápido, modelagem e remoção de material em metais, madeiras, rebarbas e superfícies diversas, excelente também para ajustes e correções. Seu corte bastardo proporciona agressividade e eficiência, garantindo maior rendimento em trabalhos profissionais. Fabricada em aço temperado de alta resistência, oferece durabilidade e excelente performance em uso contínuo. Com formato chato que facilita nivelar e ajustar superfícies. Ideal para metalurgia, serralheria, mecânica e marcenaria. Indicado para afiar enxada, foices e outras ferramentas agrícolas",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lima-chata-bastarda-8--12425/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171767/Lima-Chata-Bastarda-8-.png?v=638990094473700000",
+    "imageAlt": "Lima-Chata-Bastarda-8-",
     "bestSeller": false
   },
   {
@@ -352,17 +385,6 @@
     "bestSeller": false
   },
   {
-    "id": "5286",
-    "name": "Rolo Adesivo Tira Pelos 20 Folhas",
-    "reference": "22958",
-    "description": "O rolo tira pelos é ideal para remover pelos, fiapos, poeira e pequenas partículas de roupas, estofados e tecidos em geral.<br><br>Possui folhas adesivas de fácil destaque, garantindo praticidade no uso e reposição rápida durante a limpeza. Compacto e leve, pode ser utilizado em casa, no trabalho ou levado na bolsa para emergências.<br><br>Indicado para roupas, sofás, bancos de carro e superfícies têxteis.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/rolo-adesivo-tira-pelos-20-folhas-22958/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172564/Rolo-Adesivo-Tira-Pelos-20-Folhas.png?v=639083181724670000",
-    "imageAlt": "Rolo-Adesivo-Tira-Pelos-20-Folhas",
-    "bestSeller": false
-  },
-  {
     "id": "4787",
     "name": "Luminária Led Painel BKL Redonda Sobrepor Branca 12W 6.000K Branca Fria Bivolt Kian",
     "reference": "24636",
@@ -371,17 +393,6 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-bkl-redonda-sobrepor-branca-12w-6-000k-branca-fria-bivolt-kian-24636/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172321/Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian.png?v=639064089195270000",
     "imageAlt": "Luminaria-Led-Painel-BKL-Redonda-Sobrepor-Branca-12W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "4644",
-    "name": "Ferro de Soldar 30W 127V",
-    "reference": "12486",
-    "description": "O ferro de soldar 30W 127V é ideal para trabalhos leves de soldagem em eletrônica e pequenos reparos. Oferece aquecimento rápido, precisão e praticidade, sendo indicado para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/ferro-de-soldar-30w-127v-12486/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172263/Ferro-de-Soldar-30W-127V.png?v=639059954206300000",
-    "imageAlt": "Ferro-de-Soldar-30W-127V",
     "bestSeller": false
   },
   {
@@ -429,6 +440,17 @@
     "bestSeller": false
   },
   {
+    "id": "4377",
+    "name": "Rodo Para Pia 24cm Branco e Vermelho",
+    "reference": "22953",
+    "description": "O Rodo para Pia 24cm é ideal para remoção rápida de água e líquidos em pias e superfícies pequenas.<br> Com borracha resistente e design compacto, facilita a limpeza diária em cozinhas residênciais, bares, restaurantes, laboratórios e ambientes profissionais",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/rodo-para-pia-24cm-branco-e-vermelho-22953/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172000/Rodo-Para-Pia-24cm-Branco-e-Vermelho.jpg?v=639034791314400000",
+    "imageAlt": "Rodo-Para-Pia-24cm-Branco-e-Vermelho",
+    "bestSeller": false
+  },
+  {
     "id": "4370",
     "name": "ESPANADOR MICROFIBRA",
     "reference": "14954",
@@ -440,14 +462,14 @@
     "bestSeller": false
   },
   {
-    "id": "3945",
-    "name": "Lima Chata Bastarda 8\"",
-    "reference": "12425",
-    "description": "A lima chata bastarda é a ferramenta ideal para desbaste rápido, modelagem e remoção de material em metais, madeiras, rebarbas e superfícies diversas, excelente também para ajustes e correções. Seu corte bastardo proporciona agressividade e eficiência, garantindo maior rendimento em trabalhos profissionais. Fabricada em aço temperado de alta resistência, oferece durabilidade e excelente performance em uso contínuo. Com formato chato que facilita nivelar e ajustar superfícies. Ideal para metalurgia, serralheria, mecânica e marcenaria. Indicado para afiar enxada, foices e outras ferramentas agrícolas",
+    "id": "4197",
+    "name": "SUPORTE DE TV 26\" A 55\"",
+    "reference": "14932",
+    "description": "O Suporte de TV 26\" a 55\" oferece fixação segura, instalação prática e excelente aproveitamento de espaço para televisores de médio a grande porte. Compatível com TVs de 26 a 55 polegadas, garante estabilidade e alinhamento perfeito, proporcionando uma visualização mais confortável e um ambiente mais organizado.<br><br>Produzido em material resistente e durável, é ideal para uso residencial ou comercial, mantendo a TV firmemente posicionada na parede com acabamento discreto e moderno.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lima-chata-bastarda-8--12425/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171767/Lima-Chata-Bastarda-8-.png?v=638990094473700000",
-    "imageAlt": "Lima-Chata-Bastarda-8-",
+    "link": "https://www.lojakian.com.br/suporte-de-tv-26--a-55--14932/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171881/Suporte-de-Tv-26--a-55-.png?v=638996008611230000",
+    "imageAlt": "Suporte-de-Tv-26--a-55-",
     "bestSeller": false
   },
   {
@@ -514,6 +536,17 @@
     "link": "https://www.lojakian.com.br/mini-luminaria-led-usb-3-000k-branca-quente-touch-kian-24137/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170591/Mini-Luminaria-LED-USB-3-000K-Branca-Quente-Touch-Kian.png?v=638539871362800000",
     "imageAlt": "Mini-Luminaria-LED-USB-3-000K-Branca-Quente-Touch-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "2381",
+    "name": "Terminal Para Fita Led 9MM Kian",
+    "reference": "17376",
+    "description": "Acessório para Fita Led",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/terminal-para-fita-led-9mm-kian-17376/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169645/Terminal-Para-Fita-Led-9MM-Kian.png?v=638260981594900000",
+    "imageAlt": "Terminal-Para-Fita-Led-9MM-Kian",
     "bestSeller": false
   },
   {
@@ -605,17 +638,6 @@
     "bestSeller": false
   },
   {
-    "id": "4197",
-    "name": "SUPORTE DE TV 26\" A 55\"",
-    "reference": "14932",
-    "description": "O Suporte de TV 26\" a 55\" oferece fixação segura, instalação prática e excelente aproveitamento de espaço para televisores de médio a grande porte. Compatível com TVs de 26 a 55 polegadas, garante estabilidade e alinhamento perfeito, proporcionando uma visualização mais confortável e um ambiente mais organizado.<br><br>Produzido em material resistente e durável, é ideal para uso residencial ou comercial, mantendo a TV firmemente posicionada na parede com acabamento discreto e moderno.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/suporte-de-tv-26--a-55--14932/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171881/Suporte-de-Tv-26--a-55-.png?v=638996008611230000",
-    "imageAlt": "Suporte-de-Tv-26--a-55-",
-    "bestSeller": false
-  },
-  {
     "id": "4155",
     "name": "Conjunto de Bits 44 Peças",
     "reference": "24698",
@@ -657,6 +679,17 @@
     "link": "https://www.lojakian.com.br/capa-para-volante-preto-24112/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171813/Capa-Para-Volante-Preto.png?v=638991741979130000",
     "imageAlt": "Capa-Para-Volante-Preto",
+    "bestSeller": false
+  },
+  {
+    "id": "3985",
+    "name": "Martelo de Borracha Branco 60mm",
+    "reference": "12439",
+    "description": "O martelo de borracha é a ferramenta ideal para quem precisa aplicar força com precisão sem danificar a superfície. Fabricado com cabeça em borracha de alta resistência e cabo de madeira envernizada, oferece impacto suave e controlado, evitando marcas, riscos ou amassados.<br>Indicado para instalação de pisos, montagem de móveis, trabalhos de funilaria, ajustes em peças metálicas, marcenaria, vidraçaria e diversos serviços onde é necessário bater sem causar danos.<br>Robusto, durável e confortável de usar, o martelo de borracha garante resultados profissionais em qualquer aplicação.<br>",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/martelo-de-borracha-60mm-branco-rayco-12439/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171780/MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO.png?v=638990700745730000",
+    "imageAlt": "MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO",
     "bestSeller": false
   },
   {
@@ -734,6 +767,17 @@
     "link": "https://www.lojakian.com.br/lampada-led-bulbo-a60-12w-4-000k-branca-neutra-bivolt-kian---cx-10-17935/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169814/Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10.png?v=638260993982100000",
     "imageAlt": "Lampada-Led-Bulbo-A60-12W-4-000K-Branca-Neutra-Bivolt-Kian---CX-10",
+    "bestSeller": false
+  },
+  {
+    "id": "1977",
+    "name": "Mini Spot Led Redondo Branco 1W 6.500K Branca Fria Bivolt Kian",
+    "reference": "17841",
+    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/mini-spot-led-redondo-branco-1w-6-500k-branca-fria-bivolt-kian-17841/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169734/Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988585030000",
+    "imageAlt": "Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
@@ -877,6 +921,28 @@
     "link": "https://www.lojakian.com.br/luminaria-led-painel-recuado-quadrada-sobrepor-18w-3-000k-branca-quente-bivolt-kian-27394/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171586/Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-3-000K-Branca-Quente-Bivolt-Kian.png?v=638773959689300000",
     "imageAlt": "Luminaria-Led-Painel-Recuado-Quadrada-Sobrepor-18W-3-000K-Branca-Quente-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "3527",
+    "name": "Luminária Led Arandela 4 Dots Branco 4W 6.000K Branca fria Kian",
+    "reference": "27214",
+    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-arandela-4-dots-preto-4w-6-000k-branca-fria-kian-27214/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171524/Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian.png?v=638772087668900000",
+    "imageAlt": "Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "3501",
+    "name": "Luminária Led Arandela 4 Dots Preto 4W 6.000K Branca fria Kian",
+    "reference": "27210",
+    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/luminaria-led-arandela-4-dots-preto-4w-6-000k-branca-fria-kian-27210/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171516/Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian.png?v=638772076301030000",
+    "imageAlt": "Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian",
     "bestSeller": false
   },
   {
@@ -1463,17 +1529,6 @@
     "bestSeller": false
   },
   {
-    "id": "4377",
-    "name": "Rodo Para Pia 24cm Branco e Vermelho",
-    "reference": "22953",
-    "description": "O Rodo para Pia 24cm é ideal para remoção rápida de água e líquidos em pias e superfícies pequenas.<br> Com borracha resistente e design compacto, facilita a limpeza diária em cozinhas residênciais, bares, restaurantes, laboratórios e ambientes profissionais",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/rodo-para-pia-24cm-branco-e-vermelho-22953/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172000/Rodo-Para-Pia-24cm-Branco-e-Vermelho.jpg?v=639034791314400000",
-    "imageAlt": "Rodo-Para-Pia-24cm-Branco-e-Vermelho",
-    "bestSeller": false
-  },
-  {
     "id": "4231",
     "name": "Lupa 62mm",
     "reference": "14529",
@@ -1702,17 +1757,6 @@
     "link": "https://www.lojakian.com.br/ancinho-3-dentes-12--24055/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171785/Ancinho-3-Dentes-12-.png?v=638990880496170000",
     "imageAlt": "Ancinho-3-Dentes-12-",
-    "bestSeller": false
-  },
-  {
-    "id": "3985",
-    "name": "Martelo de Borracha Branco 60mm",
-    "reference": "12439",
-    "description": "O martelo de borracha é a ferramenta ideal para quem precisa aplicar força com precisão sem danificar a superfície. Fabricado com cabeça em borracha de alta resistência e cabo de madeira envernizada, oferece impacto suave e controlado, evitando marcas, riscos ou amassados.<br>Indicado para instalação de pisos, montagem de móveis, trabalhos de funilaria, ajustes em peças metálicas, marcenaria, vidraçaria e diversos serviços onde é necessário bater sem causar danos.<br>Robusto, durável e confortável de usar, o martelo de borracha garante resultados profissionais em qualquer aplicação.<br>",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/martelo-de-borracha-60mm-branco-rayco-12439/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171780/MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO.png?v=638990700745730000",
-    "imageAlt": "MARTELO-DE-BORRACHA-60MM-BRANCO-RAYCO",
     "bestSeller": false
   },
   {
@@ -2178,28 +2222,6 @@
     "bestSeller": false
   },
   {
-    "id": "3527",
-    "name": "Luminária Led Arandela 4 Dots Branco 4W 6.000K Branca fria Kian",
-    "reference": "27214",
-    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-arandela-4-dots-preto-4w-6-000k-branca-fria-kian-27214/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171524/Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian.png?v=638772087668900000",
-    "imageAlt": "Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "3501",
-    "name": "Luminária Led Arandela 4 Dots Preto 4W 6.000K Branca fria Kian",
-    "reference": "27210",
-    "description": "Escolha perfeita para criar uma atmosfera aconchegante e sofisticada. Com design moderno, ela proporciona conforto visual e destaca cada detalhe do seu espaço. Ideal para áreas internas, salas, corredores e varandas, essa luminária combina eficiência energética e durabilidade. Transforme seu ambiente com um toque de elegância e funcionalidade!",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/luminaria-led-arandela-4-dots-preto-4w-6-000k-branca-fria-kian-27210/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/171516/Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian.png?v=638772076301030000",
-    "imageAlt": "Luminaria-Led-Arandela-4-Dots-Preto-4W-6-000K-Branca-fria-Kian",
-    "bestSeller": false
-  },
-  {
     "id": "3383",
     "name": "Luminária Led Painel BKL Quadrada Embutir Branca 12W 6.000K Branca Fria Bivolt Kian",
     "reference": "24606",
@@ -2274,17 +2296,6 @@
     "link": "https://www.lojakian.com.br/painel-led-sobrepor-36w-120x15cm-4-000k-branca-neutra-caixa-alta-kian-19495/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169934/Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian.png?v=638261004168670000",
     "imageAlt": "Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "2381",
-    "name": "Terminal Para Fita Led 9MM Kian",
-    "reference": "17376",
-    "description": "Acessório para Fita Led",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/terminal-para-fita-led-9mm-kian-17376/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169645/Terminal-Para-Fita-Led-9MM-Kian.png?v=638260981594900000",
-    "imageAlt": "Terminal-Para-Fita-Led-9MM-Kian",
     "bestSeller": false
   },
   {
@@ -2373,17 +2384,6 @@
     "link": "https://www.lojakian.com.br/mini-spot-led-redondo-preto-1w-6-500k-branca-fria-bivolt-kian-17842/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169737/Mini-Spot-Led-Redondo-Preto-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988748330000",
     "imageAlt": "Mini-Spot-Led-Redondo-Preto-1W-6-500K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "1977",
-    "name": "Mini Spot Led Redondo Branco 1W 6.500K Branca Fria Bivolt Kian",
-    "reference": "17841",
-    "description": "Indicado para ambientes comerciais e residenciais, são perfeitos para iluminação de destaque, valorizando detalhes essenciais. Com design moderno e minimalista, o Led Spot possui facho de luz direcionável e podem ser instalados em tetos que permitam recorte para aplicação como: Madeira, forros de PVC, gesso, drywall entre outros. Disponíveis em vários modelos e potências nas cores branca fria e branca morna, atendem as mais diversas aplicações de design de interiores.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/mini-spot-led-redondo-branco-1w-6-500k-branca-fria-bivolt-kian-17841/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169734/Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian.png?v=638260988585030000",
-    "imageAlt": "Mini-Spot-Led-Redondo-Branco-1W-6-500K-Branca-Fria-Bivolt-Kian",
     "bestSeller": false
   },
   {
