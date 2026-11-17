@@ -198,14 +198,14 @@
     "bestSeller": true
   },
   {
-    "id": "2525",
-    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
-    "reference": "18648",
-    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
+    "id": "2443",
+    "name": "Painel Led Sobrepor 36W 120x15cm 4,000k Branca Neutra Caixa Alta Kian",
+    "reference": "19495",
+    "description": "Desing moderno que se harmoniza com os ambientes. Iluminação de alta potência com baixo consumo de energia. Podem ser usados em espaços residenciais e comerciais.",
     "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
-    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "link": "https://www.lojakian.com.br/painel-led-sobrepor-36w-120x15cm-4-000k-branca-neutra-caixa-alta-kian-19495/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169934/Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian.png?v=638261004168670000",
+    "imageAlt": "Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian",
     "bestSeller": true
   },
   {
@@ -385,28 +385,6 @@
     "bestSeller": false
   },
   {
-    "id": "4522",
-    "name": "Disco De Serra Circular 7.1/4' X 20mm 24D",
-    "reference": "12475",
-    "description": "O disco de serra circular 7.1/4\" x 20 mm com 24 dentes é ideal para cortes eficientes em madeira e derivados. Oferece bom desempenho, corte limpo e resistência, sendo indicado para uso em serras circulares manuais ou de bancada.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/disco-de-serra-circular-7-1-4--x-20mm-24d-12475/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172212/Disco-De-Serra-Circular-7-1-4--X-20mm-24D.png?v=639059211131770000",
-    "imageAlt": "Disco-De-Serra-Circular-7-1-4--X-20mm-24D",
-    "bestSeller": false
-  },
-  {
-    "id": "4507",
-    "name": "Jogo De Serra Copo 1\" Com 7 Peças",
-    "reference": "12412",
-    "description": "O jogo de serra copo 1\" com 7 peças é ideal para perfurações precisas em madeira, MDF, plástico e materiais similares. O conjunto inclui serras copo nos diâmetros de 26, 32, 38, 45, 50, 56 e 63 mm, garantindo versatilidade, bom acabamento e eficiência para uso doméstico ou profissional.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/jogo-de-serra-copo-1--com-7-pecas-12412/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172194/Jogo-De-Serra-Copo-1--Com-7-Pecas.png?v=639058093847400000",
-    "imageAlt": "Jogo-De-Serra-Copo-1--Com-7-Pecas",
-    "bestSeller": false
-  },
-  {
     "id": "4466",
     "name": "DOBRADIÇA RETA PARA MÓVEIS 35MM SEM PISTÃO COM 2 UNIDADES",
     "reference": "14897",
@@ -506,6 +484,17 @@
     "bestSeller": false
   },
   {
+    "id": "2525",
+    "name": "Lanterna Tática LED 6.000K Branca Fria + COB 6.000K Branca Fria Recarregável Kian",
+    "reference": "18648",
+    "description": "Equipamento portátil e compacto que emite luz concentrada e funciona com efeito de luz estroboscópia (luz pisca-alerta) e foco ajustável. Possibilita o carregamento em qualquer porta USB disponível, não sendo necessário se preocupar em comprar pilhas ou baterias novas.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/lanterna-tatica-led-6-000k-branca-fria---cob-6-000k-branca-fria-recarregavel-kian-18648/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169993/Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian.png?v=638267537281600000",
+    "imageAlt": "Lanterna-Tatica-LED-6-000K-Branca-Fria---COB-6-000K-Branca-Fria-Recarregavel-Kian",
+    "bestSeller": false
+  },
+  {
     "id": "1153",
     "name": "Lâmpada Led MR11 Dimerizável 3,5W 2.700K Branca Quente Base GU10 Bivolt Kian",
     "reference": "12736",
@@ -558,6 +547,28 @@
     "link": "https://www.lojakian.com.br/parafuso-para-tanque-com-bucha-12x60x90mm-com-2-unidades-13579/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172441/Parafuso-Para-Tanque-Com-Bucha-12X60X90mm-Com-2-unidades.png?v=639081373268230000",
     "imageAlt": "Parafuso-Para-Tanque-Com-Bucha-12X60X90mm-Com-2-unidades",
+    "bestSeller": false
+  },
+  {
+    "id": "4522",
+    "name": "Disco De Serra Circular 7.1/4' X 20mm 24D",
+    "reference": "12475",
+    "description": "O disco de serra circular 7.1/4\" x 20 mm com 24 dentes é ideal para cortes eficientes em madeira e derivados. Oferece bom desempenho, corte limpo e resistência, sendo indicado para uso em serras circulares manuais ou de bancada.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/disco-de-serra-circular-7-1-4--x-20mm-24d-12475/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172212/Disco-De-Serra-Circular-7-1-4--X-20mm-24D.png?v=639059211131770000",
+    "imageAlt": "Disco-De-Serra-Circular-7-1-4--X-20mm-24D",
+    "bestSeller": false
+  },
+  {
+    "id": "4507",
+    "name": "Jogo De Serra Copo 1\" Com 7 Peças",
+    "reference": "12412",
+    "description": "O jogo de serra copo 1\" com 7 peças é ideal para perfurações precisas em madeira, MDF, plástico e materiais similares. O conjunto inclui serras copo nos diâmetros de 26, 32, 38, 45, 50, 56 e 63 mm, garantindo versatilidade, bom acabamento e eficiência para uso doméstico ou profissional.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/jogo-de-serra-copo-1--com-7-pecas-12412/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172194/Jogo-De-Serra-Copo-1--Com-7-Pecas.png?v=639058093847400000",
+    "imageAlt": "Jogo-De-Serra-Copo-1--Com-7-Pecas",
     "bestSeller": false
   },
   {
@@ -792,17 +803,6 @@
     "bestSeller": false
   },
   {
-    "id": "4765",
-    "name": "Serra Copo Diamantada 25mm",
-    "reference": "14568",
-    "description": "A serra copo diamantada 25 mm é ideal para perfurações precisas em porcelanato, cerâmica, mármore, granito e outros materiais duros. Possui revestimento diamantado que garante maior durabilidade, corte limpo e eficiência, sendo indicada para uso profissional ou doméstico.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/serra-copo-diamantada-25mm-14568/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172362/Serra-Copo-Diamantada-25mm.png?v=639071867731530000",
-    "imageAlt": "Serra-Copo-Diamantada-25mm",
-    "bestSeller": false
-  },
-  {
     "id": "4638",
     "name": "Nível de Alumínio 3 Bolhas 12\"",
     "reference": "12442",
@@ -998,6 +998,17 @@
     "link": "https://www.lojakian.com.br/luminaria-de-mesa-flex-garra-preta-base-e27-bivolt-kian-7808/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/170427/Luminaria-De-Mesa-Flex-Garra-Preta-Base-E27-Bivolt-Kian.jpg?v=638508573951670000",
     "imageAlt": "Luminaria-De-Mesa-Flex-Garra-Preta-Base-E27-Bivolt-Kian",
+    "bestSeller": false
+  },
+  {
+    "id": "4765",
+    "name": "Serra Copo Diamantada 25mm",
+    "reference": "14568",
+    "description": "A serra copo diamantada 25 mm é ideal para perfurações precisas em porcelanato, cerâmica, mármore, granito e outros materiais duros. Possui revestimento diamantado que garante maior durabilidade, corte limpo e eficiência, sendo indicada para uso profissional ou doméstico.",
+    "category": "Últimas Oportunidades - Até 50%OFF",
+    "link": "https://www.lojakian.com.br/serra-copo-diamantada-25mm-14568/p",
+    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/172362/Serra-Copo-Diamantada-25mm.png?v=639071867731530000",
+    "imageAlt": "Serra-Copo-Diamantada-25mm",
     "bestSeller": false
   },
   {
@@ -2285,17 +2296,6 @@
     "link": "https://www.lojakian.com.br/spot-led-recuado-quadrado-preto-5w-6-000k-branca-fria-bivolt-kian-18036/p",
     "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169972/Spot-LED-Recuado-Quadrado-Preto-5W-6-000K-Branca-Fria-Bivolt-Kian.png?v=638267523598670000",
     "imageAlt": "Spot-LED-Recuado-Quadrado-Preto-5W-6-000K-Branca-Fria-Bivolt-Kian",
-    "bestSeller": false
-  },
-  {
-    "id": "2443",
-    "name": "Painel Led Sobrepor 36W 120x15cm 4,000k Branca Neutra Caixa Alta Kian",
-    "reference": "19495",
-    "description": "Desing moderno que se harmoniza com os ambientes. Iluminação de alta potência com baixo consumo de energia. Podem ser usados em espaços residenciais e comerciais.",
-    "category": "Últimas Oportunidades - Até 50%OFF",
-    "link": "https://www.lojakian.com.br/painel-led-sobrepor-36w-120x15cm-4-000k-branca-neutra-caixa-alta-kian-19495/p",
-    "imageUrl": "https://tb2958.vteximg.com.br/arquivos/ids/169934/Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian.png?v=638261004168670000",
-    "imageAlt": "Painel-Led-Sobrepor-36W-120x15cm-4-000k-Branca-Neutra-Caixa-Alta-Kian",
     "bestSeller": false
   },
   {
